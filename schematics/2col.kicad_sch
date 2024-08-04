@@ -1067,7 +1067,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "BadgeMagic:LED_0603"
 			(at 93.98 44.45 0)
 			(effects
 				(font
@@ -1219,7 +1219,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "BadgeMagic:LED_0603"
 			(at 68.58 44.45 0)
 			(effects
 				(font
@@ -1371,7 +1371,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "BadgeMagic:LED_0603"
 			(at 43.18 44.45 0)
 			(effects
 				(font
@@ -1523,7 +1523,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "BadgeMagic:LED_0603"
 			(at 74.93 26.67 0)
 			(effects
 				(font
@@ -1675,7 +1675,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "BadgeMagic:LED_0603"
 			(at 55.88 26.67 0)
 			(effects
 				(font
@@ -1827,7 +1827,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "BadgeMagic:LED_0603"
 			(at 36.83 26.67 0)
 			(effects
 				(font
@@ -1979,7 +1979,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "BadgeMagic:LED_0603"
 			(at 81.28 26.67 0)
 			(effects
 				(font
@@ -2131,7 +2131,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "BadgeMagic:LED_0603"
 			(at 43.18 26.67 0)
 			(effects
 				(font
@@ -2283,7 +2283,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "BadgeMagic:LED_0603"
 			(at 49.53 26.67 0)
 			(effects
 				(font
@@ -2435,7 +2435,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "BadgeMagic:LED_0603"
 			(at 68.58 26.67 0)
 			(effects
 				(font
@@ -2587,7 +2587,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "BadgeMagic:LED_0603"
 			(at 81.28 44.45 0)
 			(effects
 				(font
@@ -2739,7 +2739,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "BadgeMagic:LED_0603"
 			(at 93.98 26.67 0)
 			(effects
 				(font
@@ -2891,7 +2891,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "BadgeMagic:LED_0603"
 			(at 62.23 26.67 0)
 			(effects
 				(font
@@ -3043,7 +3043,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "BadgeMagic:LED_0603"
 			(at 100.33 44.45 0)
 			(effects
 				(font
@@ -3195,7 +3195,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "BadgeMagic:LED_0603"
 			(at 100.33 26.67 0)
 			(effects
 				(font
@@ -3347,7 +3347,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "BadgeMagic:LED_0603"
 			(at 87.63 44.45 0)
 			(effects
 				(font
@@ -3499,7 +3499,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "BadgeMagic:LED_0603"
 			(at 36.83 44.45 0)
 			(effects
 				(font
@@ -3651,7 +3651,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "BadgeMagic:LED_0603"
 			(at 55.88 44.45 0)
 			(effects
 				(font
@@ -3803,7 +3803,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "BadgeMagic:LED_0603"
 			(at 62.23 44.45 0)
 			(effects
 				(font
@@ -3955,7 +3955,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "BadgeMagic:LED_0603"
 			(at 49.53 44.45 0)
 			(effects
 				(font
@@ -4107,7 +4107,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "BadgeMagic:LED_0603"
 			(at 87.63 26.67 0)
 			(effects
 				(font
@@ -4259,7 +4259,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "BadgeMagic:LED_0603"
 			(at 74.93 44.45 0)
 			(effects
 				(font
