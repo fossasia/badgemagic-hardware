@@ -227,4 +227,15 @@
 		(thermal_bridge_angle 45)
 		(uuid "f91d1329-7a4b-4be2-bbd8-cb4a85252df9")
 	)
+	(model "${KIPRJMOD}/3dmodels/mic-WM-64PC.step"
+		(offset
+			(xyz -1.25 0 3)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 -90 0)
+		)
+	)
 )

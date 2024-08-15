@@ -624,7 +624,7 @@
 		(zone_connect 2)
 		(uuid "df850f2f-891e-4623-b486-04077419b8d2")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-48-1EP_5x5mm_P0.35mm_EP3.7x3.7mm.wrl"
+	(model "${KIPRJMOD}/3dmodels/QFN-5x5.step"
 		(offset
 			(xyz 0 0 0)
 		)
