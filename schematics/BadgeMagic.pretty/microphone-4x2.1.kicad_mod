@@ -1,4 +1,4 @@
-(footprint "WM-64PC"
+(footprint "microphone-4x2.1"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "WM-64PC"
+	(property "Value" "microphone-4x2.1"
 		(at 0 1 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -27,7 +27,7 @@
 			)
 		)
 	)
-	(property "Footprint" "WM-64PC"
+	(property "Footprint" "microphone-4x2.1"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -68,8 +68,8 @@
 	)
 	(attr smd)
 	(fp_line
-		(start -1.397 -3.048)
-		(end -1.397 3.048)
+		(start -1.27 -2)
+		(end -1.27 2)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -98,8 +98,8 @@
 		(uuid "fde76660-2621-4c62-8ea5-f44ce6a652cb")
 	)
 	(fp_rect
-		(start -1.1 -3)
-		(end 1.1 3)
+		(start -1 -2)
+		(end 1 2)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -120,8 +120,8 @@
 		(uuid "f9a21b38-42eb-4e2f-9451-ddfe690f786a")
 	)
 	(fp_line
-		(start -1.524 -3.175)
-		(end -1.524 3.175)
+		(start -1.397 -2.159)
+		(end -1.397 2.159)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -130,8 +130,8 @@
 		(uuid "f867fa4a-36c0-4805-9ec4-fa69b030c87c")
 	)
 	(fp_line
-		(start -1.524 -3.175)
-		(end 1.27 -3.175)
+		(start -1.397 -2.159)
+		(end 1.27 -2.159)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -140,8 +140,8 @@
 		(uuid "d1c55bd2-035c-4d21-8b3f-48deca1d86b1")
 	)
 	(fp_line
-		(start -1.524 3.175)
-		(end 1.27 3.175)
+		(start -1.397 2.159)
+		(end 1.27 2.159)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -150,7 +150,7 @@
 		(uuid "cf520018-bd7a-4906-a71c-2d26a5842105")
 	)
 	(fp_line
-		(start 1.27 -3.175)
+		(start 1.27 -2.159)
 		(end 1.27 -1.397)
 		(stroke
 			(width 0.05)
@@ -161,7 +161,7 @@
 	)
 	(fp_line
 		(start 1.27 -1.397)
-		(end 4.064 -1.397)
+		(end 3.683 -1.397)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -171,7 +171,7 @@
 	)
 	(fp_line
 		(start 1.27 1.397)
-		(end 1.27 3.175)
+		(end 1.27 2.159)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -180,8 +180,8 @@
 		(uuid "1b108399-b2fd-44d0-a5a9-639c7a048fb6")
 	)
 	(fp_line
-		(start 4.064 -1.397)
-		(end 4.064 1.397)
+		(start 3.683 -1.397)
+		(end 3.683 1.397)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -190,7 +190,7 @@
 		(uuid "fe852e77-0ba7-4783-ae36-c598a41c9ce1")
 	)
 	(fp_line
-		(start 4.064 1.397)
+		(start 3.683 1.397)
 		(end 1.27 1.397)
 		(stroke
 			(width 0.05)
@@ -227,7 +227,7 @@
 		(thermal_bridge_angle 45)
 		(uuid "f91d1329-7a4b-4be2-bbd8-cb4a85252df9")
 	)
-	(model "${KIPRJMOD}/3dmodels/mic-WM-64PC.step"
+	(model "${KIPRJMOD}/3dmodels/microphone-4x2.1.step"
 		(offset
 			(xyz -1.25 0 3)
 		)

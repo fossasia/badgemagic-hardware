@@ -24548,7 +24548,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "BadgeMagic:TestPoint_Pad_D0.6mm"
 			(at 77.47 172.72 0)
 			(effects
 				(font
@@ -25086,7 +25086,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "BadgeMagic:TestPoint_Pad_D0.6mm"
 			(at 74.93 172.72 0)
 			(effects
 				(font
@@ -26084,7 +26084,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "BadgeMagic:TestPoint_Pad_D0.6mm"
 			(at 82.55 177.8 0)
 			(effects
 				(font
@@ -26600,7 +26600,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "BadgeMagic:TestPoint_Pad_D0.6mm"
 			(at 80.01 177.8 0)
 			(effects
 				(font
@@ -27634,10 +27634,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c39ec084-628e-4154-9a6f-1be5eeaab16d")
 		(property "Reference" "MK1"
-			(at 361.95 126.3014 0)
+			(at 360.934 129.286 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27645,8 +27644,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "WM-64PC"
-			(at 361.95 128.8414 0)
+		(property "Value" "GMI4015-2C-30db"
+			(at 358.902 131.572 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27654,7 +27653,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "BadgeMagic:WM-64PC"
+		(property "Footprint" "BadgeMagic:microphone-4x2.1"
 			(at 358.14 125.73 90)
 			(effects
 				(font
@@ -27672,7 +27671,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Microphone"
+		(property "Description" "Microphone. GMI4015-2C-30db comes with a smaller package but will fit to the WM-64PC footprint anyway."
 			(at 358.14 128.27 0)
 			(effects
 				(font
