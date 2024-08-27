@@ -4,6 +4,16 @@ This repository contains the [Badge Magic](https://badgemagic.fossasia.org) LED 
 
 The Badge Magic board app lets you create moving text and draw clipart for LED name badges using a mobile or desktop Python app. You can visualize portray names, cliparts, and simple animations on the badges. For the data transfer from the smartphone or desktop apps to the LED badge it uses Bluetooth.
 
+## PCB Layout
+
+**Front side**
+
+![Badge Magic LED front side](docs/images/BadgeMagic-front.png)
+
+**Back side**
+
+![Badge Magic LED back side](docs/images/BadgeMagic-back.png)
+
 ## Applications and Firmware Source Repositories
 
 The following software components are available:
