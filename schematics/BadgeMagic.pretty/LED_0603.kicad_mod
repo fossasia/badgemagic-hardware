@@ -66,8 +66,8 @@
 	)
 	(attr smd)
 	(fp_line
-		(start -1.143 -0.635)
-		(end 1.143 -0.635)
+		(start -1.016 -0.508)
+		(end 1.016 -0.508)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -76,8 +76,8 @@
 		(uuid "5f061956-b91d-45f4-b57f-38aeb40795c3")
 	)
 	(fp_line
-		(start -1.143 0.635)
-		(end -1.143 -0.635)
+		(start -1.016 0.508)
+		(end -1.016 -0.508)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -86,8 +86,8 @@
 		(uuid "2dde7546-5f04-46b7-ad48-8cf9f8394899")
 	)
 	(fp_line
-		(start 1.143 -0.635)
-		(end 1.143 0.635)
+		(start 1.016 -0.508)
+		(end 1.016 0.508)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -96,8 +96,8 @@
 		(uuid "7bfde076-eefc-4f5b-8e45-4f5e4bf15a48")
 	)
 	(fp_line
-		(start 1.143 0.635)
-		(end -1.143 0.635)
+		(start 1.016 0.508)
+		(end -1.016 0.508)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -167,17 +167,17 @@
 		)
 	)
 	(pad "1" smd roundrect
-		(at -0.65 0)
-		(size 0.5 0.9)
+		(at -0.7 0)
+		(size 0.5 0.8)
 		(layers "F.Cu" "F.Paste" "F.Mask")
-		(roundrect_rratio 0.25)
+		(roundrect_rratio 0.3)
 		(uuid "902f25b0-cb45-4114-bb5f-def34f8704c7")
 	)
 	(pad "2" smd roundrect
-		(at 0.65 0)
-		(size 0.5 0.9)
+		(at 0.7 0)
+		(size 0.5 0.8)
 		(layers "F.Cu" "F.Paste" "F.Mask")
-		(roundrect_rratio 0.25)
+		(roundrect_rratio 0.3)
 		(uuid "dd9eecb5-87cb-42a6-baae-af0c098b27ff")
 	)
 	(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.wrl"

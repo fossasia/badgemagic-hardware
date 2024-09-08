@@ -372,6 +372,20 @@
 			)
 		)
 	)
+	(pad "" np_thru_hole circle
+		(at -2.89 -2.605)
+		(size 0.65 0.65)
+		(drill 0.65)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "bfcbbce6-d4fd-43a5-a45a-842792f1fe3d")
+	)
+	(pad "" np_thru_hole circle
+		(at 2.89 -2.605)
+		(size 0.65 0.65)
+		(drill 0.65)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "338f674f-0d74-4125-b13e-d907880dc0bd")
+	)
 	(pad "A1" smd roundrect
 		(at -3.2 -3.68)
 		(size 0.6 1.15)
@@ -502,7 +516,7 @@
 	)
 	(pad "S1" smd roundrect
 		(at -5.11 -3.105)
-		(size 2.18 2)
+		(size 1.5 1.2)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.125)
 		(thermal_bridge_angle 45)
@@ -510,7 +524,7 @@
 	)
 	(pad "S1" smd roundrect
 		(at -5.11 0.825)
-		(size 2.18 2)
+		(size 1.5 1.2)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.125)
 		(thermal_bridge_angle 45)
@@ -518,7 +532,7 @@
 	)
 	(pad "S1" smd roundrect
 		(at 5.11 -3.105)
-		(size 2.18 2)
+		(size 1.5 1.2)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.125)
 		(thermal_bridge_angle 45)
@@ -526,7 +540,7 @@
 	)
 	(pad "S1" smd roundrect
 		(at 5.11 0.825)
-		(size 2.18 2)
+		(size 1.5 1.2)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.125)
 		(thermal_bridge_angle 45)
