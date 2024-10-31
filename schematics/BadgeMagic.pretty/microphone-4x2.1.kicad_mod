@@ -229,7 +229,7 @@
 	)
 	(model "${KIPRJMOD}/3dmodels/microphone-4x2.1.step"
 		(offset
-			(xyz -1.25 0 3)
+			(xyz -1.25 0 2)
 		)
 		(scale
 			(xyz 1 1 1)

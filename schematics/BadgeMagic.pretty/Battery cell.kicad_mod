@@ -68,8 +68,8 @@
 	)
 	(attr smd)
 	(fp_rect
-		(start -27 -8)
-		(end 27 8)
+		(start -26 -8)
+		(end 26 8)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -79,7 +79,7 @@
 		(uuid "8ff5a01c-291f-4e8f-a46d-b71600653cef")
 	)
 	(fp_text user "-"
-		(at 30.846429 -1.905 0)
+		(at 29.846429 -1.705 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "178d16fd-0326-4c91-8acd-c11eb5996567")
@@ -93,7 +93,7 @@
 		)
 	)
 	(fp_text user "+"
-		(at 30.846429 3.175 0)
+		(at 29.846429 2.975 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "e3409ec9-7b86-4b8d-9e7a-09e4d35d1c37")
@@ -119,16 +119,16 @@
 		)
 	)
 	(pad "1" smd roundrect
-		(at 32 5)
-		(size 3 3)
+		(at 31 4.5)
+		(size 2.5 2.5)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "8f8724ef-f7dc-43a6-93f3-08fd72512d49")
 	)
 	(pad "2" smd roundrect
-		(at 32 -5)
-		(size 3 3)
+		(at 31 -4.5)
+		(size 2.5 2.5)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
@@ -139,7 +139,7 @@
 			(xyz 0 0 0)
 		)
 		(scale
-			(xyz 1 1 1)
+			(xyz 0.95 0.9 1)
 		)
 		(rotate
 			(xyz 0 0 0)
