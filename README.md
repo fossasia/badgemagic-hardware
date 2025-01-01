@@ -18,7 +18,7 @@ The Badge Magic board app lets you create moving text and draw clipart for LED n
 
 The following software components are available:
 * Firmware: https://github.com/fossasia/badgemagic-firmware
-* Android app: https://github.com/fossasia/badgemagic-android
+* Android app: https://github.com/fossasia/badgemagic-app
 
 ## Buy Device
 
