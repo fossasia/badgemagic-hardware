@@ -22,7 +22,7 @@ The following software components are available:
 
 ## Buy Device
 
-* You can get a the board at the [FOSSASIA Shop](https://fossasia.com).
+* You can get the board at the [FOSSASIA Shop](https://fossasia.com).
 
 ## Platform
 
