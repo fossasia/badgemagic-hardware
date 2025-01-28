@@ -1,0 +1,283 @@
+(footprint "microphone"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 3.2 -0.62 0)
+		(layer "F.SilkS")
+		(uuid "c16cb597-08ff-4965-ad19-6952af33950c")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "microphone"
+		(at -0.18 -4.71 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "b63f89c2-1997-446f-b1ae-36a3d6703945")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "microphone"
+		(at -0.18 -5.71 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "85eefa08-4d55-4b0c-9e11-6f756fb92bda")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at -0.031 -10.534 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "372a56f7-8df3-4a00-b567-dbdf3c06cce9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at -0.031 -10.534 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "da663cc3-4be1-448f-807d-ec375e20c04e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_arc
+		(start -0.974984 -0.55714)
+		(mid -0.782998 -0.80493)
+		(end -0.53 -0.99)
+		(stroke
+			(width 0.55)
+			(type default)
+		)
+		(layer "F.Cu")
+		(uuid "caf62c41-9eeb-41c6-9417-f461d6f873f2")
+	)
+	(fp_arc
+		(start 0.530001 -1.020001)
+		(mid 0.829669 0.744418)
+		(end -0.948799 0.544368)
+		(stroke
+			(width 0.55)
+			(type default)
+		)
+		(layer "F.Cu")
+		(uuid "5dd26311-8fd0-4173-96ef-939c7f0b66fb")
+	)
+	(fp_arc
+		(start -0.974984 -0.55714)
+		(mid -0.782998 -0.80493)
+		(end -0.53 -0.99)
+		(stroke
+			(width 0.55)
+			(type default)
+		)
+		(layer "F.Paste")
+		(uuid "e3da4a32-5754-464f-82df-5304c251e267")
+	)
+	(fp_arc
+		(start 0.530001 -1.020001)
+		(mid 0.829669 0.744418)
+		(end -0.948799 0.544368)
+		(stroke
+			(width 0.55)
+			(type default)
+		)
+		(layer "F.Paste")
+		(uuid "64b34f55-e10c-4721-862c-0866e4dcce8f")
+	)
+	(fp_circle
+		(center 0.01 0)
+		(end 1.91 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "8832b98e-071f-4633-9e1f-ac6e87785138")
+	)
+	(fp_arc
+		(start -0.974984 -0.55714)
+		(mid -0.782998 -0.80493)
+		(end -0.53 -0.99)
+		(stroke
+			(width 0.55)
+			(type default)
+		)
+		(layer "F.Mask")
+		(uuid "28eb48f7-8ce6-458b-bbb6-d6306aea5ff5")
+	)
+	(fp_arc
+		(start 0.53 -1.019999)
+		(mid 0.829668 0.74442)
+		(end -0.9488 0.54437)
+		(stroke
+			(width 0.55)
+			(type default)
+		)
+		(layer "F.Mask")
+		(uuid "a8a40f63-fbcc-4df6-8202-5e0f370cf7d2")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 2 0)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "b01f402a-22db-48bf-b00f-f404f4ebfbc8")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.18 -3.21 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "9c25da3b-cfbc-456b-8178-171c0f99d050")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd custom
+		(at -0.974984 -0.55714 150)
+		(size 0.55 0.55)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 90)
+		(options
+			(clearance outline)
+			(anchor circle)
+		)
+		(primitives)
+		(uuid "e8c90073-6d61-4696-9b2b-15a03d02e378")
+	)
+	(pad "1" smd custom
+		(at -0.9488 0.54437 150)
+		(size 0.55 0.55)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 90)
+		(options
+			(clearance outline)
+			(anchor circle)
+		)
+		(primitives)
+		(uuid "117333c2-db64-4630-9d05-ab29f2cf2e7e")
+	)
+	(pad "1" smd custom
+		(at -0.782998 -0.80493 150)
+		(size 0.55 0.55)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 90)
+		(options
+			(clearance outline)
+			(anchor circle)
+		)
+		(primitives)
+		(uuid "47071047-af95-4789-854f-e7257f40375c")
+	)
+	(pad "1" smd custom
+		(at -0.53 -0.99 150)
+		(size 0.55 0.55)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 90)
+		(options
+			(clearance outline)
+			(anchor circle)
+		)
+		(primitives)
+		(uuid "6f44224c-3eb1-4d2b-bdb4-48afa0414985")
+	)
+	(pad "1" smd custom
+		(at 0 1.1 150)
+		(size 0.55 0.55)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 90)
+		(options
+			(clearance outline)
+			(anchor circle)
+		)
+		(primitives)
+		(uuid "9945e1f8-73ea-44f6-9661-fe8f73b779df")
+	)
+	(pad "1" smd custom
+		(at 0.53 -1.019999 150)
+		(size 0.55 0.55)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 90)
+		(options
+			(clearance outline)
+			(anchor circle)
+		)
+		(primitives)
+		(uuid "63c01eda-1b2c-4843-9427-6ed2544cf6ea")
+	)
+	(pad "1" smd custom
+		(at 0.829669 0.744418 150)
+		(size 0.55 0.55)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 90)
+		(options
+			(clearance outline)
+			(anchor circle)
+		)
+		(primitives)
+		(uuid "41e8208a-64ac-4054-98aa-9fecd3a2f835")
+	)
+	(pad "1" smd custom
+		(at 1.14 0 150)
+		(size 0.55 0.55)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 90)
+		(options
+			(clearance outline)
+			(anchor circle)
+		)
+		(primitives)
+		(uuid "35027d9b-7b1f-4bab-89c2-7d82c9626b7b")
+	)
+	(pad "2" smd circle
+		(at 0 0)
+		(size 0.9 0.9)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "9b5a7a43-b1d8-4f06-ae83-30199999c64b")
+	)
+	(model "${KIPRJMOD}/3dmodels/microphone-4x2.1.step"
+		(hide yes)
+		(offset
+			(xyz -1.25 0 2)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 -90 0)
+		)
+	)
+)
