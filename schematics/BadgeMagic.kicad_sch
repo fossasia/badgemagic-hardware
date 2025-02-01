@@ -28352,7 +28352,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "NOR Flash"
 			(at 453.39 120.65 0)
 			(effects
 				(font
@@ -28370,7 +28370,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 444.5 119.38 0)
 			(effects
 				(font

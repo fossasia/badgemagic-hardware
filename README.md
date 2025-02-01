@@ -36,10 +36,13 @@ The following software components are available:
 - [XC6206P332MR](https://www.torexsemi.com/file/xc6206/XC6206.pdf)
 - [LP4054](https://xor.co.za/post/2022-11-30-hacking-smartwatch/LP4054-Lowpowersemi.pdf) 
 - [DW03](https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2112031830_Shenzhen-Fuman-Elec-DW02R_C2927928.pdf)
-- [USB-B Micro](https://mou.sr/3V4GnZ4)
+- [USB-C](https://www.usb.org/sites/default/files/documents/usb_type-c.zip)
+- Electret microphone
+- External flash storage
 - 32Mhz Crystal
 - 3.7v 280mAh Li-ion batterry
-- LEDs, buttons, resistors, capacitors.
+- LEDs, buttons, resistors, capacitors,
+- and [more](docs/bill-of-materials.csv)
 
 ## Hardware Specs
 
