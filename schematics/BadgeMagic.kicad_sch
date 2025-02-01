@@ -7452,6 +7452,12 @@
 		(uuid "e82df6c5-2299-4db3-a33c-989306a62909")
 	)
 	(junction
+		(at 444.5 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e9308fb3-a9b4-41bc-ae39-04a53528dfcd")
+	)
+	(junction
 		(at 123.19 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12464,6 +12470,16 @@
 			(type default)
 		)
 		(uuid "4ab2a188-e1c0-4fc1-af33-2e0d4efc43aa")
+	)
+	(wire
+		(pts
+			(xy 459.74 106.68) (xy 444.5 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4adb210e-4279-49f9-b31c-5acec509c918")
 	)
 	(wire
 		(pts
@@ -18994,6 +19010,16 @@
 			(type default)
 		)
 		(uuid "afbb472d-bbc0-4013-ac49-dfac7c175dd4")
+	)
+	(wire
+		(pts
+			(xy 459.74 106.68) (xy 459.74 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0046b21-b0f6-4f0e-a36c-a28acc7bebf1")
 	)
 	(wire
 		(pts
@@ -28858,6 +28884,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 459.74 110.49 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "855e5abf-66bd-4435-b19b-e14e1e75edaa")
+		(property "Reference" "C8"
+			(at 458.216 114.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.2uF"
+			(at 462.534 114.046 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 459.74 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 459.74 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10v 2.2uF"
+			(at 459.74 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a33c7cfa-68b3-4c9d-a8e1-783f9dc108e3")
+		)
+		(pin "2"
+			(uuid "54529ee8-fb29-47d1-b272-71e9a4eacf0c")
+		)
+		(instances
+			(project "BadgeMagic"
+				(path "/340d1399-c919-4933-9577-a39de42237cb"
+					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 374.65 116.84 90)
 		(unit 1)
@@ -30293,6 +30389,72 @@
 			(project "BadgeMagic"
 				(path "/340d1399-c919-4933-9577-a39de42237cb"
 					(reference "BT1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 459.74 113.03 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e4ac05d8-fd37-47c4-949d-a4f91e34c4ff")
+		(property "Reference" "#PWR036"
+			(at 459.74 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 459.74 117.094 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 459.74 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 459.74 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 459.74 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a83ebfeb-2756-4670-961a-22286a759898")
+		)
+		(instances
+			(project "BadgeMagic"
+				(path "/340d1399-c919-4933-9577-a39de42237cb"
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)

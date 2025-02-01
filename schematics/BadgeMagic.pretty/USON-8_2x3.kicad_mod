@@ -276,4 +276,15 @@
 		(zone_connect 2)
 		(uuid "3cdf3b30-a36a-4296-927c-363ad2b8f8d0")
 	)
+	(model "${KICAD8_3DMODEL_DIR}/Package_SON.3dshapes/Winbond_USON-8-1EP_3x2mm_P0.5mm_EP0.2x1.6mm.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
