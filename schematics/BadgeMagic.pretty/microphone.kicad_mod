@@ -1,0 +1,158 @@
+(footprint "microphone"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 3.2 -0.62 0)
+		(layer "F.SilkS")
+		(uuid "c16cb597-08ff-4965-ad19-6952af33950c")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "microphone"
+		(at -0.18 -4.71 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "b63f89c2-1997-446f-b1ae-36a3d6703945")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "microphone"
+		(at -0.18 -5.71 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "85eefa08-4d55-4b0c-9e11-6f756fb92bda")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at -0.031 -10.534 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "372a56f7-8df3-4a00-b567-dbdf3c06cce9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at -0.031 -10.534 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "da663cc3-4be1-448f-807d-ec375e20c04e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_circle
+		(center 0.01 0)
+		(end 1.91 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "8832b98e-071f-4633-9e1f-ac6e87785138")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 2 0)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "b01f402a-22db-48bf-b00f-f404f4ebfbc8")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.18 -3.21 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "9c25da3b-cfbc-456b-8178-171c0f99d050")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd custom
+		(at -0.782998 -0.80493 150)
+		(size 0.55 0.55)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 90)
+		(options
+			(clearance outline)
+			(anchor circle)
+		)
+		(primitives
+			(gr_arc
+				(start 0.04237 -0.310585)
+				(mid 0 0)
+				(end -0.126568 0.286774)
+				(width 0.55)
+			)
+		)
+		(uuid "47071047-af95-4789-854f-e7257f40375c")
+	)
+	(pad "1" smd custom
+		(at 0.829669 0.744418 150)
+		(size 0.55 0.55)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 90)
+		(options
+			(clearance outline)
+			(anchor circle)
+		)
+		(primitives
+			(gr_arc
+				(start 1.14173 1.378198)
+				(mid -0.000001 0.000002)
+				(end 1.640223 -0.715986)
+				(width 0.55)
+			)
+		)
+		(uuid "41e8208a-64ac-4054-98aa-9fecd3a2f835")
+	)
+	(pad "2" smd circle
+		(at 0 0)
+		(size 0.9 0.9)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "9b5a7a43-b1d8-4f06-ae83-30199999c64b")
+	)
+	(model "${KIPRJMOD}/3dmodels/microphone.step"
+		(offset
+			(xyz 0 0 1.34)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 180 0)
+		)
+	)
+)
