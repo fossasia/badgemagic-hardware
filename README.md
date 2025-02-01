@@ -40,7 +40,7 @@ The following software components are available:
 - Electret microphone
 - External flash storage
 - 32Mhz Crystal
-- 3.7v 280mAh Li-ion batterry
+- 3.7v 280mAh Li-ion battery
 - LEDs, buttons, resistors, capacitors,
 - and [more](docs/bill-of-materials.csv)
 
