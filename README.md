@@ -1,8 +1,6 @@
-# badgemagic-hardware
+# Badge Magic Hardware
 
-This repository contains the [Badge Magic](https://badgemagic.fossasia.org) LED hardware design files. Magically Create Text and Draw Cliparts on LED Name Badges using Bluetooth.
-
-The Badge Magic board app lets you create moving text and draw clipart for LED name badges using a mobile or desktop Python app. You can visualize portray names, cliparts, and simple animations on the badges. For the data transfer from the smartphone or desktop apps to the LED badge it uses Bluetooth.
+This repository contains the hardware design files for [Badge Magic](https://badgemagic.fossasia.org), an open-source LED badge platform that lets you create and display custom text, clipart, and animations over Bluetooth using the Badge Magic apps or Python libraries. While its latest hardware revision may not yet be mass-produced, it shares the same RISC-V chip as many other LED badges (e.g., LeSun, Victronics) but provides extra functionality, including a built-in microphone for real-time ambient sound visualization, external flash storage, and two top-mounted buttons that allow for mini-games and other interactive features. To see which functions are supported or in progress, visit the dedicated [firmware repository](https://github.com/fossasia/badgemagic-firmware). 
 
 ## PCB Layout
 
