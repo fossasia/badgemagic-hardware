@@ -8773,16 +8773,6 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 165.1) (xy 82.55 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0ebeac60-b7a8-456b-abed-c59e54b447c1")
-	)
-	(wire
-		(pts
 			(xy 124.46 58.42) (xy 123.19 58.42)
 		)
 		(stroke
@@ -8980,6 +8970,16 @@
 			(type default)
 		)
 		(uuid "132f4a1e-85e0-418e-b708-7fac789f364b")
+	)
+	(wire
+		(pts
+			(xy 82.55 165.1) (xy 82.55 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13550fe5-b302-4335-9467-d9ca205375f8")
 	)
 	(wire
 		(pts
@@ -11451,16 +11451,6 @@
 		)
 		(uuid "3a17e33b-ca71-4ef7-9ccc-1903608c2984")
 	)
-	(polyline
-		(pts
-			(xy 87.63 180.34) (xy 106.68 180.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3b1f2380-fa0d-4986-a478-73d0f06d2c77")
-	)
 	(wire
 		(pts
 			(xy 219.71 62.23) (xy 240.03 62.23)
@@ -12633,6 +12623,16 @@
 	)
 	(wire
 		(pts
+			(xy 80.01 165.1) (xy 80.01 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d7290eb-e188-466a-9ff9-95f6cf236401")
+	)
+	(wire
+		(pts
 			(xy 21.59 48.26) (xy 22.86 48.26)
 		)
 		(stroke
@@ -13083,6 +13083,16 @@
 	)
 	(wire
 		(pts
+			(xy 95.25 153.67) (xy 102.87 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5442dce2-6039-48bc-ae03-01d475a847ef")
+	)
+	(wire
+		(pts
 			(xy 265.43 43.18) (xy 265.43 44.45)
 		)
 		(stroke
@@ -13110,6 +13120,16 @@
 			(type default)
 		)
 		(uuid "54a0919e-672a-40b5-a522-a4b4ba4feca5")
+	)
+	(wire
+		(pts
+			(xy 95.25 151.13) (xy 102.87 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54b4d381-786e-41f9-b1f3-21a4458ad815")
 	)
 	(wire
 		(pts
@@ -14513,16 +14533,6 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 153.67) (xy 99.06 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6bcdafb5-ed1c-49d7-ae54-381a461ece89")
-	)
-	(wire
-		(pts
 			(xy 55.88 76.2) (xy 57.15 76.2)
 		)
 		(stroke
@@ -14990,16 +15000,6 @@
 			(type default)
 		)
 		(uuid "730a0ef4-fbf4-4534-ad8c-55694a1ade6c")
-	)
-	(wire
-		(pts
-			(xy 95.25 151.13) (xy 99.06 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "73400e5a-614e-4c67-ada3-e56d925126f7")
 	)
 	(wire
 		(pts
@@ -19163,16 +19163,6 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 165.1) (xy 80.01 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b1d2a50d-6eaf-46e9-8d25-231af8528b9c")
-	)
-	(wire
-		(pts
 			(xy 299.72 76.2) (xy 300.99 76.2)
 		)
 		(stroke
@@ -21530,16 +21520,6 @@
 			(type default)
 		)
 		(uuid "d7ddd1fb-c033-4594-a587-ecd0fa3cea92")
-	)
-	(polyline
-		(pts
-			(xy 83.82 176.53) (xy 87.63 180.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d7ebd87d-4f0c-4784-a5da-0669edcb7895")
 	)
 	(wire
 		(pts
@@ -24061,29 +24041,6 @@
 		)
 		(uuid "ffdcfe81-55f6-426b-a7c2-0b1315d24756")
 	)
-	(circle
-		(center 82.55 172.72)
-		(radius 6.35)
-		(stroke
-			(width 0.0254)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid aae6373f-0e28-41c2-9e12-dc3eda562a5e)
-	)
-	(text "TODO: check if these pins are capable of debugging"
-		(exclude_from_sim no)
-		(at 89.916 178.816 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a392d86b-3add-4996-a902-fb237c2cc6f7")
-	)
 	(text "^{1.} Reference designators on the original badge,\nwas replaced by unified notations for easy tracing."
 		(exclude_from_sim no)
 		(at 298.704 185.166 0)
@@ -24568,17 +24525,6 @@
 		)
 		(uuid "5f0e3590-9a61-473e-8b76-699361ce3d55")
 	)
-	(label "K"
-		(at 97.79 151.13 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "60cae01f-23bc-4b64-aacb-f564862ff4fb")
-	)
 	(label "T"
 		(at 16.51 69.85 0)
 		(fields_autoplaced yes)
@@ -24678,6 +24624,17 @@
 		)
 		(uuid "6c91b182-9040-4b6b-9c29-fca6c8dc8887")
 	)
+	(label "J"
+		(at 80.01 167.64 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6fb4e836-535c-4cd8-b9d1-f7a29e6c7d28")
+	)
 	(label "H"
 		(at 74.93 168.91 90)
 		(fields_autoplaced yes)
@@ -24766,6 +24723,17 @@
 		)
 		(uuid "88a560d6-90f8-4dda-9f6f-9b6390c2ecb8")
 	)
+	(label "TCK"
+		(at 97.79 153.67 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8aa8eb6b-1515-47bb-a349-1c1077c27dca")
+	)
 	(label "X32O"
 		(at 224.79 120.65 0)
 		(fields_autoplaced yes)
@@ -24820,17 +24788,6 @@
 			(justify left bottom)
 		)
 		(uuid "94860360-85a0-48af-81ef-07e7d4da92e6")
-	)
-	(label "J"
-		(at 97.79 153.67 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "965d8e0d-1b1d-418e-8b3e-48e75b4fe923")
 	)
 	(label "L"
 		(at 467.36 52.07 180)
@@ -24963,6 +24920,17 @@
 			(justify left bottom)
 		)
 		(uuid "a9c3cdcb-38c3-468a-8596-33f21cbb739c")
+	)
+	(label "K"
+		(at 82.55 167.64 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "ab911402-1409-4a0a-8691-c467dbf5eccb")
 	)
 	(label "R"
 		(at 467.36 67.31 180)
@@ -25447,6 +25415,17 @@
 			(justify left bottom)
 		)
 		(uuid "fc82cab2-275c-4be5-b1de-4ba2da033db8")
+	)
+	(label "TIO"
+		(at 97.79 151.13 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fd9baaae-95a8-4dba-82b7-89c37819e275")
 	)
 	(symbol
 		(lib_id "Device:R_Small")
@@ -26453,6 +26432,73 @@
 			(project "BadgeMagic"
 				(path "/340d1399-c919-4933-9577-a39de42237cb"
 					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint_Small")
+		(at 102.87 153.67 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "316c41d8-7e58-412e-a75b-df8d4a014ea0")
+		(property "Reference" "TP3"
+			(at 103.886 155.194 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 98.298 154.686 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "BadgeMagic:TestPoint_Pad_D0.6mm"
+			(at 107.95 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 107.95 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 102.87 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e92d595f-0740-4d33-9204-1c8a024cf6c7")
+		)
+		(instances
+			(project "BadgeMagic"
+				(path "/340d1399-c919-4933-9577-a39de42237cb"
+					(reference "TP3")
 					(unit 1)
 				)
 			)
@@ -27798,15 +27844,15 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint_Small")
-		(at 82.55 172.72 270)
+		(at 102.87 151.13 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(uuid "609784a6-108b-43ba-b9e6-f85501d59f4f")
-		(property "Reference" "TP3"
-			(at 83.82 172.974 90)
+		(uuid "63d3c69c-b8e3-4fbd-a0a5-b8d310704512")
+		(property "Reference" "TP4"
+			(at 103.124 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27814,17 +27860,18 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TIO"
-			(at 81.534 168.656 0)
+		(property "Value" "TestPoint"
+			(at 98.806 152.146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "BadgeMagic:TestPoint_Pad_D0.6mm"
-			(at 82.55 177.8 0)
+			(at 107.95 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27833,7 +27880,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 82.55 177.8 0)
+			(at 107.95 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27842,7 +27889,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 82.55 172.72 0)
+			(at 102.87 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27851,12 +27898,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "c02b13c0-c246-40fb-8726-e60b952e2da3")
+			(uuid "b95663ca-c720-433c-a231-9e4612608910")
 		)
 		(instances
 			(project "BadgeMagic"
 				(path "/340d1399-c919-4933-9577-a39de42237cb"
-					(reference "TP3")
+					(reference "TP4")
 					(unit 1)
 				)
 			)
@@ -28526,72 +28573,6 @@
 			(project "BadgeMagic"
 				(path "/340d1399-c919-4933-9577-a39de42237cb"
 					(reference "J2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint_Small")
-		(at 80.01 172.72 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "77700212-a5e2-44a4-a39a-7a9eef84a26a")
-		(property "Reference" "TP4"
-			(at 78.232 174.752 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TCK"
-			(at 78.994 168.148 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "BadgeMagic:TestPoint_Pad_D0.6mm"
-			(at 80.01 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 80.01 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 80.01 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c755f810-73b6-45ca-bee4-32340e1ce052")
-		)
-		(instances
-			(project "BadgeMagic"
-				(path "/340d1399-c919-4933-9577-a39de42237cb"
-					(reference "TP4")
 					(unit 1)
 				)
 			)

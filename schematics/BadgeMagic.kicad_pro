@@ -531,10 +531,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "bm-gerber-20240908/",
+      "plot": "bm-gerber-20250110/",
       "pos_files": "cpl",
       "specctra_dsn": "",
-      "step": "../../badgemagic-case/BadgeMagic.step",
+      "step": "../../badgemagic-case/BadgeMagic-board.step",
       "svg": "",
       "vrml": "../../badgemagic-case/BadgeMagic.wrl"
     },
