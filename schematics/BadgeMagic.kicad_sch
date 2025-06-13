@@ -4360,6 +4360,102 @@
 				)
 			)
 		)
+		(symbol "power:PWR_FLAG"
+			(power)
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#FLG"
+				(at 0 1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "PWR_FLAG"
+				(at 0 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Special symbol for telling ERC where power comes from"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "flag power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "PWR_FLAG_0_0"
+				(pin power_out line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "PWR_FLAG_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 1.27) (xy -1.016 1.905) (xy 0 2.54) (xy 1.016 1.905) (xy 0 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+		)
 		(symbol "power:VCC"
 			(power)
 			(pin_numbers hide)
@@ -24054,7 +24150,6 @@
 	)
 	(label "N"
 		(at 16.51 54.61 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24065,7 +24160,6 @@
 	)
 	(label "L"
 		(at 16.51 49.53 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24076,7 +24170,6 @@
 	)
 	(label "J"
 		(at 467.36 46.99 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24087,7 +24180,6 @@
 	)
 	(label "V"
 		(at 16.51 74.93 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24098,7 +24190,6 @@
 	)
 	(label "MIC"
 		(at 67.31 171.45 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24109,7 +24200,6 @@
 	)
 	(label "V"
 		(at 74.93 106.68 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24120,7 +24210,6 @@
 	)
 	(label "M"
 		(at 97.79 146.05 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24131,7 +24220,6 @@
 	)
 	(label "P"
 		(at 323.85 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24142,7 +24230,6 @@
 	)
 	(label "T"
 		(at 467.36 72.39 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24153,7 +24240,6 @@
 	)
 	(label "FLASH_DI"
 		(at 433.07 120.65 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24164,7 +24250,6 @@
 	)
 	(label "O"
 		(at 467.36 59.69 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24175,7 +24260,6 @@
 	)
 	(label "F"
 		(at 43.18 151.13 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24186,7 +24270,6 @@
 	)
 	(label "S"
 		(at 467.36 69.85 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24197,7 +24280,6 @@
 	)
 	(label "T"
 		(at 405.13 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24208,7 +24290,6 @@
 	)
 	(label "CHRG"
 		(at 173.99 157.48 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24219,7 +24300,6 @@
 	)
 	(label "X32O"
 		(at 64.77 106.68 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24230,7 +24310,6 @@
 	)
 	(label "RX"
 		(at 308.61 158.75 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24241,7 +24320,6 @@
 	)
 	(label "A"
 		(at 467.36 24.13 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24252,7 +24330,6 @@
 	)
 	(label "USB_DP"
 		(at 308.61 146.05 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24263,7 +24340,6 @@
 	)
 	(label "R"
 		(at 97.79 125.73 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24274,7 +24350,6 @@
 	)
 	(label "B"
 		(at 467.36 26.67 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24285,7 +24360,6 @@
 	)
 	(label "USB_DP"
 		(at 97.79 143.51 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24296,7 +24370,6 @@
 	)
 	(label "MIC"
 		(at 401.32 116.84 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24307,7 +24380,6 @@
 	)
 	(label "TX"
 		(at 308.61 156.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24318,7 +24390,6 @@
 	)
 	(label "W"
 		(at 16.51 77.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24329,7 +24400,6 @@
 	)
 	(label "G"
 		(at 140.97 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24340,7 +24410,6 @@
 	)
 	(label "D"
 		(at 97.79 138.43 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24351,7 +24420,6 @@
 	)
 	(label "L"
 		(at 242.57 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24362,7 +24430,6 @@
 	)
 	(label "BAT_MSR"
 		(at 208.28 163.83 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24373,7 +24440,6 @@
 	)
 	(label "FLASH_CS"
 		(at 433.07 115.57 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24384,7 +24450,6 @@
 	)
 	(label "H"
 		(at 161.29 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24395,7 +24460,6 @@
 	)
 	(label "M"
 		(at 262.89 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24406,7 +24470,6 @@
 	)
 	(label "H"
 		(at 467.36 41.91 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24417,7 +24480,6 @@
 	)
 	(label "Q"
 		(at 467.36 64.77 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24428,7 +24490,6 @@
 	)
 	(label "P"
 		(at 467.36 62.23 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24439,7 +24500,6 @@
 	)
 	(label "J"
 		(at 16.51 44.45 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24450,7 +24510,6 @@
 	)
 	(label "O"
 		(at 303.53 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24461,7 +24520,6 @@
 	)
 	(label "R"
 		(at 16.51 64.77 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24472,7 +24530,6 @@
 	)
 	(label "O"
 		(at 43.18 123.19 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24483,7 +24540,6 @@
 	)
 	(label "C"
 		(at 60.96 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24494,7 +24550,6 @@
 	)
 	(label "KEY1"
 		(at 45.72 133.35 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24505,7 +24560,6 @@
 	)
 	(label "D"
 		(at 80.01 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24516,7 +24570,6 @@
 	)
 	(label "VSW"
 		(at 243.84 118.11 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24527,7 +24580,6 @@
 	)
 	(label "T"
 		(at 16.51 69.85 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24538,7 +24590,6 @@
 	)
 	(label "B"
 		(at 16.51 22.86 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24549,7 +24600,6 @@
 	)
 	(label "N"
 		(at 283.21 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24560,7 +24610,6 @@
 	)
 	(label "KEY2"
 		(at 125.73 121.92 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24571,7 +24620,6 @@
 	)
 	(label "J"
 		(at 201.93 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24582,7 +24630,6 @@
 	)
 	(label "S"
 		(at 384.81 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24593,7 +24640,6 @@
 	)
 	(label "K"
 		(at 467.36 49.53 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24604,7 +24650,6 @@
 	)
 	(label "Q"
 		(at 16.51 62.23 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24615,7 +24660,6 @@
 	)
 	(label "S"
 		(at 97.79 123.19 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24626,7 +24670,6 @@
 	)
 	(label "J"
 		(at 80.01 167.64 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24637,7 +24680,6 @@
 	)
 	(label "H"
 		(at 74.93 168.91 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24648,7 +24690,6 @@
 	)
 	(label "FLASH_DI"
 		(at 45.72 138.43 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24659,7 +24700,6 @@
 	)
 	(label "X32I"
 		(at 67.31 106.68 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24670,7 +24710,6 @@
 	)
 	(label "N"
 		(at 97.79 133.35 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24681,7 +24720,6 @@
 	)
 	(label "F"
 		(at 467.36 36.83 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24692,7 +24730,6 @@
 	)
 	(label "C"
 		(at 97.79 120.65 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24703,7 +24740,6 @@
 	)
 	(label "FLASH_DO"
 		(at 45.72 143.51 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24714,7 +24750,6 @@
 	)
 	(label "K"
 		(at 222.25 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24725,7 +24760,6 @@
 	)
 	(label "TCK"
 		(at 97.79 153.67 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24736,7 +24770,6 @@
 	)
 	(label "X32O"
 		(at 224.79 120.65 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24747,7 +24780,6 @@
 	)
 	(label "USB_ON"
 		(at 45.72 135.89 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24758,7 +24790,6 @@
 	)
 	(label "P"
 		(at 16.51 59.69 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24769,7 +24800,6 @@
 	)
 	(label "USB_ON"
 		(at 318.77 128.27 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24780,7 +24810,6 @@
 	)
 	(label "U"
 		(at 77.47 106.68 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24791,7 +24820,6 @@
 	)
 	(label "L"
 		(at 467.36 52.07 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24802,7 +24830,6 @@
 	)
 	(label "FLASH_CS"
 		(at 82.55 107.95 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24813,7 +24840,6 @@
 	)
 	(label "E"
 		(at 100.33 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24824,7 +24850,6 @@
 	)
 	(label "D"
 		(at 467.36 31.75 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24835,7 +24860,6 @@
 	)
 	(label "V"
 		(at 445.77 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24846,7 +24870,6 @@
 	)
 	(label "N"
 		(at 467.36 57.15 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24857,7 +24880,6 @@
 	)
 	(label "P"
 		(at 97.79 128.27 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24868,7 +24890,6 @@
 	)
 	(label "C"
 		(at 16.51 26.67 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24879,7 +24900,6 @@
 	)
 	(label "Q"
 		(at 97.79 130.81 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24890,7 +24910,6 @@
 	)
 	(label "AUX_BTNS"
 		(at 124.46 138.43 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24901,7 +24920,6 @@
 	)
 	(label "W"
 		(at 72.39 106.68 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24912,7 +24930,6 @@
 	)
 	(label "E"
 		(at 16.51 31.75 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24923,7 +24940,6 @@
 	)
 	(label "K"
 		(at 82.55 167.64 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24934,7 +24950,6 @@
 	)
 	(label "R"
 		(at 467.36 67.31 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24945,7 +24960,6 @@
 	)
 	(label "I"
 		(at 16.51 41.91 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24956,7 +24970,6 @@
 	)
 	(label "USB_DN"
 		(at 308.61 143.51 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24967,7 +24980,6 @@
 	)
 	(label "CHRG"
 		(at 45.72 130.81 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24978,7 +24990,6 @@
 	)
 	(label "E"
 		(at 43.18 148.59 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24989,7 +25000,6 @@
 	)
 	(label "B"
 		(at 69.85 106.68 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25000,7 +25010,6 @@
 	)
 	(label "F"
 		(at 120.65 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25011,7 +25020,6 @@
 	)
 	(label "I"
 		(at 77.47 168.91 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25022,7 +25030,6 @@
 	)
 	(label "T"
 		(at 97.79 135.89 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25033,7 +25040,6 @@
 	)
 	(label "AUX_BTNS"
 		(at 45.72 146.05 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25044,7 +25050,6 @@
 	)
 	(label "KEY2"
 		(at 80.01 106.68 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25055,7 +25060,6 @@
 	)
 	(label "FLASH_CLK"
 		(at 433.07 118.11 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25066,7 +25070,6 @@
 	)
 	(label "L"
 		(at 97.79 148.59 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25077,7 +25080,6 @@
 	)
 	(label "VSW"
 		(at 62.23 172.72 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25088,7 +25090,6 @@
 	)
 	(label "B"
 		(at 39.37 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25099,7 +25100,6 @@
 	)
 	(label "A"
 		(at 16.51 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25110,7 +25110,6 @@
 	)
 	(label "F"
 		(at 16.51 34.29 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25121,7 +25120,6 @@
 	)
 	(label "D"
 		(at 16.51 29.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25132,7 +25130,6 @@
 	)
 	(label "TX"
 		(at 72.39 171.45 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25143,7 +25140,6 @@
 	)
 	(label "G"
 		(at 467.36 39.37 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25154,7 +25150,6 @@
 	)
 	(label "O"
 		(at 16.51 57.15 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25165,7 +25160,6 @@
 	)
 	(label "S"
 		(at 16.51 67.31 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25176,7 +25170,6 @@
 	)
 	(label "KEY1"
 		(at 125.73 115.57 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25187,7 +25180,6 @@
 	)
 	(label "E"
 		(at 467.36 34.29 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25198,7 +25190,6 @@
 	)
 	(label "U"
 		(at 425.45 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25209,7 +25200,6 @@
 	)
 	(label "G"
 		(at 43.18 153.67 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25220,7 +25210,6 @@
 	)
 	(label "R"
 		(at 364.49 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25231,7 +25220,6 @@
 	)
 	(label "M"
 		(at 467.36 54.61 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25242,7 +25230,6 @@
 	)
 	(label "X32I"
 		(at 212.09 120.65 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25253,7 +25240,6 @@
 	)
 	(label "USB_DN"
 		(at 97.79 140.97 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25264,7 +25250,6 @@
 	)
 	(label "BAT_MSR"
 		(at 45.72 125.73 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25275,7 +25260,6 @@
 	)
 	(label "I"
 		(at 181.61 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25286,7 +25270,6 @@
 	)
 	(label "H"
 		(at 16.51 39.37 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25297,7 +25280,6 @@
 	)
 	(label "C"
 		(at 467.36 29.21 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25308,7 +25290,6 @@
 	)
 	(label "A"
 		(at 43.18 140.97 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25319,7 +25300,6 @@
 	)
 	(label "G"
 		(at 16.51 36.83 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25330,7 +25310,6 @@
 	)
 	(label "FLASH_CLK"
 		(at 45.72 128.27 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25341,7 +25320,6 @@
 	)
 	(label "I"
 		(at 467.36 44.45 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25352,7 +25330,6 @@
 	)
 	(label "U"
 		(at 16.51 72.39 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25363,7 +25340,6 @@
 	)
 	(label "FLASH_DO"
 		(at 433.07 123.19 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25374,7 +25350,6 @@
 	)
 	(label "K"
 		(at 16.51 46.99 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25385,7 +25360,6 @@
 	)
 	(label "RX"
 		(at 69.85 171.45 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25396,7 +25370,6 @@
 	)
 	(label "Q"
 		(at 344.17 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25407,7 +25380,6 @@
 	)
 	(label "M"
 		(at 16.51 52.07 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25418,7 +25390,6 @@
 	)
 	(label "TIO"
 		(at 97.79 151.13 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -27115,6 +27086,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 33.02 172.72 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4931c3c9-faf6-4e0f-80b9-b948936a49e6")
+		(property "Reference" "#FLG02"
+			(at 33.02 174.625 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 33.02 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 33.02 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 33.02 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 33.02 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9ef16a0c-5ceb-4044-996f-492d92137e9e")
+		)
+		(instances
+			(project "BadgeMagic"
+				(path "/340d1399-c919-4933-9577-a39de42237cb"
+					(reference "#FLG02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 62.23 99.06 0)
 		(unit 1)
@@ -28245,6 +28282,137 @@
 			(project "BadgeMagic"
 				(path "/340d1399-c919-4933-9577-a39de42237cb"
 					(reference "SW1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 33.02 172.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6c51c449-f94e-4eed-9545-371facbdba7e")
+		(property "Reference" "#PWR038"
+			(at 33.02 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 33.02 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 33.02 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 33.02 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 33.02 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6e05ccb0-fe5a-4eb2-9d70-dc2cbd0c9539")
+		)
+		(instances
+			(project "BadgeMagic"
+				(path "/340d1399-c919-4933-9577-a39de42237cb"
+					(reference "#PWR038")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 24.13 172.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6da0886f-f051-430c-9265-18df99573770")
+		(property "Reference" "#PWR037"
+			(at 24.13 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 24.13 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 24.13 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 24.13 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 24.13 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4c9f8390-a524-476c-8379-741b29ab366b")
+		)
+		(instances
+			(project "BadgeMagic"
+				(path "/340d1399-c919-4933-9577-a39de42237cb"
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -29763,6 +29931,72 @@
 			(project "BadgeMagic"
 				(path "/340d1399-c919-4933-9577-a39de42237cb"
 					(reference "#PWR020")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 24.13 172.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c11b7a71-7351-400f-b862-32ffa174ea5b")
+		(property "Reference" "#FLG01"
+			(at 24.13 170.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 24.13 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 24.13 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 24.13 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 24.13 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dde17847-5fe5-4f02-8921-8d8f31f8f2c3")
+		)
+		(instances
+			(project ""
+				(path "/340d1399-c919-4933-9577-a39de42237cb"
+					(reference "#FLG01")
 					(unit 1)
 				)
 			)
