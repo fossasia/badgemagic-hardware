@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20231120)
+	(version 20250114)
 	(generator "eeschema")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(uuid "340d1399-c919-4933-9577-a39de42237cb")
 	(paper "User" 482.6 203.2)
 	(title_block
@@ -75,510 +75,6 @@
 					)
 					(fill
 						(type background)
-					)
-				)
-				(pin power_in line
-					(at -11.43 -27.94 90)
-					(length 2.54)
-					(name "VDCID"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 11.43 -27.94 90)
-					(length 2.54)
-					(name "PB16"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 24.13 -16.51 180)
-					(length 2.54)
-					(name "PB15"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 24.13 -13.97 180)
-					(length 2.54)
-					(name "PB14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 24.13 -11.43 180)
-					(length 2.54)
-					(name "PB13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 24.13 -8.89 180)
-					(length 2.54)
-					(name "PB12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 24.13 -6.35 180)
-					(length 2.54)
-					(name "PB11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "15"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 24.13 -3.81 180)
-					(length 2.54)
-					(name "PB10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "16"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 24.13 -1.27 180)
-					(length 2.54)
-					(name "PB7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "17"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 24.13 1.27 180)
-					(length 2.54)
-					(name "PB6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "18"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 24.13 3.81 180)
-					(length 2.54)
-					(name "PB5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "19"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_out line
-					(at -8.89 -27.94 90)
-					(length 2.54)
-					(name "VSW"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 24.13 6.35 180)
-					(length 2.54)
-					(name "PB4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "20"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 24.13 8.89 180)
-					(length 2.54)
-					(name "PB3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "21"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 24.13 11.43 180)
-					(length 2.54)
-					(name "PB2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "22"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 24.13 13.97 180)
-					(length 2.54)
-					(name "PB1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "23"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 24.13 16.51 180)
-					(length 2.54)
-					(name "PB0"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "24"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 11.43 27.94 270)
-					(length 2.54)
-					(name "PB23"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "25"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 8.89 27.94 270)
-					(length 2.54)
-					(name "PB22"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "26"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 6.35 27.94 270)
-					(length 2.54)
-					(name "PB21"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "27"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 3.81 27.94 270)
-					(length 2.54)
-					(name "PB20"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "28"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 1.27 27.94 270)
-					(length 2.54)
-					(name "PB19"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "29"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -6.35 -27.94 90)
-					(length 2.54)
-					(name "VIO33"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -1.27 27.94 270)
-					(length 2.54)
-					(name "PB18"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "30"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at -3.81 27.94 270)
-					(length 2.54)
-					(name "X32MO"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "31"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -6.35 27.94 270)
-					(length 2.54)
-					(name "X32MI"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "32"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -8.89 27.94 270)
-					(length 2.54)
-					(name "VINTA"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "33"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -11.43 27.94 270)
-					(length 2.54)
-					(name "ANT"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "34"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
 					)
 				)
 				(pin power_in line
@@ -664,24 +160,6 @@
 						)
 					)
 					(number "39"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -3.81 -27.94 90)
-					(length 2.54)
-					(name "PA7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -816,24 +294,6 @@
 					)
 				)
 				(pin bidirectional line
-					(at -24.13 -16.51 0)
-					(length 2.54)
-					(name "PA11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "47"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
 					(at -24.13 -13.97 0)
 					(length 2.54)
 					(name "PA10"
@@ -844,6 +304,24 @@
 						)
 					)
 					(number "48"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -24.13 -16.51 0)
+					(length 2.54)
+					(name "PA11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "47"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -870,6 +348,168 @@
 					)
 				)
 				(pin bidirectional line
+					(at -11.43 27.94 270)
+					(length 2.54)
+					(name "ANT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "34"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -11.43 -27.94 90)
+					(length 2.54)
+					(name "VDCID"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -8.89 27.94 270)
+					(length 2.54)
+					(name "VINTA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "33"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_out line
+					(at -8.89 -27.94 90)
+					(length 2.54)
+					(name "VSW"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -6.35 27.94 270)
+					(length 2.54)
+					(name "X32MI"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "32"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -6.35 -27.94 90)
+					(length 2.54)
+					(name "VIO33"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -3.81 27.94 270)
+					(length 2.54)
+					(name "X32MO"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "31"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -3.81 -27.94 90)
+					(length 2.54)
+					(name "PA7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -1.27 27.94 270)
+					(length 2.54)
+					(name "PB18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "30"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
 					(at -1.27 -27.94 90)
 					(length 2.54)
 					(name "PA8"
@@ -880,6 +520,24 @@
 						)
 					)
 					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 1.27 27.94 270)
+					(length 2.54)
+					(name "PB19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "29"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -906,6 +564,24 @@
 					)
 				)
 				(pin bidirectional line
+					(at 3.81 27.94 270)
+					(length 2.54)
+					(name "PB20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "28"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
 					(at 3.81 -27.94 90)
 					(length 2.54)
 					(name "PB9"
@@ -916,6 +592,24 @@
 						)
 					)
 					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 6.35 27.94 270)
+					(length 2.54)
+					(name "PB21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "27"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -942,6 +636,24 @@
 					)
 				)
 				(pin bidirectional line
+					(at 8.89 27.94 270)
+					(length 2.54)
+					(name "PB22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
 					(at 8.89 -27.94 90)
 					(length 2.54)
 					(name "PB17"
@@ -959,7 +671,296 @@
 						)
 					)
 				)
+				(pin bidirectional line
+					(at 11.43 27.94 270)
+					(length 2.54)
+					(name "PB23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "25"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 11.43 -27.94 90)
+					(length 2.54)
+					(name "PB16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 24.13 16.51 180)
+					(length 2.54)
+					(name "PB0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 24.13 13.97 180)
+					(length 2.54)
+					(name "PB1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 24.13 11.43 180)
+					(length 2.54)
+					(name "PB2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 24.13 8.89 180)
+					(length 2.54)
+					(name "PB3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 24.13 6.35 180)
+					(length 2.54)
+					(name "PB4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 24.13 3.81 180)
+					(length 2.54)
+					(name "PB5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 24.13 1.27 180)
+					(length 2.54)
+					(name "PB6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 24.13 -1.27 180)
+					(length 2.54)
+					(name "PB7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 24.13 -3.81 180)
+					(length 2.54)
+					(name "PB10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 24.13 -6.35 180)
+					(length 2.54)
+					(name "PB11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 24.13 -8.89 180)
+					(length 2.54)
+					(name "PB12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 24.13 -11.43 180)
+					(length 2.54)
+					(name "PB13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 24.13 -13.97 180)
+					(length 2.54)
+					(name "PB14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 24.13 -16.51 180)
+					(length 2.54)
+					(name "PB15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "BadgeMagic:DW02R"
 			(exclude_from_sim no)
@@ -1031,9 +1032,28 @@
 				)
 			)
 			(symbol "DW02R_1_1"
+				(pin power_in line
+					(at -10.16 2.54 0)
+					(length 2.54)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 				(pin no_connect line
 					(at -10.16 -2.54 0)
-					(length 2.54) hide
+					(length 2.54)
+					(hide yes)
 					(name "NC"
 						(effects
 							(font
@@ -1060,24 +1080,6 @@
 						)
 					)
 					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -10.16 2.54 0)
-					(length 2.54)
-					(name "VDD"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1122,6 +1124,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "BadgeMagic:ZD25WD"
 			(exclude_from_sim no)
@@ -1202,35 +1205,17 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -10.16 -3.81 0)
+				(pin input line
+					(at -10.16 1.27 0)
 					(length 2.54)
-					(name "DO(IO1)"
+					(name "CLK"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 0 -12.7 90)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
+					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1256,17 +1241,17 @@
 						)
 					)
 				)
-				(pin input line
-					(at -10.16 1.27 0)
+				(pin bidirectional line
+					(at -10.16 -3.81 0)
 					(length 2.54)
-					(name "CLK"
+					(name "DO(IO1)"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "6"
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1285,6 +1270,24 @@
 						)
 					)
 					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -12.7 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1311,6 +1314,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "Battery_Management:LTC4054ES5-4.2"
 			(exclude_from_sim no)
@@ -1410,6 +1414,42 @@
 						)
 					)
 				)
+				(pin bidirectional line
+					(at -10.16 -2.54 0)
+					(length 2.54)
+					(name "PROG"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 7.62 270)
+					(length 2.54)
+					(name "V_{CC}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 				(pin power_in line
 					(at 0 -10.16 90)
 					(length 2.54)
@@ -1446,48 +1486,17 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 0 7.62 270)
-					(length 2.54)
-					(name "V_{CC}"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -10.16 -2.54 0)
-					(length 2.54)
-					(name "PROG"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "Connector:TestPoint_Small"
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 0.762) hide)
+				(offset 0.762)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1585,6 +1594,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "Connector:USB_C_Receptacle_USB2.0_16P"
 			(pin_names
@@ -1667,74 +1677,8 @@
 					)
 				)
 				(rectangle
-					(start 10.16 -14.986)
-					(end 9.144 -15.494)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 -12.446)
-					(end 9.144 -12.954)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 -4.826)
-					(end 9.144 -5.334)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 -2.286)
-					(end 9.144 -2.794)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 0.254)
-					(end 9.144 -0.254)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 2.794)
-					(end 9.144 2.286)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 7.874)
-					(end 9.144 7.366)
+					(start 10.16 15.494)
+					(end 9.144 14.986)
 					(stroke
 						(width 0)
 						(type default)
@@ -1755,8 +1699,74 @@
 					)
 				)
 				(rectangle
-					(start 10.16 15.494)
-					(end 9.144 14.986)
+					(start 10.16 7.874)
+					(end 9.144 7.366)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 10.16 2.794)
+					(end 9.144 2.286)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 10.16 0.254)
+					(end 9.144 -0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 10.16 -2.286)
+					(end 9.144 -2.794)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 10.16 -4.826)
+					(end 9.144 -5.334)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 10.16 -12.446)
+					(end 9.144 -12.954)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 10.16 -14.986)
+					(end 9.144 -15.494)
 					(stroke
 						(width 0)
 						(type default)
@@ -1778,40 +1788,16 @@
 						(type background)
 					)
 				)
-				(arc
-					(start -8.89 -3.81)
-					(mid -6.985 -5.7067)
-					(end -5.08 -3.81)
+				(polyline
+					(pts
+						(xy -8.89 -3.81) (xy -8.89 3.81)
+					)
 					(stroke
 						(width 0.508)
 						(type default)
 					)
 					(fill
 						(type none)
-					)
-				)
-				(arc
-					(start -7.62 -3.81)
-					(mid -6.985 -4.4423)
-					(end -6.35 -3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -7.62 -3.81)
-					(mid -6.985 -4.4423)
-					(end -6.35 -3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
 					)
 				)
 				(rectangle
@@ -1826,9 +1812,9 @@
 					)
 				)
 				(arc
-					(start -6.35 3.81)
+					(start -7.62 3.81)
 					(mid -6.985 4.4423)
-					(end -7.62 3.81)
+					(end -6.35 3.81)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -1838,9 +1824,9 @@
 					)
 				)
 				(arc
-					(start -6.35 3.81)
+					(start -7.62 3.81)
 					(mid -6.985 4.4423)
-					(end -7.62 3.81)
+					(end -6.35 3.81)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -1850,9 +1836,57 @@
 					)
 				)
 				(arc
-					(start -5.08 3.81)
+					(start -8.89 3.81)
 					(mid -6.985 5.7067)
-					(end -8.89 3.81)
+					(end -5.08 3.81)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -5.08 -3.81)
+					(mid -6.985 -5.7067)
+					(end -8.89 -3.81)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -6.35 -3.81)
+					(mid -6.985 -4.4423)
+					(end -7.62 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -6.35 -3.81)
+					(mid -6.985 -4.4423)
+					(end -7.62 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 3.81) (xy -5.08 -3.81)
+					)
 					(stroke
 						(width 0.508)
 						(type default)
@@ -1872,11 +1906,12 @@
 						(type outline)
 					)
 				)
-				(circle
-					(center 0 -5.842)
-					(radius 1.27)
+				(polyline
+					(pts
+						(xy -1.27 4.318) (xy 0 6.858) (xy 1.27 4.318) (xy -1.27 4.318)
+					)
 					(stroke
-						(width 0)
+						(width 0.254)
 						(type default)
 					)
 					(fill
@@ -1885,31 +1920,7 @@
 				)
 				(polyline
 					(pts
-						(xy -8.89 -3.81) (xy -8.89 3.81)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -5.08 3.81) (xy -5.08 -3.81)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -5.842) (xy 0 4.318)
+						(xy 0 -2.032) (xy 2.54 0.508) (xy 2.54 1.778)
 					)
 					(stroke
 						(width 0.508)
@@ -1933,7 +1944,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0 -2.032) (xy 2.54 0.508) (xy 2.54 1.778)
+						(xy 0 -5.842) (xy 0 4.318)
 					)
 					(stroke
 						(width 0.508)
@@ -1943,12 +1954,11 @@
 						(type none)
 					)
 				)
-				(polyline
-					(pts
-						(xy -1.27 4.318) (xy 0 6.858) (xy 1.27 4.318) (xy -1.27 4.318)
-					)
+				(circle
+					(center 0 -5.842)
+					(radius 1.27)
 					(stroke
-						(width 0.254)
+						(width 0)
 						(type default)
 					)
 					(fill
@@ -1969,6 +1979,24 @@
 			)
 			(symbol "USB_C_Receptacle_USB2.0_16P_1_1"
 				(pin passive line
+					(at -7.62 -22.86 90)
+					(length 5.08)
+					(name "SHIELD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "S1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
 					(at 0 -22.86 90)
 					(length 5.08)
 					(name "GND"
@@ -1988,7 +2016,8 @@
 				)
 				(pin passive line
 					(at 0 -22.86 90)
-					(length 5.08) hide
+					(length 5.08)
+					(hide yes)
 					(name "GND"
 						(effects
 							(font
@@ -1997,6 +2026,44 @@
 						)
 					)
 					(number "A12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -22.86 90)
+					(length 5.08)
+					(hide yes)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -22.86 90)
+					(length 5.08)
+					(hide yes)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B12"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2015,6 +2082,63 @@
 						)
 					)
 					(number "A4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 15.24 15.24 180)
+					(length 5.08)
+					(hide yes)
+					(name "VBUS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "A9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 15.24 15.24 180)
+					(length 5.08)
+					(hide yes)
+					(name "VBUS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 15.24 15.24 180)
+					(length 5.08)
+					(hide yes)
+					(name "VBUS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B9"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2041,16 +2165,16 @@
 					)
 				)
 				(pin bidirectional line
-					(at 15.24 -2.54 180)
+					(at 15.24 7.62 180)
 					(length 5.08)
-					(name "D+"
+					(name "CC2"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "A6"
+					(number "B5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2077,88 +2201,16 @@
 					)
 				)
 				(pin bidirectional line
-					(at 15.24 -12.7 180)
+					(at 15.24 0 180)
 					(length 5.08)
-					(name "SBU1"
+					(name "D-"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "A8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 15.24 15.24 180)
-					(length 5.08) hide
-					(name "VBUS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -22.86 90)
-					(length 5.08) hide
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -22.86 90)
-					(length 5.08) hide
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 15.24 15.24 180)
-					(length 5.08) hide
-					(name "VBUS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B4"
+					(number "B7"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2167,16 +2219,16 @@
 					)
 				)
 				(pin bidirectional line
-					(at 15.24 7.62 180)
+					(at 15.24 -2.54 180)
 					(length 5.08)
-					(name "CC2"
+					(name "D+"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "B5"
+					(number "A6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2203,16 +2255,16 @@
 					)
 				)
 				(pin bidirectional line
-					(at 15.24 0 180)
+					(at 15.24 -12.7 180)
 					(length 5.08)
-					(name "D-"
+					(name "SBU1"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "B7"
+					(number "A8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2238,47 +2290,14 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 15.24 15.24 180)
-					(length 5.08) hide
-					(name "VBUS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -22.86 90)
-					(length 5.08)
-					(name "SHIELD"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "S1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "Connector_Generic:Conn_01x02"
 			(pin_names
-				(offset 1.016) hide)
+				(offset 1.016)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2345,14 +2364,14 @@
 			)
 			(symbol "Conn_01x02_1_1"
 				(rectangle
-					(start -1.27 -2.413)
-					(end 0 -2.667)
+					(start -1.27 1.27)
+					(end 1.27 -3.81)
 					(stroke
-						(width 0.1524)
+						(width 0.254)
 						(type default)
 					)
 					(fill
-						(type none)
+						(type background)
 					)
 				)
 				(rectangle
@@ -2367,14 +2386,14 @@
 					)
 				)
 				(rectangle
-					(start -1.27 1.27)
-					(end 1.27 -3.81)
+					(start -1.27 -2.413)
+					(end 0 -2.667)
 					(stroke
-						(width 0.254)
+						(width 0.1524)
 						(type default)
 					)
 					(fill
-						(type background)
+						(type none)
 					)
 				)
 				(pin passive line
@@ -2414,11 +2433,16 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "Device:Antenna_Shield"
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 1.016) hide)
+				(offset 1.016)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2478,33 +2502,9 @@
 			)
 			(symbol "Antenna_Shield_0_1"
 				(arc
-					(start -0.508 -1.143)
-					(mid -0.8429 -2.1194)
-					(end 0 -2.667)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
 					(start 0 -2.667)
-					(mid 0.7989 -2.1052)
-					(end 0.508 -1.143)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -2.54) (xy 0 0)
-					)
+					(mid -0.8485 -2.1032)
+					(end -0.508 -1.143)
 					(stroke
 						(width 0)
 						(type default)
@@ -2527,10 +2527,57 @@
 				)
 				(polyline
 					(pts
+						(xy 0 -2.54) (xy 0 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0.508 -1.143)
+					(mid 0.8046 -2.0885)
+					(end 0 -2.667)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
 						(xy 0.762 -1.905) (xy 2.54 -1.905)
 					)
 					(stroke
 						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0.762 -1.905)
+					(radius 0.1778)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 5.08) (xy 0 0) (xy -1.27 5.08)
+					)
+					(stroke
+						(width 0.254)
 						(type default)
 					)
 					(fill
@@ -2547,29 +2594,6 @@
 					)
 					(fill
 						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 5.08) (xy 0 0) (xy -1.27 5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 0.762 -1.905)
-					(radius 0.1778)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
 					)
 				)
 			)
@@ -2611,11 +2635,16 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "Device:Battery_Cell"
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 0) hide)
+				(offset 0)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2698,7 +2727,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0 0.762) (xy 0 0)
+						(xy 0 1.778) (xy 0 2.54)
 					)
 					(stroke
 						(width 0)
@@ -2710,7 +2739,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0 1.778) (xy 0 2.54)
+						(xy 0 0.762) (xy 0 0)
 					)
 					(stroke
 						(width 0)
@@ -2783,11 +2812,16 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "Device:C_Small"
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 0.254) hide)
+				(offset 0.254)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2857,10 +2891,10 @@
 			(symbol "C_Small_0_1"
 				(polyline
 					(pts
-						(xy -1.524 -0.508) (xy 1.524 -0.508)
+						(xy -1.524 0.508) (xy 1.524 0.508)
 					)
 					(stroke
-						(width 0.3302)
+						(width 0.3048)
 						(type default)
 					)
 					(fill
@@ -2869,10 +2903,10 @@
 				)
 				(polyline
 					(pts
-						(xy -1.524 0.508) (xy 1.524 0.508)
+						(xy -1.524 -0.508) (xy 1.524 -0.508)
 					)
 					(stroke
-						(width 0.3048)
+						(width 0.3302)
 						(type default)
 					)
 					(fill
@@ -2918,10 +2952,13 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "Device:Crystal_GND24_Small"
 			(pin_names
-				(offset 1.016) hide)
+				(offset 1.016)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2989,9 +3026,10 @@
 				)
 			)
 			(symbol "Crystal_GND24_Small_0_1"
-				(rectangle
-					(start -0.762 -1.524)
-					(end 0.762 1.524)
+				(polyline
+					(pts
+						(xy -1.27 1.27) (xy -1.27 1.905) (xy 1.27 1.905) (xy 1.27 1.27)
+					)
 					(stroke
 						(width 0)
 						(type default)
@@ -3014,18 +3052,6 @@
 				)
 				(polyline
 					(pts
-						(xy 1.27 -0.762) (xy 1.27 0.762)
-					)
-					(stroke
-						(width 0.381)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
 						(xy -1.27 -1.27) (xy -1.27 -1.905) (xy 1.27 -1.905) (xy 1.27 -1.27)
 					)
 					(stroke
@@ -3036,12 +3062,23 @@
 						(type none)
 					)
 				)
-				(polyline
-					(pts
-						(xy -1.27 1.27) (xy -1.27 1.905) (xy 1.27 1.905) (xy 1.27 1.27)
-					)
+				(rectangle
+					(start -0.762 -1.524)
+					(end 0.762 1.524)
 					(stroke
 						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -0.762) (xy 1.27 0.762)
+					)
+					(stroke
+						(width 0.381)
 						(type default)
 					)
 					(fill
@@ -3061,6 +3098,24 @@
 						)
 					)
 					(number "1"
+						(effects
+							(font
+								(size 0.762 0.762)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 2.54 270)
+					(length 0.635)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
 						(effects
 							(font
 								(size 0.762 0.762)
@@ -3104,29 +3159,14 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 0 2.54 270)
-					(length 0.635)
-					(name "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 0.762 0.762)
-							)
-						)
-					)
-				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "Device:Microphone"
 			(pin_names
-				(offset 0.0254) hide)
+				(offset 0.0254)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -3197,6 +3237,17 @@
 						(type none)
 					)
 				)
+				(circle
+					(center 0 0)
+					(radius 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
 				(polyline
 					(pts
 						(xy 0.254 3.81) (xy 0.762 3.81)
@@ -3221,37 +3272,8 @@
 						(type none)
 					)
 				)
-				(circle
-					(center 0 0)
-					(radius 2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
 			)
 			(symbol "Microphone_1_1"
-				(pin passive line
-					(at 0 -5.08 90)
-					(length 2.54)
-					(name "-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
 				(pin passive line
 					(at 0 5.08 270)
 					(length 2.54)
@@ -3270,12 +3292,35 @@
 						)
 					)
 				)
+				(pin passive line
+					(at 0 -5.08 90)
+					(length 2.54)
+					(name "-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "Device:R_Small"
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 0.254) hide)
+				(offset 0.254)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -3393,6 +3438,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "Regulator_Linear:XC6206PxxxMR"
 			(pin_names
@@ -3479,6 +3525,24 @@
 			)
 			(symbol "XC6206PxxxMR_1_1"
 				(pin power_in line
+					(at -7.62 0 0)
+					(length 2.54)
+					(name "VI"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
 					(at 0 -7.62 90)
 					(length 2.54)
 					(name "GND"
@@ -3514,29 +3578,14 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at -7.62 0 0)
-					(length 2.54)
-					(name "VI"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "Switch:SW_DIP_x01"
 			(pin_names
-				(offset 0) hide)
+				(offset 0)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -3688,11 +3737,16 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "Switch:SW_Push"
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 1.016) hide)
+				(offset 1.016)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -3773,10 +3827,9 @@
 						(type none)
 					)
 				)
-				(polyline
-					(pts
-						(xy 2.54 1.27) (xy -2.54 1.27)
-					)
+				(circle
+					(center 2.032 0)
+					(radius 0.508)
 					(stroke
 						(width 0)
 						(type default)
@@ -3785,9 +3838,10 @@
 						(type none)
 					)
 				)
-				(circle
-					(center 2.032 0)
-					(radius 0.508)
+				(polyline
+					(pts
+						(xy 2.54 1.27) (xy -2.54 1.27)
+					)
 					(stroke
 						(width 0)
 						(type default)
@@ -3833,10 +3887,13 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "Transistor_BJT:MMBT3904"
 			(pin_names
-				(offset 0) hide)
+				(offset 0)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -3909,6 +3966,18 @@
 			(symbol "MMBT3904_0_1"
 				(polyline
 					(pts
+						(xy 0.635 1.905) (xy 0.635 -1.905) (xy 0.635 -1.905)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
 						(xy 0.635 0.635) (xy 2.54 2.54)
 					)
 					(stroke
@@ -3931,12 +4000,11 @@
 						(type none)
 					)
 				)
-				(polyline
-					(pts
-						(xy 0.635 1.905) (xy 0.635 -1.905) (xy 0.635 -1.905)
-					)
+				(circle
+					(center 1.27 0)
+					(radius 2.8194)
 					(stroke
-						(width 0.508)
+						(width 0.254)
 						(type default)
 					)
 					(fill
@@ -3955,17 +4023,6 @@
 						(type outline)
 					)
 				)
-				(circle
-					(center 1.27 0)
-					(radius 2.8194)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
 			)
 			(symbol "MMBT3904_1_1"
 				(pin input line
@@ -3979,24 +4036,6 @@
 						)
 					)
 					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 -5.08 90)
-					(length 2.54)
-					(name "E"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4022,13 +4061,36 @@
 						)
 					)
 				)
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(name "E"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "power:+5V"
 			(power)
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 0) hide)
+				(offset 0)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -4100,7 +4162,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 2.54)
+						(xy 0 2.54) (xy 0.762 1.27)
 					)
 					(stroke
 						(width 0)
@@ -4112,7 +4174,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
+						(xy 0 0) (xy 0 2.54)
 					)
 					(stroke
 						(width 0)
@@ -4143,12 +4205,17 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "power:+BATT"
 			(power)
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 0) hide)
+				(offset 0)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -4220,7 +4287,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 2.54)
+						(xy 0 2.54) (xy 0.762 1.27)
 					)
 					(stroke
 						(width 0)
@@ -4232,7 +4299,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
+						(xy 0 0) (xy 0 2.54)
 					)
 					(stroke
 						(width 0)
@@ -4263,12 +4330,17 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "power:GND"
 			(power)
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 0) hide)
+				(offset 0)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -4359,12 +4431,17 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "power:PWR_FLAG"
 			(power)
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 0) hide)
+				(offset 0)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -4455,12 +4532,17 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "power:VCC"
 			(power)
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 0) hide)
+				(offset 0)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -4532,7 +4614,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 2.54)
+						(xy 0 2.54) (xy 0.762 1.27)
 					)
 					(stroke
 						(width 0)
@@ -4544,7 +4626,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
+						(xy 0 0) (xy 0 2.54)
 					)
 					(stroke
 						(width 0)
@@ -4575,12 +4657,17 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "power:VDD"
 			(power)
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 0) hide)
+				(offset 0)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -4652,7 +4739,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 2.54)
+						(xy 0 2.54) (xy 0.762 1.27)
 					)
 					(stroke
 						(width 0)
@@ -4664,7 +4751,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
+						(xy 0 0) (xy 0 2.54)
 					)
 					(stroke
 						(width 0)
@@ -4695,12 +4782,17 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "power:VDDA"
 			(power)
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 0) hide)
+				(offset 0)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -4772,7 +4864,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 2.54)
+						(xy 0 2.54) (xy 0.762 1.27)
 					)
 					(stroke
 						(width 0)
@@ -4784,7 +4876,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
+						(xy 0 0) (xy 0 2.54)
 					)
 					(stroke
 						(width 0)
@@ -4815,7 +4907,19 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
+	)
+	(text "^{1.} Reference designators on the original badge,\nwas replaced by unified notations for easy tracing."
+		(exclude_from_sim no)
+		(at 298.704 185.166 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "efe8c6e6-ec39-450b-8a61-d6fb49716416")
 	)
 	(junction
 		(at 97.79 30.48)
@@ -24137,17 +24241,6 @@
 		)
 		(uuid "ffdcfe81-55f6-426b-a7c2-0b1315d24756")
 	)
-	(text "^{1.} Reference designators on the original badge,\nwas replaced by unified notations for easy tracing."
-		(exclude_from_sim no)
-		(at 298.704 185.166 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left top)
-		)
-		(uuid "efe8c6e6-ec39-450b-8a61-d6fb49716416")
-	)
 	(label "N"
 		(at 16.51 54.61 0)
 		(effects
@@ -30020,8 +30113,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "GMI4015-2C-30db"
-			(at 358.902 131.572 0)
+		(property "Value" "SAMZO MIC-4013-G-G00"
+			(at 353.822 133.604 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30038,7 +30131,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.octopart.com/WM-64PCX-Panasonic-datasheet-13695803.pdf"
+		(property "Datasheet" "https://lcsc.com/datasheet/lcsc_datasheet_2410281656_SAMZO-MIC-4013-G-G00_C42371093.pdf"
 			(at 358.14 125.73 90)
 			(effects
 				(font
@@ -30047,7 +30140,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Microphone. GMI4015-2C-30db comes with a smaller package but will fit to the WM-64PC footprint anyway."
+		(property "Description" "SMD,D=4mm Microphones ROHS"
 			(at 358.14 128.27 0)
 			(effects
 				(font
@@ -31024,6 +31117,10 @@
 	(sheet
 		(at 408.94 20.32)
 		(size 12.7 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -31052,233 +31149,233 @@
 		)
 		(pin "K5" input
 			(at 408.94 33.02 180)
+			(uuid "93b70880-685a-4b04-96d4-c59848dbc657")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "93b70880-685a-4b04-96d4-c59848dbc657")
 		)
 		(pin "K7" input
 			(at 408.94 38.1 180)
+			(uuid "8d178969-8deb-472d-ab82-039357edc227")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "8d178969-8deb-472d-ab82-039357edc227")
 		)
 		(pin "K9" input
 			(at 408.94 43.18 180)
+			(uuid "7940fd61-fabe-479e-af1b-7923e6e0de56")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "7940fd61-fabe-479e-af1b-7923e6e0de56")
 		)
 		(pin "K1" input
 			(at 408.94 22.86 180)
+			(uuid "50c2d053-fe61-4fe9-bd3d-7cf238ab40f8")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "50c2d053-fe61-4fe9-bd3d-7cf238ab40f8")
 		)
 		(pin "K3" input
 			(at 408.94 27.94 180)
+			(uuid "85a1c95d-7c35-4ddf-83b3-548d617ddafd")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "85a1c95d-7c35-4ddf-83b3-548d617ddafd")
 		)
 		(pin "K4" input
 			(at 421.64 30.48 0)
+			(uuid "f99fbdd1-e370-4b4d-998f-7efa6fb2eb25")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "f99fbdd1-e370-4b4d-998f-7efa6fb2eb25")
 		)
 		(pin "K2" input
 			(at 421.64 25.4 0)
+			(uuid "718074ae-8683-407e-a21a-e848283cfc44")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "718074ae-8683-407e-a21a-e848283cfc44")
 		)
 		(pin "K6" input
 			(at 421.64 35.56 0)
+			(uuid "4f87f046-1d0b-427a-ba37-daa7da045502")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "4f87f046-1d0b-427a-ba37-daa7da045502")
 		)
 		(pin "K8" input
 			(at 421.64 40.64 0)
+			(uuid "59bf05b8-b893-45ba-aaf8-0534b00f794b")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "59bf05b8-b893-45ba-aaf8-0534b00f794b")
 		)
 		(pin "K13" input
 			(at 408.94 53.34 180)
+			(uuid "85ca820e-e3f6-4a39-9535-46a04e30c212")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "85ca820e-e3f6-4a39-9535-46a04e30c212")
 		)
 		(pin "K11" input
 			(at 408.94 48.26 180)
+			(uuid "a99d43c7-0cce-408e-a737-9567d1440da7")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "a99d43c7-0cce-408e-a737-9567d1440da7")
 		)
 		(pin "K12" input
 			(at 421.64 50.8 0)
+			(uuid "a96d995a-d674-4326-9c8a-94e1a706291a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "a96d995a-d674-4326-9c8a-94e1a706291a")
 		)
 		(pin "K16" input
 			(at 421.64 60.96 0)
+			(uuid "9c908752-7aed-4bf7-a3c1-a97f9b1756fe")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "9c908752-7aed-4bf7-a3c1-a97f9b1756fe")
 		)
 		(pin "K14" input
 			(at 421.64 55.88 0)
+			(uuid "83f9e881-c343-4a5a-8def-094f80122427")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "83f9e881-c343-4a5a-8def-094f80122427")
 		)
 		(pin "K10" input
 			(at 421.64 45.72 0)
+			(uuid "69d87ae0-ea4c-4408-9502-ea3bb3695a23")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "69d87ae0-ea4c-4408-9502-ea3bb3695a23")
 		)
 		(pin "K18" input
 			(at 421.64 66.04 0)
+			(uuid "558ceca2-755e-46ac-a9dd-0dcd96bcb0c1")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "558ceca2-755e-46ac-a9dd-0dcd96bcb0c1")
 		)
 		(pin "K20" input
 			(at 421.64 71.12 0)
+			(uuid "50fffb99-909c-4154-8d1a-0c1c1e23a465")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "50fffb99-909c-4154-8d1a-0c1c1e23a465")
 		)
 		(pin "K17" input
 			(at 408.94 63.5 180)
+			(uuid "36f0736a-1804-44f3-9865-5264678e56a4")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "36f0736a-1804-44f3-9865-5264678e56a4")
 		)
 		(pin "K19" input
 			(at 408.94 68.58 180)
+			(uuid "67921424-e7d1-486d-a35f-9ddb0181878d")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "67921424-e7d1-486d-a35f-9ddb0181878d")
 		)
 		(pin "K15" input
 			(at 408.94 58.42 180)
+			(uuid "7875f689-3e59-49f5-8040-2bf9948f7e92")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "7875f689-3e59-49f5-8040-2bf9948f7e92")
 		)
 		(pin "K22" input
 			(at 421.64 76.2 0)
+			(uuid "509383f6-6c26-42f3-9c9f-d687f484669c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "509383f6-6c26-42f3-9c9f-d687f484669c")
 		)
 		(pin "K21" input
 			(at 408.94 73.66 180)
+			(uuid "9ee04f84-7473-4958-af2b-175d9dfa2fd2")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "9ee04f84-7473-4958-af2b-175d9dfa2fd2")
 		)
 		(pin "A" input
 			(at 408.94 80.01 180)
+			(uuid "f5ae5b81-c5cd-4ed3-ae2c-d82a6e38e747")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "f5ae5b81-c5cd-4ed3-ae2c-d82a6e38e747")
 		)
 		(instances
 			(project "BadgeMagic"
@@ -31291,6 +31388,10 @@
 	(sheet
 		(at 266.7 20.32)
 		(size 12.7 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -31319,233 +31420,233 @@
 		)
 		(pin "K5" input
 			(at 266.7 33.02 180)
+			(uuid "b670f955-3bdc-45bf-ac40-7967f854acca")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "b670f955-3bdc-45bf-ac40-7967f854acca")
 		)
 		(pin "K7" input
 			(at 266.7 38.1 180)
+			(uuid "f415effb-959b-4294-b360-d5713830cc08")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "f415effb-959b-4294-b360-d5713830cc08")
 		)
 		(pin "K9" input
 			(at 266.7 43.18 180)
+			(uuid "f51d2412-1ac8-42de-ad2f-4648ba9d114b")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "f51d2412-1ac8-42de-ad2f-4648ba9d114b")
 		)
 		(pin "K1" input
 			(at 266.7 22.86 180)
+			(uuid "4bbecaa1-e1e4-4d81-a63d-dc6a4d9c592f")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "4bbecaa1-e1e4-4d81-a63d-dc6a4d9c592f")
 		)
 		(pin "K3" input
 			(at 266.7 27.94 180)
+			(uuid "57805c40-4b73-4a36-84b5-700d320ec86a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "57805c40-4b73-4a36-84b5-700d320ec86a")
 		)
 		(pin "K4" input
 			(at 279.4 30.48 0)
+			(uuid "e08737c9-afc2-431f-be82-0e7753ca06bf")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "e08737c9-afc2-431f-be82-0e7753ca06bf")
 		)
 		(pin "K2" input
 			(at 279.4 25.4 0)
+			(uuid "ae8a6f8d-aab4-4284-a3e1-26f52337f43c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "ae8a6f8d-aab4-4284-a3e1-26f52337f43c")
 		)
 		(pin "K6" input
 			(at 279.4 35.56 0)
+			(uuid "f4dde091-d9f1-4d95-a0c8-86a5974375fe")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "f4dde091-d9f1-4d95-a0c8-86a5974375fe")
 		)
 		(pin "K8" input
 			(at 279.4 40.64 0)
+			(uuid "d0767b6a-a204-4685-9d3c-25423daa5878")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "d0767b6a-a204-4685-9d3c-25423daa5878")
 		)
 		(pin "K13" input
 			(at 266.7 53.34 180)
+			(uuid "969833e1-d9f5-4059-981f-0511b197f11e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "969833e1-d9f5-4059-981f-0511b197f11e")
 		)
 		(pin "K11" input
 			(at 266.7 48.26 180)
+			(uuid "d094499a-b2d3-4b81-a6bc-336e3a452fc0")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "d094499a-b2d3-4b81-a6bc-336e3a452fc0")
 		)
 		(pin "K12" input
 			(at 279.4 50.8 0)
+			(uuid "4976dc9f-f35c-4712-84ae-70b5f3f58324")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "4976dc9f-f35c-4712-84ae-70b5f3f58324")
 		)
 		(pin "K16" input
 			(at 279.4 60.96 0)
+			(uuid "26538c88-9554-4c75-83d9-9d662a79f686")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "26538c88-9554-4c75-83d9-9d662a79f686")
 		)
 		(pin "K14" input
 			(at 279.4 55.88 0)
+			(uuid "c82a925f-1f70-4fd3-816e-dd80e4c1f17d")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "c82a925f-1f70-4fd3-816e-dd80e4c1f17d")
 		)
 		(pin "K10" input
 			(at 279.4 45.72 0)
+			(uuid "1de80460-180f-4c0f-8e1b-d13dba6b3b25")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "1de80460-180f-4c0f-8e1b-d13dba6b3b25")
 		)
 		(pin "K18" input
 			(at 279.4 66.04 0)
+			(uuid "b82398fa-a524-42cc-81af-b1831d5740a5")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "b82398fa-a524-42cc-81af-b1831d5740a5")
 		)
 		(pin "K20" input
 			(at 279.4 71.12 0)
+			(uuid "05e14d5c-8ddf-4a90-9c48-dd05f1dcd764")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "05e14d5c-8ddf-4a90-9c48-dd05f1dcd764")
 		)
 		(pin "K17" input
 			(at 266.7 63.5 180)
+			(uuid "4afa440c-d725-45a8-b086-d955739aafa5")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "4afa440c-d725-45a8-b086-d955739aafa5")
 		)
 		(pin "K19" input
 			(at 266.7 68.58 180)
+			(uuid "24b50722-9340-405c-8e6b-3806ddac84c3")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "24b50722-9340-405c-8e6b-3806ddac84c3")
 		)
 		(pin "K15" input
 			(at 266.7 58.42 180)
+			(uuid "14d197bd-92dc-4687-b0da-0852c5a7adf8")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "14d197bd-92dc-4687-b0da-0852c5a7adf8")
 		)
 		(pin "K22" input
 			(at 279.4 76.2 0)
+			(uuid "ad7c9b9f-ea6d-47fc-94ba-1f9fa84571d0")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "ad7c9b9f-ea6d-47fc-94ba-1f9fa84571d0")
 		)
 		(pin "K21" input
 			(at 266.7 73.66 180)
+			(uuid "539501fc-bb93-4c73-a30f-4c22e636357e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "539501fc-bb93-4c73-a30f-4c22e636357e")
 		)
 		(pin "A" input
 			(at 266.7 80.01 180)
+			(uuid "322b9f44-1a3e-4201-95de-c0f5692b92c9")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "322b9f44-1a3e-4201-95de-c0f5692b92c9")
 		)
 		(instances
 			(project "BadgeMagic"
@@ -31558,6 +31659,10 @@
 	(sheet
 		(at 449.58 20.32)
 		(size 12.7 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -31586,233 +31691,233 @@
 		)
 		(pin "K5" input
 			(at 449.58 33.02 180)
+			(uuid "c3194790-9c6d-49ff-8acf-007a4e7d4160")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "c3194790-9c6d-49ff-8acf-007a4e7d4160")
 		)
 		(pin "K7" input
 			(at 449.58 38.1 180)
+			(uuid "e0fa28fe-7c10-4e1a-abda-14876dfd0998")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "e0fa28fe-7c10-4e1a-abda-14876dfd0998")
 		)
 		(pin "K9" input
 			(at 449.58 43.18 180)
+			(uuid "9934d13d-801b-4cc0-9985-81ef6837f514")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "9934d13d-801b-4cc0-9985-81ef6837f514")
 		)
 		(pin "K1" input
 			(at 449.58 22.86 180)
+			(uuid "0bdf1727-7942-4967-bea6-919266d71bad")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "0bdf1727-7942-4967-bea6-919266d71bad")
 		)
 		(pin "K3" input
 			(at 449.58 27.94 180)
+			(uuid "2c031d19-e98d-4e6b-8967-940b4f7fb6cb")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "2c031d19-e98d-4e6b-8967-940b4f7fb6cb")
 		)
 		(pin "K4" input
 			(at 462.28 30.48 0)
+			(uuid "384906c5-e412-43b0-92a8-ddca8105ecac")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "384906c5-e412-43b0-92a8-ddca8105ecac")
 		)
 		(pin "K2" input
 			(at 462.28 25.4 0)
+			(uuid "80607dc1-f490-4467-a86c-1c8303b0ee55")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "80607dc1-f490-4467-a86c-1c8303b0ee55")
 		)
 		(pin "K6" input
 			(at 462.28 35.56 0)
+			(uuid "ce33deb5-1833-47a9-b230-b429b758bc29")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "ce33deb5-1833-47a9-b230-b429b758bc29")
 		)
 		(pin "K8" input
 			(at 462.28 40.64 0)
+			(uuid "a3371438-9e2f-43e0-9b8a-892618b9fea7")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "a3371438-9e2f-43e0-9b8a-892618b9fea7")
 		)
 		(pin "K13" input
 			(at 449.58 53.34 180)
+			(uuid "322c18ec-7a26-47de-8b85-b580085b13c2")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "322c18ec-7a26-47de-8b85-b580085b13c2")
 		)
 		(pin "K11" input
 			(at 449.58 48.26 180)
+			(uuid "c96d7164-e7dc-4670-b2a2-3c3569c1473f")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "c96d7164-e7dc-4670-b2a2-3c3569c1473f")
 		)
 		(pin "K12" input
 			(at 462.28 50.8 0)
+			(uuid "897b53d0-0e0c-4c97-b9da-ae48ad849880")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "897b53d0-0e0c-4c97-b9da-ae48ad849880")
 		)
 		(pin "K16" input
 			(at 462.28 60.96 0)
+			(uuid "f98e0c3d-aa0c-4209-a5d7-d13a58d20925")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "f98e0c3d-aa0c-4209-a5d7-d13a58d20925")
 		)
 		(pin "K14" input
 			(at 462.28 55.88 0)
+			(uuid "ade703a6-e733-4ed8-a67e-bf146a5a0408")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "ade703a6-e733-4ed8-a67e-bf146a5a0408")
 		)
 		(pin "K10" input
 			(at 462.28 45.72 0)
+			(uuid "aa737ff5-d4c7-4f91-a9e2-8d51a4d9db58")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "aa737ff5-d4c7-4f91-a9e2-8d51a4d9db58")
 		)
 		(pin "K18" input
 			(at 462.28 66.04 0)
+			(uuid "c305dcf9-ae0d-434d-bda1-00ad7c6cfde9")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "c305dcf9-ae0d-434d-bda1-00ad7c6cfde9")
 		)
 		(pin "K20" input
 			(at 462.28 71.12 0)
+			(uuid "93f82b1f-d452-4dc3-9002-6ac9459c159c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "93f82b1f-d452-4dc3-9002-6ac9459c159c")
 		)
 		(pin "K17" input
 			(at 449.58 63.5 180)
+			(uuid "c12256c0-c056-4b0b-a09a-9e84867bbe23")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "c12256c0-c056-4b0b-a09a-9e84867bbe23")
 		)
 		(pin "K19" input
 			(at 449.58 68.58 180)
+			(uuid "8066576a-b9f2-40ca-aef7-0e6dbffd7397")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "8066576a-b9f2-40ca-aef7-0e6dbffd7397")
 		)
 		(pin "K15" input
 			(at 449.58 58.42 180)
+			(uuid "965a3a2f-d6f3-4db9-b283-c92a432fd9a9")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "965a3a2f-d6f3-4db9-b283-c92a432fd9a9")
 		)
 		(pin "K22" input
 			(at 462.28 76.2 0)
+			(uuid "9ad37ce7-2d82-45c9-ad12-83aaaf3e14d1")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "9ad37ce7-2d82-45c9-ad12-83aaaf3e14d1")
 		)
 		(pin "K21" input
 			(at 449.58 73.66 180)
+			(uuid "096e3454-3ba6-45c2-86c4-29a1486efaaf")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "096e3454-3ba6-45c2-86c4-29a1486efaaf")
 		)
 		(pin "A" input
 			(at 449.58 80.01 180)
+			(uuid "050d5f6b-4def-4882-bb62-75c44f652d34")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "050d5f6b-4def-4882-bb62-75c44f652d34")
 		)
 		(instances
 			(project "BadgeMagic"
@@ -31825,6 +31930,10 @@
 	(sheet
 		(at 104.14 20.32)
 		(size 12.7 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -31853,233 +31962,233 @@
 		)
 		(pin "K5" input
 			(at 104.14 33.02 180)
+			(uuid "a876cc86-2d52-4905-9bdc-1534ae5498f3")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "a876cc86-2d52-4905-9bdc-1534ae5498f3")
 		)
 		(pin "K7" input
 			(at 104.14 38.1 180)
+			(uuid "4fc1a614-5414-40de-a3b0-105cf54bde9b")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "4fc1a614-5414-40de-a3b0-105cf54bde9b")
 		)
 		(pin "K9" input
 			(at 104.14 43.18 180)
+			(uuid "806899bf-cb43-47e6-8ab8-1b67e2220c17")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "806899bf-cb43-47e6-8ab8-1b67e2220c17")
 		)
 		(pin "K1" input
 			(at 104.14 22.86 180)
+			(uuid "ee4cfac7-b285-42d5-9ede-04c93c75e240")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "ee4cfac7-b285-42d5-9ede-04c93c75e240")
 		)
 		(pin "K3" input
 			(at 104.14 27.94 180)
+			(uuid "1d1dae76-a3dc-4b61-a3ba-ca82b8b7aa53")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "1d1dae76-a3dc-4b61-a3ba-ca82b8b7aa53")
 		)
 		(pin "K4" input
 			(at 116.84 30.48 0)
+			(uuid "485786ea-a81d-4be8-b65b-b65ab3dcc669")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "485786ea-a81d-4be8-b65b-b65ab3dcc669")
 		)
 		(pin "K2" input
 			(at 116.84 25.4 0)
+			(uuid "48d2713f-c323-4dd1-8e27-3a053255b65a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "48d2713f-c323-4dd1-8e27-3a053255b65a")
 		)
 		(pin "K6" input
 			(at 116.84 35.56 0)
+			(uuid "61733ddf-b00a-4f28-9b3d-1993187fe372")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "61733ddf-b00a-4f28-9b3d-1993187fe372")
 		)
 		(pin "K8" input
 			(at 116.84 40.64 0)
+			(uuid "d8c50a2a-d456-43e2-a27a-e5790048de2c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "d8c50a2a-d456-43e2-a27a-e5790048de2c")
 		)
 		(pin "K13" input
 			(at 104.14 53.34 180)
+			(uuid "aac305b9-c22a-42c7-b98b-847ccd36df76")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "aac305b9-c22a-42c7-b98b-847ccd36df76")
 		)
 		(pin "K11" input
 			(at 104.14 48.26 180)
+			(uuid "6fcecb1a-38ec-4743-817d-3f9f6d589998")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "6fcecb1a-38ec-4743-817d-3f9f6d589998")
 		)
 		(pin "K12" input
 			(at 116.84 50.8 0)
+			(uuid "5c61c860-ee58-4d38-a28b-2d4302a8d590")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "5c61c860-ee58-4d38-a28b-2d4302a8d590")
 		)
 		(pin "K16" input
 			(at 116.84 60.96 0)
+			(uuid "a3f7893d-3204-47c6-934c-fb6c542ca90a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "a3f7893d-3204-47c6-934c-fb6c542ca90a")
 		)
 		(pin "K14" input
 			(at 116.84 55.88 0)
+			(uuid "0e662db3-4839-4e0d-a9dc-7039d45b24b2")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "0e662db3-4839-4e0d-a9dc-7039d45b24b2")
 		)
 		(pin "K10" input
 			(at 116.84 45.72 0)
+			(uuid "bfb65d9b-0a4b-4b65-ba64-bf08fb3cdbcc")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "bfb65d9b-0a4b-4b65-ba64-bf08fb3cdbcc")
 		)
 		(pin "K18" input
 			(at 116.84 66.04 0)
+			(uuid "3aaee9c6-6d36-470b-a88c-716255691301")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "3aaee9c6-6d36-470b-a88c-716255691301")
 		)
 		(pin "K20" input
 			(at 116.84 71.12 0)
+			(uuid "c7169d5a-8488-4612-840f-2fcb52d76011")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "c7169d5a-8488-4612-840f-2fcb52d76011")
 		)
 		(pin "K17" input
 			(at 104.14 63.5 180)
+			(uuid "898c0e7c-951c-4fca-91d0-81c430290326")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "898c0e7c-951c-4fca-91d0-81c430290326")
 		)
 		(pin "K19" input
 			(at 104.14 68.58 180)
+			(uuid "0d874867-94f1-44df-bffc-ae8344948ac0")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "0d874867-94f1-44df-bffc-ae8344948ac0")
 		)
 		(pin "K15" input
 			(at 104.14 58.42 180)
+			(uuid "ba652bf6-5599-42fb-bfc4-6d97477d1296")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "ba652bf6-5599-42fb-bfc4-6d97477d1296")
 		)
 		(pin "K22" input
 			(at 116.84 76.2 0)
+			(uuid "9eaf7708-dfc4-4c0b-9ddf-013094fd87ee")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "9eaf7708-dfc4-4c0b-9ddf-013094fd87ee")
 		)
 		(pin "K21" input
 			(at 104.14 73.66 180)
+			(uuid "3b1f83f8-0f7e-4650-85a5-7e2a5c870d7b")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "3b1f83f8-0f7e-4650-85a5-7e2a5c870d7b")
 		)
 		(pin "A" input
 			(at 104.14 80.01 180)
+			(uuid "0847b468-6efe-4be5-93f3-3298f2f80b0a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "0847b468-6efe-4be5-93f3-3298f2f80b0a")
 		)
 		(instances
 			(project "BadgeMagic"
@@ -32092,6 +32201,10 @@
 	(sheet
 		(at 124.46 20.32)
 		(size 12.7 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -32120,233 +32233,233 @@
 		)
 		(pin "K5" input
 			(at 124.46 33.02 180)
+			(uuid "b17f62f8-4945-44a8-9eea-8f5f8f7d6633")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "b17f62f8-4945-44a8-9eea-8f5f8f7d6633")
 		)
 		(pin "K7" input
 			(at 124.46 38.1 180)
+			(uuid "eb324a1b-a42b-4c83-89fd-867816ee17b7")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "eb324a1b-a42b-4c83-89fd-867816ee17b7")
 		)
 		(pin "K9" input
 			(at 124.46 43.18 180)
+			(uuid "89211202-b2c1-4352-9f8c-7687a4ff3329")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "89211202-b2c1-4352-9f8c-7687a4ff3329")
 		)
 		(pin "K1" input
 			(at 124.46 22.86 180)
+			(uuid "e913117d-5fa1-4f91-b2ce-b2d686d70acd")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "e913117d-5fa1-4f91-b2ce-b2d686d70acd")
 		)
 		(pin "K3" input
 			(at 124.46 27.94 180)
+			(uuid "635a9eca-19ca-48ab-a667-4894085f2b87")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "635a9eca-19ca-48ab-a667-4894085f2b87")
 		)
 		(pin "K4" input
 			(at 137.16 30.48 0)
+			(uuid "1d3a2715-bf99-4cac-b22c-05145b5fbead")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "1d3a2715-bf99-4cac-b22c-05145b5fbead")
 		)
 		(pin "K2" input
 			(at 137.16 25.4 0)
+			(uuid "4e978a86-35dd-4a5f-9500-c5bddec5a600")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "4e978a86-35dd-4a5f-9500-c5bddec5a600")
 		)
 		(pin "K6" input
 			(at 137.16 35.56 0)
+			(uuid "d5e1fb3a-ad38-473e-952f-72faaddc395f")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "d5e1fb3a-ad38-473e-952f-72faaddc395f")
 		)
 		(pin "K8" input
 			(at 137.16 40.64 0)
+			(uuid "2b60568b-74fc-47da-8293-b17822de1266")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "2b60568b-74fc-47da-8293-b17822de1266")
 		)
 		(pin "K13" input
 			(at 124.46 53.34 180)
+			(uuid "d45488e3-5dcc-42ad-b59f-ed342342a185")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "d45488e3-5dcc-42ad-b59f-ed342342a185")
 		)
 		(pin "K11" input
 			(at 124.46 48.26 180)
+			(uuid "89c08409-61fc-42a8-b6dc-adca72d36a5a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "89c08409-61fc-42a8-b6dc-adca72d36a5a")
 		)
 		(pin "K12" input
 			(at 137.16 50.8 0)
+			(uuid "327b1572-0524-48db-b58f-4026c29303c3")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "327b1572-0524-48db-b58f-4026c29303c3")
 		)
 		(pin "K16" input
 			(at 137.16 60.96 0)
+			(uuid "847d1306-6445-4bb5-88b6-ef0fac425916")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "847d1306-6445-4bb5-88b6-ef0fac425916")
 		)
 		(pin "K14" input
 			(at 137.16 55.88 0)
+			(uuid "47b82214-7df5-48d4-aa10-7ba527adc5a5")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "47b82214-7df5-48d4-aa10-7ba527adc5a5")
 		)
 		(pin "K10" input
 			(at 137.16 45.72 0)
+			(uuid "852883a4-12b8-40e9-98e1-daf99563394c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "852883a4-12b8-40e9-98e1-daf99563394c")
 		)
 		(pin "K18" input
 			(at 137.16 66.04 0)
+			(uuid "052b0611-0b92-4aaf-bde9-4604d26aa629")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "052b0611-0b92-4aaf-bde9-4604d26aa629")
 		)
 		(pin "K20" input
 			(at 137.16 71.12 0)
+			(uuid "848253e7-86d4-4080-b1c7-159e10bd88f0")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "848253e7-86d4-4080-b1c7-159e10bd88f0")
 		)
 		(pin "K17" input
 			(at 124.46 63.5 180)
+			(uuid "f1f55ca1-9d08-43f2-82cd-34fed2a71374")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "f1f55ca1-9d08-43f2-82cd-34fed2a71374")
 		)
 		(pin "K19" input
 			(at 124.46 68.58 180)
+			(uuid "bd2d1020-9b5a-45cb-8fb2-99872940627a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "bd2d1020-9b5a-45cb-8fb2-99872940627a")
 		)
 		(pin "K15" input
 			(at 124.46 58.42 180)
+			(uuid "0b96d745-b6e4-49b9-8cc8-e0c921b8c6d0")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "0b96d745-b6e4-49b9-8cc8-e0c921b8c6d0")
 		)
 		(pin "K22" input
 			(at 137.16 76.2 0)
+			(uuid "e0963def-0cec-45aa-a6b0-9bb4172b461d")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "e0963def-0cec-45aa-a6b0-9bb4172b461d")
 		)
 		(pin "K21" input
 			(at 124.46 73.66 180)
+			(uuid "fa9a03c0-612e-4dae-be66-6de66551d0dc")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "fa9a03c0-612e-4dae-be66-6de66551d0dc")
 		)
 		(pin "A" input
 			(at 124.46 80.01 180)
+			(uuid "8139665f-fea7-4c23-b8d1-ea45a90c25b8")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "8139665f-fea7-4c23-b8d1-ea45a90c25b8")
 		)
 		(instances
 			(project "BadgeMagic"
@@ -32359,6 +32472,10 @@
 	(sheet
 		(at 388.62 20.32)
 		(size 12.7 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -32387,233 +32504,233 @@
 		)
 		(pin "K5" input
 			(at 388.62 33.02 180)
+			(uuid "da7d58cf-65d0-4412-980b-eaef9d67dfde")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "da7d58cf-65d0-4412-980b-eaef9d67dfde")
 		)
 		(pin "K7" input
 			(at 388.62 38.1 180)
+			(uuid "80acd61e-2986-40a2-b069-228a6b96293a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "80acd61e-2986-40a2-b069-228a6b96293a")
 		)
 		(pin "K9" input
 			(at 388.62 43.18 180)
+			(uuid "db1aa60b-52f0-4a8f-86f4-77b98584cb92")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "db1aa60b-52f0-4a8f-86f4-77b98584cb92")
 		)
 		(pin "K1" input
 			(at 388.62 22.86 180)
+			(uuid "99184251-efd9-45a6-833a-84606b4ca4a3")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "99184251-efd9-45a6-833a-84606b4ca4a3")
 		)
 		(pin "K3" input
 			(at 388.62 27.94 180)
+			(uuid "5f32bc97-07bd-4ef0-a151-dd38b93fcee1")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "5f32bc97-07bd-4ef0-a151-dd38b93fcee1")
 		)
 		(pin "K4" input
 			(at 401.32 30.48 0)
+			(uuid "1915c1d8-cd12-45ce-a52b-2bf1d7955844")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "1915c1d8-cd12-45ce-a52b-2bf1d7955844")
 		)
 		(pin "K2" input
 			(at 401.32 25.4 0)
+			(uuid "597739ed-877c-4900-a7a3-d0822198615b")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "597739ed-877c-4900-a7a3-d0822198615b")
 		)
 		(pin "K6" input
 			(at 401.32 35.56 0)
+			(uuid "dbde9a28-f3ca-41f9-bd4b-745ee2ec5e8a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "dbde9a28-f3ca-41f9-bd4b-745ee2ec5e8a")
 		)
 		(pin "K8" input
 			(at 401.32 40.64 0)
+			(uuid "7fd1d5a7-4f90-4397-8736-064819ee315c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "7fd1d5a7-4f90-4397-8736-064819ee315c")
 		)
 		(pin "K13" input
 			(at 388.62 53.34 180)
+			(uuid "f420f28f-b924-41ab-9182-c586972d5afe")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "f420f28f-b924-41ab-9182-c586972d5afe")
 		)
 		(pin "K11" input
 			(at 388.62 48.26 180)
+			(uuid "b65f8f28-37b4-41fd-80df-0a17371c907e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "b65f8f28-37b4-41fd-80df-0a17371c907e")
 		)
 		(pin "K12" input
 			(at 401.32 50.8 0)
+			(uuid "06dfc135-1fa9-4201-877a-8cf404faddf2")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "06dfc135-1fa9-4201-877a-8cf404faddf2")
 		)
 		(pin "K16" input
 			(at 401.32 60.96 0)
+			(uuid "a9e6271b-7bff-473c-b22e-03550f62f2ba")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "a9e6271b-7bff-473c-b22e-03550f62f2ba")
 		)
 		(pin "K14" input
 			(at 401.32 55.88 0)
+			(uuid "1fda70ef-126b-4cf8-956c-8894fe5cc569")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "1fda70ef-126b-4cf8-956c-8894fe5cc569")
 		)
 		(pin "K10" input
 			(at 401.32 45.72 0)
+			(uuid "a817c44b-34aa-467b-b4ab-2c0e9f15f98f")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "a817c44b-34aa-467b-b4ab-2c0e9f15f98f")
 		)
 		(pin "K18" input
 			(at 401.32 66.04 0)
+			(uuid "2f40017c-5aa6-4730-8a60-bec505dd1964")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "2f40017c-5aa6-4730-8a60-bec505dd1964")
 		)
 		(pin "K20" input
 			(at 401.32 71.12 0)
+			(uuid "2660d8eb-a5ab-4961-b069-17ab5b438990")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "2660d8eb-a5ab-4961-b069-17ab5b438990")
 		)
 		(pin "K17" input
 			(at 388.62 63.5 180)
+			(uuid "262d4697-8056-43c5-ba28-4ace2a705c7f")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "262d4697-8056-43c5-ba28-4ace2a705c7f")
 		)
 		(pin "K19" input
 			(at 388.62 68.58 180)
+			(uuid "e1ba5902-5ed5-412d-a82d-ae242b00a250")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "e1ba5902-5ed5-412d-a82d-ae242b00a250")
 		)
 		(pin "K15" input
 			(at 388.62 58.42 180)
+			(uuid "5b42124d-8b64-4a8c-86c6-a0d1b42e4def")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "5b42124d-8b64-4a8c-86c6-a0d1b42e4def")
 		)
 		(pin "K22" input
 			(at 401.32 76.2 0)
+			(uuid "077dba82-385d-45c4-9824-331823cddce7")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "077dba82-385d-45c4-9824-331823cddce7")
 		)
 		(pin "K21" input
 			(at 388.62 73.66 180)
+			(uuid "c1df4c50-eda9-496d-b030-68b69de0e8d0")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "c1df4c50-eda9-496d-b030-68b69de0e8d0")
 		)
 		(pin "A" input
 			(at 388.62 80.01 180)
+			(uuid "9f43b8ba-83ab-4541-9995-a7c10a839bae")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "9f43b8ba-83ab-4541-9995-a7c10a839bae")
 		)
 		(instances
 			(project "BadgeMagic"
@@ -32626,6 +32743,10 @@
 	(sheet
 		(at 429.26 20.32)
 		(size 12.7 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -32654,233 +32775,233 @@
 		)
 		(pin "K5" input
 			(at 429.26 33.02 180)
+			(uuid "6431aeb7-9f90-4f0f-b5c8-e5d59f0740a0")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "6431aeb7-9f90-4f0f-b5c8-e5d59f0740a0")
 		)
 		(pin "K7" input
 			(at 429.26 38.1 180)
+			(uuid "a7946067-7847-4e75-8310-b3e1dc6046df")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "a7946067-7847-4e75-8310-b3e1dc6046df")
 		)
 		(pin "K9" input
 			(at 429.26 43.18 180)
+			(uuid "cbc4945c-bac9-41e8-9e85-e69c6a3295ad")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "cbc4945c-bac9-41e8-9e85-e69c6a3295ad")
 		)
 		(pin "K1" input
 			(at 429.26 22.86 180)
+			(uuid "f330269e-bd6f-4a79-9bc8-9d8e8f28f5f4")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "f330269e-bd6f-4a79-9bc8-9d8e8f28f5f4")
 		)
 		(pin "K3" input
 			(at 429.26 27.94 180)
+			(uuid "d273f829-4fa1-4ce9-afcf-561d63f5942f")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "d273f829-4fa1-4ce9-afcf-561d63f5942f")
 		)
 		(pin "K4" input
 			(at 441.96 30.48 0)
+			(uuid "2c8dbaee-5580-4986-b411-74f8d845c9d4")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "2c8dbaee-5580-4986-b411-74f8d845c9d4")
 		)
 		(pin "K2" input
 			(at 441.96 25.4 0)
+			(uuid "4f67bff9-0069-4b22-8062-fe42e1925cf3")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "4f67bff9-0069-4b22-8062-fe42e1925cf3")
 		)
 		(pin "K6" input
 			(at 441.96 35.56 0)
+			(uuid "ed6509c2-5edf-4a91-a911-221138b726ba")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "ed6509c2-5edf-4a91-a911-221138b726ba")
 		)
 		(pin "K8" input
 			(at 441.96 40.64 0)
+			(uuid "7c13309a-acdd-4e1e-a77e-5d3e2b9d4856")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "7c13309a-acdd-4e1e-a77e-5d3e2b9d4856")
 		)
 		(pin "K13" input
 			(at 429.26 53.34 180)
+			(uuid "f1d45310-51fe-4853-bb48-384492cb1339")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "f1d45310-51fe-4853-bb48-384492cb1339")
 		)
 		(pin "K11" input
 			(at 429.26 48.26 180)
+			(uuid "8b2017f1-8f7c-44fd-a8a0-8fbd872b0c03")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "8b2017f1-8f7c-44fd-a8a0-8fbd872b0c03")
 		)
 		(pin "K12" input
 			(at 441.96 50.8 0)
+			(uuid "c4ed8f6b-ae13-4937-a818-e1b4d9066a9a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "c4ed8f6b-ae13-4937-a818-e1b4d9066a9a")
 		)
 		(pin "K16" input
 			(at 441.96 60.96 0)
+			(uuid "47895d63-abad-49e7-a215-8e93dd0978d8")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "47895d63-abad-49e7-a215-8e93dd0978d8")
 		)
 		(pin "K14" input
 			(at 441.96 55.88 0)
+			(uuid "f5876593-1a69-46dd-98fa-bdc6b8917947")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "f5876593-1a69-46dd-98fa-bdc6b8917947")
 		)
 		(pin "K10" input
 			(at 441.96 45.72 0)
+			(uuid "9db4e3c4-7d12-4a67-89a3-343a0fe7ebe8")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "9db4e3c4-7d12-4a67-89a3-343a0fe7ebe8")
 		)
 		(pin "K18" input
 			(at 441.96 66.04 0)
+			(uuid "30473f7e-9f67-41d7-abbf-b5f93efd56ab")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "30473f7e-9f67-41d7-abbf-b5f93efd56ab")
 		)
 		(pin "K20" input
 			(at 441.96 71.12 0)
+			(uuid "6d66e51e-59e9-4f72-9e19-30b14e82a3d9")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "6d66e51e-59e9-4f72-9e19-30b14e82a3d9")
 		)
 		(pin "K17" input
 			(at 429.26 63.5 180)
+			(uuid "101c6a38-0222-4646-a737-f2ad92098ae2")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "101c6a38-0222-4646-a737-f2ad92098ae2")
 		)
 		(pin "K19" input
 			(at 429.26 68.58 180)
+			(uuid "ad337c15-74ac-4b6b-9c25-70bb711cb6ed")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "ad337c15-74ac-4b6b-9c25-70bb711cb6ed")
 		)
 		(pin "K15" input
 			(at 429.26 58.42 180)
+			(uuid "90c8efe2-3429-4edb-9fb4-0eab51639efe")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "90c8efe2-3429-4edb-9fb4-0eab51639efe")
 		)
 		(pin "K22" input
 			(at 441.96 76.2 0)
+			(uuid "208f489d-2e41-4b9a-b318-3c7c033f9f68")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "208f489d-2e41-4b9a-b318-3c7c033f9f68")
 		)
 		(pin "K21" input
 			(at 429.26 73.66 180)
+			(uuid "4d6f93c0-7c99-4d03-bab5-007e0086b0e4")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "4d6f93c0-7c99-4d03-bab5-007e0086b0e4")
 		)
 		(pin "A" input
 			(at 429.26 80.01 180)
+			(uuid "739a7dbc-3b7b-4dc7-a63e-0a5927e2ff42")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "739a7dbc-3b7b-4dc7-a63e-0a5927e2ff42")
 		)
 		(instances
 			(project "BadgeMagic"
@@ -32893,6 +33014,10 @@
 	(sheet
 		(at 327.66 20.32)
 		(size 12.7 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -32921,233 +33046,233 @@
 		)
 		(pin "K5" input
 			(at 327.66 33.02 180)
+			(uuid "225fe8fd-c0a3-4bf2-912b-1d07abca6242")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "225fe8fd-c0a3-4bf2-912b-1d07abca6242")
 		)
 		(pin "K7" input
 			(at 327.66 38.1 180)
+			(uuid "93e83dd8-0bb3-4b15-94ee-ad30c068d20b")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "93e83dd8-0bb3-4b15-94ee-ad30c068d20b")
 		)
 		(pin "K9" input
 			(at 327.66 43.18 180)
+			(uuid "fb951644-b823-40ae-ae4c-459615c45456")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "fb951644-b823-40ae-ae4c-459615c45456")
 		)
 		(pin "K1" input
 			(at 327.66 22.86 180)
+			(uuid "cd7a6cc7-7050-48eb-a7b4-204e0d216b99")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "cd7a6cc7-7050-48eb-a7b4-204e0d216b99")
 		)
 		(pin "K3" input
 			(at 327.66 27.94 180)
+			(uuid "afa53ca1-d40f-42c0-9509-3b281491f590")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "afa53ca1-d40f-42c0-9509-3b281491f590")
 		)
 		(pin "K4" input
 			(at 340.36 30.48 0)
+			(uuid "aa0fe0bc-7e3f-40ba-ad88-7a5a6804ce2f")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "aa0fe0bc-7e3f-40ba-ad88-7a5a6804ce2f")
 		)
 		(pin "K2" input
 			(at 340.36 25.4 0)
+			(uuid "67a76205-332f-4acb-af58-5880798e4455")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "67a76205-332f-4acb-af58-5880798e4455")
 		)
 		(pin "K6" input
 			(at 340.36 35.56 0)
+			(uuid "31cd52cc-80b0-465a-be95-61f4974eb9dd")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "31cd52cc-80b0-465a-be95-61f4974eb9dd")
 		)
 		(pin "K8" input
 			(at 340.36 40.64 0)
+			(uuid "5f599a94-9781-4f8e-b412-8945d97e4f5c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "5f599a94-9781-4f8e-b412-8945d97e4f5c")
 		)
 		(pin "K13" input
 			(at 327.66 53.34 180)
+			(uuid "ef2a1c87-0892-4251-95dc-d368cd8940d4")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "ef2a1c87-0892-4251-95dc-d368cd8940d4")
 		)
 		(pin "K11" input
 			(at 327.66 48.26 180)
+			(uuid "dcc7d3f8-b478-48e5-93b0-91c6397ce414")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "dcc7d3f8-b478-48e5-93b0-91c6397ce414")
 		)
 		(pin "K12" input
 			(at 340.36 50.8 0)
+			(uuid "ffce6a47-8618-44b9-a228-392055280bdb")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "ffce6a47-8618-44b9-a228-392055280bdb")
 		)
 		(pin "K16" input
 			(at 340.36 60.96 0)
+			(uuid "7c8c7a7d-52ff-43af-a902-3567f2d0eafd")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "7c8c7a7d-52ff-43af-a902-3567f2d0eafd")
 		)
 		(pin "K14" input
 			(at 340.36 55.88 0)
+			(uuid "197d762c-f6ba-43e5-a62b-e0e3222ba267")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "197d762c-f6ba-43e5-a62b-e0e3222ba267")
 		)
 		(pin "K10" input
 			(at 340.36 45.72 0)
+			(uuid "64383477-93d1-4288-9ef0-3b534eaa9a2f")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "64383477-93d1-4288-9ef0-3b534eaa9a2f")
 		)
 		(pin "K18" input
 			(at 340.36 66.04 0)
+			(uuid "af1d93f8-275e-4f81-ae98-daa08e4f56de")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "af1d93f8-275e-4f81-ae98-daa08e4f56de")
 		)
 		(pin "K20" input
 			(at 340.36 71.12 0)
+			(uuid "e94ba9ae-95fc-4f65-9631-7bac60e84d04")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "e94ba9ae-95fc-4f65-9631-7bac60e84d04")
 		)
 		(pin "K17" input
 			(at 327.66 63.5 180)
+			(uuid "4911e212-79f3-470a-b22f-67863c611296")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "4911e212-79f3-470a-b22f-67863c611296")
 		)
 		(pin "K19" input
 			(at 327.66 68.58 180)
+			(uuid "1762d095-b298-469e-814b-5a61ddee2706")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "1762d095-b298-469e-814b-5a61ddee2706")
 		)
 		(pin "K15" input
 			(at 327.66 58.42 180)
+			(uuid "399de885-943a-4bca-a63a-ab3716c5d58e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "399de885-943a-4bca-a63a-ab3716c5d58e")
 		)
 		(pin "K22" input
 			(at 340.36 76.2 0)
+			(uuid "113688d7-00a4-4251-8b81-061ea7863a10")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "113688d7-00a4-4251-8b81-061ea7863a10")
 		)
 		(pin "K21" input
 			(at 327.66 73.66 180)
+			(uuid "389e1acb-9825-4830-b03b-b273bb085914")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "389e1acb-9825-4830-b03b-b273bb085914")
 		)
 		(pin "A" input
 			(at 327.66 80.01 180)
+			(uuid "dd8a66f5-f186-49cd-a5a0-c8570231ada4")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "dd8a66f5-f186-49cd-a5a0-c8570231ada4")
 		)
 		(instances
 			(project "BadgeMagic"
@@ -33160,6 +33285,10 @@
 	(sheet
 		(at 185.42 20.32)
 		(size 12.7 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -33188,233 +33317,233 @@
 		)
 		(pin "K5" input
 			(at 185.42 33.02 180)
+			(uuid "933f6010-fc29-427b-b9db-6fab8d3dbbd7")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "933f6010-fc29-427b-b9db-6fab8d3dbbd7")
 		)
 		(pin "K7" input
 			(at 185.42 38.1 180)
+			(uuid "225d4881-c003-4070-b874-877e865b5e21")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "225d4881-c003-4070-b874-877e865b5e21")
 		)
 		(pin "K9" input
 			(at 185.42 43.18 180)
+			(uuid "f66f1581-f42b-4883-974b-c9a9c052fc4a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "f66f1581-f42b-4883-974b-c9a9c052fc4a")
 		)
 		(pin "K1" input
 			(at 185.42 22.86 180)
+			(uuid "4fd24e55-55d1-4c2c-b0d4-01419299ae0c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "4fd24e55-55d1-4c2c-b0d4-01419299ae0c")
 		)
 		(pin "K3" input
 			(at 185.42 27.94 180)
+			(uuid "959a639a-aa8e-4a67-afc3-bfca997cb587")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "959a639a-aa8e-4a67-afc3-bfca997cb587")
 		)
 		(pin "K4" input
 			(at 198.12 30.48 0)
+			(uuid "d2a7230e-67b4-48d5-8bbc-ff158e7653cb")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "d2a7230e-67b4-48d5-8bbc-ff158e7653cb")
 		)
 		(pin "K2" input
 			(at 198.12 25.4 0)
+			(uuid "ec98ab3b-01a0-4df6-b266-fd8623b64fc4")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "ec98ab3b-01a0-4df6-b266-fd8623b64fc4")
 		)
 		(pin "K6" input
 			(at 198.12 35.56 0)
+			(uuid "60e19d69-81f2-45a6-9248-9baea372a315")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "60e19d69-81f2-45a6-9248-9baea372a315")
 		)
 		(pin "K8" input
 			(at 198.12 40.64 0)
+			(uuid "ef0b5006-69e0-4eea-82ae-edc99a7c0b78")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "ef0b5006-69e0-4eea-82ae-edc99a7c0b78")
 		)
 		(pin "K13" input
 			(at 185.42 53.34 180)
+			(uuid "5cf7de09-833b-44ea-acb7-623cbcf93e82")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "5cf7de09-833b-44ea-acb7-623cbcf93e82")
 		)
 		(pin "K11" input
 			(at 185.42 48.26 180)
+			(uuid "c0ffa27d-2378-4311-9bb8-f43edc7a5677")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "c0ffa27d-2378-4311-9bb8-f43edc7a5677")
 		)
 		(pin "K12" input
 			(at 198.12 50.8 0)
+			(uuid "a4745f1c-55c1-4c78-8d9b-abd51d790ddd")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "a4745f1c-55c1-4c78-8d9b-abd51d790ddd")
 		)
 		(pin "K16" input
 			(at 198.12 60.96 0)
+			(uuid "3f61b54d-c424-43b4-b17f-a4d83f1352bb")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "3f61b54d-c424-43b4-b17f-a4d83f1352bb")
 		)
 		(pin "K14" input
 			(at 198.12 55.88 0)
+			(uuid "4952e0bf-a587-4f65-8a19-0b1f9523b331")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "4952e0bf-a587-4f65-8a19-0b1f9523b331")
 		)
 		(pin "K10" input
 			(at 198.12 45.72 0)
+			(uuid "7d0675a9-4831-4a8a-9d97-beb9ed69191a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "7d0675a9-4831-4a8a-9d97-beb9ed69191a")
 		)
 		(pin "K18" input
 			(at 198.12 66.04 0)
+			(uuid "0e1fc096-b5c4-44fe-983c-0f6367c76997")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "0e1fc096-b5c4-44fe-983c-0f6367c76997")
 		)
 		(pin "K20" input
 			(at 198.12 71.12 0)
+			(uuid "ce8736e4-16d5-4547-9f65-22d24469e708")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "ce8736e4-16d5-4547-9f65-22d24469e708")
 		)
 		(pin "K17" input
 			(at 185.42 63.5 180)
+			(uuid "8457c189-cb5e-454d-92c4-057d98126316")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "8457c189-cb5e-454d-92c4-057d98126316")
 		)
 		(pin "K19" input
 			(at 185.42 68.58 180)
+			(uuid "fca8daa8-1407-40f4-81c3-db43200bf33d")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "fca8daa8-1407-40f4-81c3-db43200bf33d")
 		)
 		(pin "K15" input
 			(at 185.42 58.42 180)
+			(uuid "370b7c64-9b1f-44b1-84bd-190ac96e4cb9")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "370b7c64-9b1f-44b1-84bd-190ac96e4cb9")
 		)
 		(pin "K22" input
 			(at 198.12 76.2 0)
+			(uuid "1ebf63ec-a902-4e42-9ad5-5adcca706da0")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "1ebf63ec-a902-4e42-9ad5-5adcca706da0")
 		)
 		(pin "K21" input
 			(at 185.42 73.66 180)
+			(uuid "2736a697-596f-420c-8cb9-9ef62f2a9c75")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "2736a697-596f-420c-8cb9-9ef62f2a9c75")
 		)
 		(pin "A" input
 			(at 185.42 80.01 180)
+			(uuid "f6adc9b1-926b-4e87-a681-f4f48d01f821")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "f6adc9b1-926b-4e87-a681-f4f48d01f821")
 		)
 		(instances
 			(project "BadgeMagic"
@@ -33427,6 +33556,10 @@
 	(sheet
 		(at 368.3 20.32)
 		(size 12.7 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -33455,233 +33588,233 @@
 		)
 		(pin "K5" input
 			(at 368.3 33.02 180)
+			(uuid "fc77a461-a6c8-493b-962f-8d949129777a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "fc77a461-a6c8-493b-962f-8d949129777a")
 		)
 		(pin "K7" input
 			(at 368.3 38.1 180)
+			(uuid "b649b418-a8d6-4994-a061-27125bfefd2e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "b649b418-a8d6-4994-a061-27125bfefd2e")
 		)
 		(pin "K9" input
 			(at 368.3 43.18 180)
+			(uuid "f22e18d7-ccb5-41d3-94a6-3d45b61eceea")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "f22e18d7-ccb5-41d3-94a6-3d45b61eceea")
 		)
 		(pin "K1" input
 			(at 368.3 22.86 180)
+			(uuid "4dad9217-fc15-4ba5-b263-4e5b941813ff")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "4dad9217-fc15-4ba5-b263-4e5b941813ff")
 		)
 		(pin "K3" input
 			(at 368.3 27.94 180)
+			(uuid "772cc51c-0da5-433f-b517-bf3b53824de3")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "772cc51c-0da5-433f-b517-bf3b53824de3")
 		)
 		(pin "K4" input
 			(at 381 30.48 0)
+			(uuid "5aea449a-c10e-463d-a916-867066fd511f")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "5aea449a-c10e-463d-a916-867066fd511f")
 		)
 		(pin "K2" input
 			(at 381 25.4 0)
+			(uuid "0cc16628-7428-4238-ad87-2017e4ad2ae6")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "0cc16628-7428-4238-ad87-2017e4ad2ae6")
 		)
 		(pin "K6" input
 			(at 381 35.56 0)
+			(uuid "c10117c7-37eb-4fd1-b306-8f5d97c346e1")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "c10117c7-37eb-4fd1-b306-8f5d97c346e1")
 		)
 		(pin "K8" input
 			(at 381 40.64 0)
+			(uuid "fce26300-2eee-4aa3-90e9-c928d7db15da")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "fce26300-2eee-4aa3-90e9-c928d7db15da")
 		)
 		(pin "K13" input
 			(at 368.3 53.34 180)
+			(uuid "2cf294a5-571e-41e0-aa83-e10061ba42b7")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "2cf294a5-571e-41e0-aa83-e10061ba42b7")
 		)
 		(pin "K11" input
 			(at 368.3 48.26 180)
+			(uuid "9d0e98ec-6b62-4fae-9d23-6d10bbb89b5b")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "9d0e98ec-6b62-4fae-9d23-6d10bbb89b5b")
 		)
 		(pin "K12" input
 			(at 381 50.8 0)
+			(uuid "fcead01a-c30d-48d9-84d3-e166f68c6f8d")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "fcead01a-c30d-48d9-84d3-e166f68c6f8d")
 		)
 		(pin "K16" input
 			(at 381 60.96 0)
+			(uuid "71edfbf6-2e94-4ed2-b213-d9436cf3265f")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "71edfbf6-2e94-4ed2-b213-d9436cf3265f")
 		)
 		(pin "K14" input
 			(at 381 55.88 0)
+			(uuid "b7dd4ef3-bd36-4ebd-8baa-2a915f0c3b72")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "b7dd4ef3-bd36-4ebd-8baa-2a915f0c3b72")
 		)
 		(pin "K10" input
 			(at 381 45.72 0)
+			(uuid "a1654067-0692-417d-a4ab-937b3aa60e46")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "a1654067-0692-417d-a4ab-937b3aa60e46")
 		)
 		(pin "K18" input
 			(at 381 66.04 0)
+			(uuid "0c772191-b795-4583-ab2b-82af7ab3b1e6")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "0c772191-b795-4583-ab2b-82af7ab3b1e6")
 		)
 		(pin "K20" input
 			(at 381 71.12 0)
+			(uuid "95c93e56-b93a-42e0-8793-b691b9fa95b4")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "95c93e56-b93a-42e0-8793-b691b9fa95b4")
 		)
 		(pin "K17" input
 			(at 368.3 63.5 180)
+			(uuid "205894d6-e763-4773-98b3-af5c2c4a32be")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "205894d6-e763-4773-98b3-af5c2c4a32be")
 		)
 		(pin "K19" input
 			(at 368.3 68.58 180)
+			(uuid "911d91c3-e130-4c5c-bdf1-9a42f8eee3a9")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "911d91c3-e130-4c5c-bdf1-9a42f8eee3a9")
 		)
 		(pin "K15" input
 			(at 368.3 58.42 180)
+			(uuid "a07ae3a0-2076-475e-8557-a9710b7c3dec")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "a07ae3a0-2076-475e-8557-a9710b7c3dec")
 		)
 		(pin "K22" input
 			(at 381 76.2 0)
+			(uuid "eed0565e-b194-45c2-9fa3-ee2cfb0f6a23")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "eed0565e-b194-45c2-9fa3-ee2cfb0f6a23")
 		)
 		(pin "K21" input
 			(at 368.3 73.66 180)
+			(uuid "8ed454e8-be84-41e4-ae61-b70cc049e382")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "8ed454e8-be84-41e4-ae61-b70cc049e382")
 		)
 		(pin "A" input
 			(at 368.3 80.01 180)
+			(uuid "a2be5585-fbce-47c0-9f4f-769e7c4188d9")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "a2be5585-fbce-47c0-9f4f-769e7c4188d9")
 		)
 		(instances
 			(project "BadgeMagic"
@@ -33694,6 +33827,10 @@
 	(sheet
 		(at 83.82 20.32)
 		(size 12.7 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -33722,233 +33859,233 @@
 		)
 		(pin "K5" input
 			(at 83.82 33.02 180)
+			(uuid "9ff641dd-9fbd-452c-b646-75e2fe638785")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "9ff641dd-9fbd-452c-b646-75e2fe638785")
 		)
 		(pin "K7" input
 			(at 83.82 38.1 180)
+			(uuid "c37d6cf0-9c47-43b5-bda0-19741a656d9e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "c37d6cf0-9c47-43b5-bda0-19741a656d9e")
 		)
 		(pin "K9" input
 			(at 83.82 43.18 180)
+			(uuid "63712a3d-1580-47fa-8f5f-989521998554")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "63712a3d-1580-47fa-8f5f-989521998554")
 		)
 		(pin "K1" input
 			(at 83.82 22.86 180)
+			(uuid "0739ac7d-8304-432a-b586-18d777c0995a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "0739ac7d-8304-432a-b586-18d777c0995a")
 		)
 		(pin "K3" input
 			(at 83.82 27.94 180)
+			(uuid "ef2418cd-2f50-43ee-894b-45b0382b3506")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "ef2418cd-2f50-43ee-894b-45b0382b3506")
 		)
 		(pin "K4" input
 			(at 96.52 30.48 0)
+			(uuid "a89a4772-06a7-4280-b93a-835afe04b0b8")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "a89a4772-06a7-4280-b93a-835afe04b0b8")
 		)
 		(pin "K2" input
 			(at 96.52 25.4 0)
+			(uuid "41b184a6-e045-4bb3-a563-f8c4bdb64a77")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "41b184a6-e045-4bb3-a563-f8c4bdb64a77")
 		)
 		(pin "K6" input
 			(at 96.52 35.56 0)
+			(uuid "afca70a2-f5d2-47e2-b6c5-310e71246cd6")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "afca70a2-f5d2-47e2-b6c5-310e71246cd6")
 		)
 		(pin "K8" input
 			(at 96.52 40.64 0)
+			(uuid "a5550abf-6635-4d7f-93bd-69cc7bc1d4e5")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "a5550abf-6635-4d7f-93bd-69cc7bc1d4e5")
 		)
 		(pin "K13" input
 			(at 83.82 53.34 180)
+			(uuid "b5f35482-2e2f-4b1e-b65f-f494a57a28d3")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "b5f35482-2e2f-4b1e-b65f-f494a57a28d3")
 		)
 		(pin "K11" input
 			(at 83.82 48.26 180)
+			(uuid "b55056b9-63c9-4d97-a6f6-26f8425eb7f4")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "b55056b9-63c9-4d97-a6f6-26f8425eb7f4")
 		)
 		(pin "K12" input
 			(at 96.52 50.8 0)
+			(uuid "038385ef-c96b-475e-93db-513f6f8b2d55")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "038385ef-c96b-475e-93db-513f6f8b2d55")
 		)
 		(pin "K16" input
 			(at 96.52 60.96 0)
+			(uuid "695f10c2-781f-4428-863d-45ceb4275c53")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "695f10c2-781f-4428-863d-45ceb4275c53")
 		)
 		(pin "K14" input
 			(at 96.52 55.88 0)
+			(uuid "f4369a7f-8210-451c-9592-f92a3cfc4da9")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "f4369a7f-8210-451c-9592-f92a3cfc4da9")
 		)
 		(pin "K10" input
 			(at 96.52 45.72 0)
+			(uuid "f1297aea-6779-4418-90ae-6e2e9c442440")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "f1297aea-6779-4418-90ae-6e2e9c442440")
 		)
 		(pin "K18" input
 			(at 96.52 66.04 0)
+			(uuid "3220a670-6eda-42fd-a2cd-1a9fc2c51771")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "3220a670-6eda-42fd-a2cd-1a9fc2c51771")
 		)
 		(pin "K20" input
 			(at 96.52 71.12 0)
+			(uuid "61d65bb0-8f94-4dfb-8743-68922412d92c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "61d65bb0-8f94-4dfb-8743-68922412d92c")
 		)
 		(pin "K17" input
 			(at 83.82 63.5 180)
+			(uuid "09e3b395-b610-4417-ab6e-bcc145a327c0")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "09e3b395-b610-4417-ab6e-bcc145a327c0")
 		)
 		(pin "K19" input
 			(at 83.82 68.58 180)
+			(uuid "dcdc7639-c0e6-4883-abaf-cf7a555e5bb2")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "dcdc7639-c0e6-4883-abaf-cf7a555e5bb2")
 		)
 		(pin "K15" input
 			(at 83.82 58.42 180)
+			(uuid "e52ca5b3-36c2-4955-a842-8de258eb4ddc")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "e52ca5b3-36c2-4955-a842-8de258eb4ddc")
 		)
 		(pin "K22" input
 			(at 96.52 76.2 0)
+			(uuid "993d726c-8a7c-4f65-a09a-71c097c8fd54")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "993d726c-8a7c-4f65-a09a-71c097c8fd54")
 		)
 		(pin "K21" input
 			(at 83.82 73.66 180)
+			(uuid "5681741c-988e-4961-adf9-41993af864d0")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "5681741c-988e-4961-adf9-41993af864d0")
 		)
 		(pin "A" input
 			(at 83.82 80.01 180)
+			(uuid "3f5c35a0-9bbc-4eab-a570-76e737e7c8fc")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "3f5c35a0-9bbc-4eab-a570-76e737e7c8fc")
 		)
 		(instances
 			(project "BadgeMagic"
@@ -33961,6 +34098,10 @@
 	(sheet
 		(at 43.18 20.32)
 		(size 12.7 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -33989,233 +34130,233 @@
 		)
 		(pin "K5" input
 			(at 43.18 33.02 180)
+			(uuid "156e9ae2-6e4c-4809-bb6c-5ae9ffa98771")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "156e9ae2-6e4c-4809-bb6c-5ae9ffa98771")
 		)
 		(pin "K7" input
 			(at 43.18 38.1 180)
+			(uuid "886e7f71-0a38-424b-9682-d63bc007cd94")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "886e7f71-0a38-424b-9682-d63bc007cd94")
 		)
 		(pin "K9" input
 			(at 43.18 43.18 180)
+			(uuid "55a82864-8a93-4841-999e-ccd0def91079")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "55a82864-8a93-4841-999e-ccd0def91079")
 		)
 		(pin "K1" input
 			(at 43.18 22.86 180)
+			(uuid "89bbf626-9318-406a-9534-73c528c7048a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "89bbf626-9318-406a-9534-73c528c7048a")
 		)
 		(pin "K3" input
 			(at 43.18 27.94 180)
+			(uuid "21558680-83fd-4d71-8143-6e085afdfbcf")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "21558680-83fd-4d71-8143-6e085afdfbcf")
 		)
 		(pin "K4" input
 			(at 55.88 30.48 0)
+			(uuid "678e0f26-6985-4930-b507-c453bb348002")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "678e0f26-6985-4930-b507-c453bb348002")
 		)
 		(pin "K2" input
 			(at 55.88 25.4 0)
+			(uuid "5cdc2524-d612-4855-a5d9-28025775fcf5")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "5cdc2524-d612-4855-a5d9-28025775fcf5")
 		)
 		(pin "K6" input
 			(at 55.88 35.56 0)
+			(uuid "a37b6fe3-f004-4dbd-9b1e-0cff5bf15155")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "a37b6fe3-f004-4dbd-9b1e-0cff5bf15155")
 		)
 		(pin "K8" input
 			(at 55.88 40.64 0)
+			(uuid "9ba1de74-03da-4def-8adc-72daa3ab4377")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "9ba1de74-03da-4def-8adc-72daa3ab4377")
 		)
 		(pin "K13" input
 			(at 43.18 53.34 180)
+			(uuid "dd2817cd-b1f4-4c69-9cc5-e2c7c0f2f828")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "dd2817cd-b1f4-4c69-9cc5-e2c7c0f2f828")
 		)
 		(pin "K11" input
 			(at 43.18 48.26 180)
+			(uuid "5c919513-5b97-493d-ab2e-23b609c626eb")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "5c919513-5b97-493d-ab2e-23b609c626eb")
 		)
 		(pin "K12" input
 			(at 55.88 50.8 0)
+			(uuid "b2a196a7-cd03-450d-8dab-e310e5ea50d3")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "b2a196a7-cd03-450d-8dab-e310e5ea50d3")
 		)
 		(pin "K16" input
 			(at 55.88 60.96 0)
+			(uuid "012e6987-af39-4864-9469-0ceecad12ce3")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "012e6987-af39-4864-9469-0ceecad12ce3")
 		)
 		(pin "K14" input
 			(at 55.88 55.88 0)
+			(uuid "65eaa3d1-11e4-4edb-9002-546dfc9f9e23")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "65eaa3d1-11e4-4edb-9002-546dfc9f9e23")
 		)
 		(pin "K10" input
 			(at 55.88 45.72 0)
+			(uuid "34f17853-7413-40f9-b6fc-5e2730fc6866")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "34f17853-7413-40f9-b6fc-5e2730fc6866")
 		)
 		(pin "K18" input
 			(at 55.88 66.04 0)
+			(uuid "763cffef-3b44-4f0e-b7a3-ce3426e3ef18")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "763cffef-3b44-4f0e-b7a3-ce3426e3ef18")
 		)
 		(pin "K20" input
 			(at 55.88 71.12 0)
+			(uuid "08720de2-ec4d-43f2-8559-fa14e3986214")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "08720de2-ec4d-43f2-8559-fa14e3986214")
 		)
 		(pin "K17" input
 			(at 43.18 63.5 180)
+			(uuid "23c43000-b398-4d87-acdc-61c15ffb1272")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "23c43000-b398-4d87-acdc-61c15ffb1272")
 		)
 		(pin "K19" input
 			(at 43.18 68.58 180)
+			(uuid "e731b25d-338f-436f-9ed0-cbd9807eae60")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "e731b25d-338f-436f-9ed0-cbd9807eae60")
 		)
 		(pin "K15" input
 			(at 43.18 58.42 180)
+			(uuid "ae43a3e8-4cb1-47f9-9240-fc375e00004d")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "ae43a3e8-4cb1-47f9-9240-fc375e00004d")
 		)
 		(pin "K22" input
 			(at 55.88 76.2 0)
+			(uuid "88b32ec0-ed3b-452e-a130-44998c2d0161")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "88b32ec0-ed3b-452e-a130-44998c2d0161")
 		)
 		(pin "K21" input
 			(at 43.18 73.66 180)
+			(uuid "b751bef3-a0fe-4a10-81a2-08eadccfd06f")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "b751bef3-a0fe-4a10-81a2-08eadccfd06f")
 		)
 		(pin "A" input
 			(at 43.18 80.01 180)
+			(uuid "242de871-a413-4759-87d1-f003dc0afefc")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "242de871-a413-4759-87d1-f003dc0afefc")
 		)
 		(instances
 			(project "BadgeMagic"
@@ -34228,6 +34369,10 @@
 	(sheet
 		(at 144.78 20.32)
 		(size 12.7 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -34256,233 +34401,233 @@
 		)
 		(pin "K5" input
 			(at 144.78 33.02 180)
+			(uuid "8381cc2d-2068-4eb5-9ac5-5b084f993136")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "8381cc2d-2068-4eb5-9ac5-5b084f993136")
 		)
 		(pin "K7" input
 			(at 144.78 38.1 180)
+			(uuid "a0ace02f-65e6-4508-9030-56e109e133f8")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "a0ace02f-65e6-4508-9030-56e109e133f8")
 		)
 		(pin "K9" input
 			(at 144.78 43.18 180)
+			(uuid "051a34ca-f882-402d-b98c-1046acbeadb6")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "051a34ca-f882-402d-b98c-1046acbeadb6")
 		)
 		(pin "K1" input
 			(at 144.78 22.86 180)
+			(uuid "9fcdce22-e93c-48c3-aaaf-f75c61c620e0")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "9fcdce22-e93c-48c3-aaaf-f75c61c620e0")
 		)
 		(pin "K3" input
 			(at 144.78 27.94 180)
+			(uuid "8f727257-4a58-4384-b93b-afb6904d4c4d")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "8f727257-4a58-4384-b93b-afb6904d4c4d")
 		)
 		(pin "K4" input
 			(at 157.48 30.48 0)
+			(uuid "1c3827af-c2d3-4566-adb3-003aadb442f1")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "1c3827af-c2d3-4566-adb3-003aadb442f1")
 		)
 		(pin "K2" input
 			(at 157.48 25.4 0)
+			(uuid "6d56c51d-53c4-4f00-8ac2-940f2f9b23f4")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "6d56c51d-53c4-4f00-8ac2-940f2f9b23f4")
 		)
 		(pin "K6" input
 			(at 157.48 35.56 0)
+			(uuid "4fd809fc-6eb4-4a6f-8f60-0a7beab40769")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "4fd809fc-6eb4-4a6f-8f60-0a7beab40769")
 		)
 		(pin "K8" input
 			(at 157.48 40.64 0)
+			(uuid "e3d06d8c-9879-4c5c-ae94-8f5c3d1b7585")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "e3d06d8c-9879-4c5c-ae94-8f5c3d1b7585")
 		)
 		(pin "K13" input
 			(at 144.78 53.34 180)
+			(uuid "5ea2fec8-4031-40f7-9a66-3bf0289b3a7d")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "5ea2fec8-4031-40f7-9a66-3bf0289b3a7d")
 		)
 		(pin "K11" input
 			(at 144.78 48.26 180)
+			(uuid "f58b75a5-06ec-46f0-a4e0-b3ed91f5779d")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "f58b75a5-06ec-46f0-a4e0-b3ed91f5779d")
 		)
 		(pin "K12" input
 			(at 157.48 50.8 0)
+			(uuid "7eb3b61e-2e46-4ade-80a8-fad584a9e144")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "7eb3b61e-2e46-4ade-80a8-fad584a9e144")
 		)
 		(pin "K16" input
 			(at 157.48 60.96 0)
+			(uuid "48af1a29-d614-4a72-9d0b-b8bab3ef5c4a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "48af1a29-d614-4a72-9d0b-b8bab3ef5c4a")
 		)
 		(pin "K14" input
 			(at 157.48 55.88 0)
+			(uuid "66408597-39f3-4ce0-b19d-01be5ca82f64")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "66408597-39f3-4ce0-b19d-01be5ca82f64")
 		)
 		(pin "K10" input
 			(at 157.48 45.72 0)
+			(uuid "4f253f8c-a07c-4692-9896-44006b312201")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "4f253f8c-a07c-4692-9896-44006b312201")
 		)
 		(pin "K18" input
 			(at 157.48 66.04 0)
+			(uuid "542f080c-f4e4-41e1-9c10-30d4aa477679")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "542f080c-f4e4-41e1-9c10-30d4aa477679")
 		)
 		(pin "K20" input
 			(at 157.48 71.12 0)
+			(uuid "8b123818-d337-45c3-9288-80dce7552ca3")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "8b123818-d337-45c3-9288-80dce7552ca3")
 		)
 		(pin "K17" input
 			(at 144.78 63.5 180)
+			(uuid "c5b3a108-1c0e-431c-9177-1f3813fc05f2")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "c5b3a108-1c0e-431c-9177-1f3813fc05f2")
 		)
 		(pin "K19" input
 			(at 144.78 68.58 180)
+			(uuid "bb6de777-90c1-483f-b785-4f9cff9834ca")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "bb6de777-90c1-483f-b785-4f9cff9834ca")
 		)
 		(pin "K15" input
 			(at 144.78 58.42 180)
+			(uuid "c7df6226-c4cd-4915-b321-d31bd302a286")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "c7df6226-c4cd-4915-b321-d31bd302a286")
 		)
 		(pin "K22" input
 			(at 157.48 76.2 0)
+			(uuid "980362c7-c70b-4a92-9ea6-e0d0529e269c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "980362c7-c70b-4a92-9ea6-e0d0529e269c")
 		)
 		(pin "K21" input
 			(at 144.78 73.66 180)
+			(uuid "c79753a5-37d3-449e-bc8d-57f9e6a988d1")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "c79753a5-37d3-449e-bc8d-57f9e6a988d1")
 		)
 		(pin "A" input
 			(at 144.78 80.01 180)
+			(uuid "d5899dea-9ae6-4310-990b-0a1b1624788a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "d5899dea-9ae6-4310-990b-0a1b1624788a")
 		)
 		(instances
 			(project "BadgeMagic"
@@ -34495,6 +34640,10 @@
 	(sheet
 		(at 226.06 20.32)
 		(size 12.7 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -34523,233 +34672,233 @@
 		)
 		(pin "K5" input
 			(at 226.06 33.02 180)
+			(uuid "5d88ac31-4da2-495a-a7dc-5b34739e8450")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "5d88ac31-4da2-495a-a7dc-5b34739e8450")
 		)
 		(pin "K7" input
 			(at 226.06 38.1 180)
+			(uuid "36dca48b-fa08-4d95-801f-d1accc867709")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "36dca48b-fa08-4d95-801f-d1accc867709")
 		)
 		(pin "K9" input
 			(at 226.06 43.18 180)
+			(uuid "c971cef2-eb19-4722-b8f9-f77b849584a3")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "c971cef2-eb19-4722-b8f9-f77b849584a3")
 		)
 		(pin "K1" input
 			(at 226.06 22.86 180)
+			(uuid "278355d2-8ba7-4401-b682-d315b5e0f536")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "278355d2-8ba7-4401-b682-d315b5e0f536")
 		)
 		(pin "K3" input
 			(at 226.06 27.94 180)
+			(uuid "95ca58b1-45c2-40df-9c1a-dada37394f4c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "95ca58b1-45c2-40df-9c1a-dada37394f4c")
 		)
 		(pin "K4" input
 			(at 238.76 30.48 0)
+			(uuid "4ad18d89-eb89-45a8-8d93-49b977af8908")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "4ad18d89-eb89-45a8-8d93-49b977af8908")
 		)
 		(pin "K2" input
 			(at 238.76 25.4 0)
+			(uuid "ff344de8-5f94-4116-9df7-9c0c253cc7f8")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "ff344de8-5f94-4116-9df7-9c0c253cc7f8")
 		)
 		(pin "K6" input
 			(at 238.76 35.56 0)
+			(uuid "21e8720f-39e2-45f5-a700-fbcb0a00d12f")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "21e8720f-39e2-45f5-a700-fbcb0a00d12f")
 		)
 		(pin "K8" input
 			(at 238.76 40.64 0)
+			(uuid "691fed15-6a65-48dd-867d-56591a265c25")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "691fed15-6a65-48dd-867d-56591a265c25")
 		)
 		(pin "K13" input
 			(at 226.06 53.34 180)
+			(uuid "b28361fa-6303-4dec-96fa-2874bb1cbf99")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "b28361fa-6303-4dec-96fa-2874bb1cbf99")
 		)
 		(pin "K11" input
 			(at 226.06 48.26 180)
+			(uuid "8fc3923a-abbd-4adc-a816-4f16e9efda31")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "8fc3923a-abbd-4adc-a816-4f16e9efda31")
 		)
 		(pin "K12" input
 			(at 238.76 50.8 0)
+			(uuid "79f9b563-d919-404f-881b-d64acb3a3c67")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "79f9b563-d919-404f-881b-d64acb3a3c67")
 		)
 		(pin "K16" input
 			(at 238.76 60.96 0)
+			(uuid "98b6e8ec-1e45-4166-9a43-5545a1551b6d")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "98b6e8ec-1e45-4166-9a43-5545a1551b6d")
 		)
 		(pin "K14" input
 			(at 238.76 55.88 0)
+			(uuid "19b5d6a0-ddd8-4ef9-af8b-7b06a64782ef")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "19b5d6a0-ddd8-4ef9-af8b-7b06a64782ef")
 		)
 		(pin "K10" input
 			(at 238.76 45.72 0)
+			(uuid "8da5724b-5505-4966-9f1f-4b848b1ead5a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "8da5724b-5505-4966-9f1f-4b848b1ead5a")
 		)
 		(pin "K18" input
 			(at 238.76 66.04 0)
+			(uuid "baa85ba3-f930-4225-b7ff-7e25cdf64144")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "baa85ba3-f930-4225-b7ff-7e25cdf64144")
 		)
 		(pin "K20" input
 			(at 238.76 71.12 0)
+			(uuid "00141a93-3a24-4710-9709-b4d8b14d3256")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "00141a93-3a24-4710-9709-b4d8b14d3256")
 		)
 		(pin "K17" input
 			(at 226.06 63.5 180)
+			(uuid "50117389-05a3-40f4-ad7e-1207d34bd7b9")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "50117389-05a3-40f4-ad7e-1207d34bd7b9")
 		)
 		(pin "K19" input
 			(at 226.06 68.58 180)
+			(uuid "4282e179-2282-4763-8d07-46ace9dc76e5")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "4282e179-2282-4763-8d07-46ace9dc76e5")
 		)
 		(pin "K15" input
 			(at 226.06 58.42 180)
+			(uuid "c832e344-9536-4b21-97f8-cb9961a16c28")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "c832e344-9536-4b21-97f8-cb9961a16c28")
 		)
 		(pin "K22" input
 			(at 238.76 76.2 0)
+			(uuid "fdba9479-1c10-4c37-9e0b-066beb2dc652")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "fdba9479-1c10-4c37-9e0b-066beb2dc652")
 		)
 		(pin "K21" input
 			(at 226.06 73.66 180)
+			(uuid "411c9375-513a-4cba-a44d-a5950affd382")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "411c9375-513a-4cba-a44d-a5950affd382")
 		)
 		(pin "A" input
 			(at 226.06 80.01 180)
+			(uuid "107c79d9-ff3c-4156-ad82-bc23df13a2c8")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "107c79d9-ff3c-4156-ad82-bc23df13a2c8")
 		)
 		(instances
 			(project "BadgeMagic"
@@ -34762,6 +34911,10 @@
 	(sheet
 		(at 307.34 20.32)
 		(size 12.7 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -34790,233 +34943,233 @@
 		)
 		(pin "K5" input
 			(at 307.34 33.02 180)
+			(uuid "7b3a0c22-0747-4315-adef-9158458fab4b")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "7b3a0c22-0747-4315-adef-9158458fab4b")
 		)
 		(pin "K7" input
 			(at 307.34 38.1 180)
+			(uuid "6bb9a8f0-9342-47ad-bd01-e56cf1bb8de6")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "6bb9a8f0-9342-47ad-bd01-e56cf1bb8de6")
 		)
 		(pin "K9" input
 			(at 307.34 43.18 180)
+			(uuid "fa216fa4-6b94-4f4a-9405-34338de294a2")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "fa216fa4-6b94-4f4a-9405-34338de294a2")
 		)
 		(pin "K1" input
 			(at 307.34 22.86 180)
+			(uuid "8a8ccdb7-bd56-4a60-adbe-77094ca6eb66")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "8a8ccdb7-bd56-4a60-adbe-77094ca6eb66")
 		)
 		(pin "K3" input
 			(at 307.34 27.94 180)
+			(uuid "83c399cb-236e-48c9-87ed-7a78e2f22ee9")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "83c399cb-236e-48c9-87ed-7a78e2f22ee9")
 		)
 		(pin "K4" input
 			(at 320.04 30.48 0)
+			(uuid "f8e0b16f-5bc6-4e6b-9a82-435159223f4f")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "f8e0b16f-5bc6-4e6b-9a82-435159223f4f")
 		)
 		(pin "K2" input
 			(at 320.04 25.4 0)
+			(uuid "040d3127-dbac-4fab-9d49-9b3a5001e98d")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "040d3127-dbac-4fab-9d49-9b3a5001e98d")
 		)
 		(pin "K6" input
 			(at 320.04 35.56 0)
+			(uuid "af84ce0b-1af0-4bfc-b392-83e2c2abd7ab")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "af84ce0b-1af0-4bfc-b392-83e2c2abd7ab")
 		)
 		(pin "K8" input
 			(at 320.04 40.64 0)
+			(uuid "fdc19c3e-be20-406a-bb89-daf82c14956b")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "fdc19c3e-be20-406a-bb89-daf82c14956b")
 		)
 		(pin "K13" input
 			(at 307.34 53.34 180)
+			(uuid "c1675716-82f6-44fd-b71c-f16823c37e29")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "c1675716-82f6-44fd-b71c-f16823c37e29")
 		)
 		(pin "K11" input
 			(at 307.34 48.26 180)
+			(uuid "afe06b15-b687-43f3-8c41-6a7cab53cdb9")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "afe06b15-b687-43f3-8c41-6a7cab53cdb9")
 		)
 		(pin "K12" input
 			(at 320.04 50.8 0)
+			(uuid "36a5c897-3840-4f13-b605-92e830879c62")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "36a5c897-3840-4f13-b605-92e830879c62")
 		)
 		(pin "K16" input
 			(at 320.04 60.96 0)
+			(uuid "9295b778-5148-46ed-a375-7a4a12ea7fc9")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "9295b778-5148-46ed-a375-7a4a12ea7fc9")
 		)
 		(pin "K14" input
 			(at 320.04 55.88 0)
+			(uuid "7072f64e-9864-48fb-90b8-a3b05b8988e0")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "7072f64e-9864-48fb-90b8-a3b05b8988e0")
 		)
 		(pin "K10" input
 			(at 320.04 45.72 0)
+			(uuid "4109f069-9a24-478e-9f1c-2a9f826a8f19")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "4109f069-9a24-478e-9f1c-2a9f826a8f19")
 		)
 		(pin "K18" input
 			(at 320.04 66.04 0)
+			(uuid "71576956-bf3c-457a-827d-99243bb9ab20")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "71576956-bf3c-457a-827d-99243bb9ab20")
 		)
 		(pin "K20" input
 			(at 320.04 71.12 0)
+			(uuid "b7c0fd35-cf25-468d-91fd-eee439609857")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "b7c0fd35-cf25-468d-91fd-eee439609857")
 		)
 		(pin "K17" input
 			(at 307.34 63.5 180)
+			(uuid "653899e9-f58c-41ad-a7d0-1532fb9d37e8")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "653899e9-f58c-41ad-a7d0-1532fb9d37e8")
 		)
 		(pin "K19" input
 			(at 307.34 68.58 180)
+			(uuid "60f2b320-ee61-4b18-997e-c2f99a98b286")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "60f2b320-ee61-4b18-997e-c2f99a98b286")
 		)
 		(pin "K15" input
 			(at 307.34 58.42 180)
+			(uuid "4c855f5d-a81a-4608-b679-45d6194e4b2a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "4c855f5d-a81a-4608-b679-45d6194e4b2a")
 		)
 		(pin "K22" input
 			(at 320.04 76.2 0)
+			(uuid "de7f1b3c-82f5-480d-82df-38a0262767e8")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "de7f1b3c-82f5-480d-82df-38a0262767e8")
 		)
 		(pin "K21" input
 			(at 307.34 73.66 180)
+			(uuid "35d708b4-5468-4a22-a863-d06d182a481c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "35d708b4-5468-4a22-a863-d06d182a481c")
 		)
 		(pin "A" input
 			(at 307.34 80.01 180)
+			(uuid "3aeddaa0-dbed-476f-8226-0ee61fdbd39c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "3aeddaa0-dbed-476f-8226-0ee61fdbd39c")
 		)
 		(instances
 			(project "BadgeMagic"
@@ -35029,6 +35182,10 @@
 	(sheet
 		(at 347.98 20.32)
 		(size 12.7 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -35057,233 +35214,233 @@
 		)
 		(pin "K5" input
 			(at 347.98 33.02 180)
+			(uuid "8dd90e31-8740-4318-a624-e8691b7947cd")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "8dd90e31-8740-4318-a624-e8691b7947cd")
 		)
 		(pin "K7" input
 			(at 347.98 38.1 180)
+			(uuid "1e770779-4411-455f-8459-3dcdba0e556b")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "1e770779-4411-455f-8459-3dcdba0e556b")
 		)
 		(pin "K9" input
 			(at 347.98 43.18 180)
+			(uuid "39329ea3-8763-43b6-84f4-66717dd81c57")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "39329ea3-8763-43b6-84f4-66717dd81c57")
 		)
 		(pin "K1" input
 			(at 347.98 22.86 180)
+			(uuid "1b00724d-42ac-4c1b-9c64-fb8739e43f25")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "1b00724d-42ac-4c1b-9c64-fb8739e43f25")
 		)
 		(pin "K3" input
 			(at 347.98 27.94 180)
+			(uuid "5f0c7467-c77e-4876-a04e-9c0ba5abac57")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "5f0c7467-c77e-4876-a04e-9c0ba5abac57")
 		)
 		(pin "K4" input
 			(at 360.68 30.48 0)
+			(uuid "45cb296e-c01f-4acf-a5c2-4ac5106c6a08")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "45cb296e-c01f-4acf-a5c2-4ac5106c6a08")
 		)
 		(pin "K2" input
 			(at 360.68 25.4 0)
+			(uuid "fd11ceb0-c6d3-46cd-a0d8-97b42e128ebd")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "fd11ceb0-c6d3-46cd-a0d8-97b42e128ebd")
 		)
 		(pin "K6" input
 			(at 360.68 35.56 0)
+			(uuid "d8b70434-f2f8-47f6-bd9b-394f1f2452a2")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "d8b70434-f2f8-47f6-bd9b-394f1f2452a2")
 		)
 		(pin "K8" input
 			(at 360.68 40.64 0)
+			(uuid "f700bc16-f27e-4f15-92f4-659afe1fa8ac")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "f700bc16-f27e-4f15-92f4-659afe1fa8ac")
 		)
 		(pin "K13" input
 			(at 347.98 53.34 180)
+			(uuid "749ed4a7-7768-476f-9934-9bca1a27d018")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "749ed4a7-7768-476f-9934-9bca1a27d018")
 		)
 		(pin "K11" input
 			(at 347.98 48.26 180)
+			(uuid "c485b77c-b629-420a-b460-b64f5d546240")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "c485b77c-b629-420a-b460-b64f5d546240")
 		)
 		(pin "K12" input
 			(at 360.68 50.8 0)
+			(uuid "95b676ea-5557-42e3-b588-3205b3d31906")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "95b676ea-5557-42e3-b588-3205b3d31906")
 		)
 		(pin "K16" input
 			(at 360.68 60.96 0)
+			(uuid "b7937f87-0c47-4ec9-b5f4-2b9fb2c83b78")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "b7937f87-0c47-4ec9-b5f4-2b9fb2c83b78")
 		)
 		(pin "K14" input
 			(at 360.68 55.88 0)
+			(uuid "4b2f10e0-2d0d-4ae6-92b8-2f1f50799338")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "4b2f10e0-2d0d-4ae6-92b8-2f1f50799338")
 		)
 		(pin "K10" input
 			(at 360.68 45.72 0)
+			(uuid "1e728dac-062b-4661-888f-d9108384aa6e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "1e728dac-062b-4661-888f-d9108384aa6e")
 		)
 		(pin "K18" input
 			(at 360.68 66.04 0)
+			(uuid "220b97ad-71d1-4e04-8db7-aa280f759bd6")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "220b97ad-71d1-4e04-8db7-aa280f759bd6")
 		)
 		(pin "K20" input
 			(at 360.68 71.12 0)
+			(uuid "21785db8-e926-4c2e-babe-65b9a67a7b2e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "21785db8-e926-4c2e-babe-65b9a67a7b2e")
 		)
 		(pin "K17" input
 			(at 347.98 63.5 180)
+			(uuid "f0ce6cd9-44b7-413d-b364-82e650d5ece5")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "f0ce6cd9-44b7-413d-b364-82e650d5ece5")
 		)
 		(pin "K19" input
 			(at 347.98 68.58 180)
+			(uuid "6cc4f118-cfa6-4cd0-a3b9-f4c2f2119997")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "6cc4f118-cfa6-4cd0-a3b9-f4c2f2119997")
 		)
 		(pin "K15" input
 			(at 347.98 58.42 180)
+			(uuid "41ec1ed2-2b2a-44d0-b474-9c94eb9ca1da")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "41ec1ed2-2b2a-44d0-b474-9c94eb9ca1da")
 		)
 		(pin "K22" input
 			(at 360.68 76.2 0)
+			(uuid "0da0426e-6986-4bd6-a0e7-dc1fbaa3631e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "0da0426e-6986-4bd6-a0e7-dc1fbaa3631e")
 		)
 		(pin "K21" input
 			(at 347.98 73.66 180)
+			(uuid "281dc53d-cdd2-46ee-87f7-5b4193b294f3")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "281dc53d-cdd2-46ee-87f7-5b4193b294f3")
 		)
 		(pin "A" input
 			(at 347.98 80.01 180)
+			(uuid "3079874d-6db7-4776-971c-787bcee4ec96")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "3079874d-6db7-4776-971c-787bcee4ec96")
 		)
 		(instances
 			(project "BadgeMagic"
@@ -35296,6 +35453,10 @@
 	(sheet
 		(at 246.38 20.32)
 		(size 12.7 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -35324,233 +35485,233 @@
 		)
 		(pin "K5" input
 			(at 246.38 33.02 180)
+			(uuid "fc9a3c10-7a61-4c2d-bf0c-accbf62bbc10")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "fc9a3c10-7a61-4c2d-bf0c-accbf62bbc10")
 		)
 		(pin "K7" input
 			(at 246.38 38.1 180)
+			(uuid "d2df395d-3a9e-4e99-8973-85a4e940c573")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "d2df395d-3a9e-4e99-8973-85a4e940c573")
 		)
 		(pin "K9" input
 			(at 246.38 43.18 180)
+			(uuid "7471d7c8-aa75-4d9a-8e44-9516c561785c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "7471d7c8-aa75-4d9a-8e44-9516c561785c")
 		)
 		(pin "K1" input
 			(at 246.38 22.86 180)
+			(uuid "66e5707c-628c-4269-b849-0fb3c623fb3d")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "66e5707c-628c-4269-b849-0fb3c623fb3d")
 		)
 		(pin "K3" input
 			(at 246.38 27.94 180)
+			(uuid "d52a3f9f-8a88-4706-9636-d731232c0f05")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "d52a3f9f-8a88-4706-9636-d731232c0f05")
 		)
 		(pin "K4" input
 			(at 259.08 30.48 0)
+			(uuid "5c8e8a68-6faf-497f-8a96-fb4ef1cc0f66")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "5c8e8a68-6faf-497f-8a96-fb4ef1cc0f66")
 		)
 		(pin "K2" input
 			(at 259.08 25.4 0)
+			(uuid "569fc28e-09bc-4daf-a2b5-c1b64aeff386")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "569fc28e-09bc-4daf-a2b5-c1b64aeff386")
 		)
 		(pin "K6" input
 			(at 259.08 35.56 0)
+			(uuid "8b352158-5b84-4de2-a62d-f45451a92bdc")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "8b352158-5b84-4de2-a62d-f45451a92bdc")
 		)
 		(pin "K8" input
 			(at 259.08 40.64 0)
+			(uuid "a39c3c2f-79ac-4bbc-90df-92ddbfcb528d")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "a39c3c2f-79ac-4bbc-90df-92ddbfcb528d")
 		)
 		(pin "K13" input
 			(at 246.38 53.34 180)
+			(uuid "7f77af85-f9b6-4c41-a0c3-cbfe05319521")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "7f77af85-f9b6-4c41-a0c3-cbfe05319521")
 		)
 		(pin "K11" input
 			(at 246.38 48.26 180)
+			(uuid "9db1f60f-d8e6-4732-8ffc-eaa1f62ffe70")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "9db1f60f-d8e6-4732-8ffc-eaa1f62ffe70")
 		)
 		(pin "K12" input
 			(at 259.08 50.8 0)
+			(uuid "b55998e8-c2ca-428a-b751-3b2f83c72f6b")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "b55998e8-c2ca-428a-b751-3b2f83c72f6b")
 		)
 		(pin "K16" input
 			(at 259.08 60.96 0)
+			(uuid "ddb1b03c-501f-4c46-a4c2-12ed13287543")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "ddb1b03c-501f-4c46-a4c2-12ed13287543")
 		)
 		(pin "K14" input
 			(at 259.08 55.88 0)
+			(uuid "aa74612f-4fc1-486c-8f14-1a75e832a830")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "aa74612f-4fc1-486c-8f14-1a75e832a830")
 		)
 		(pin "K10" input
 			(at 259.08 45.72 0)
+			(uuid "c5648568-bfe5-430b-b8dd-6ede11b8d21a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "c5648568-bfe5-430b-b8dd-6ede11b8d21a")
 		)
 		(pin "K18" input
 			(at 259.08 66.04 0)
+			(uuid "164c1f5c-3e02-4868-a137-7d607f92ebc8")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "164c1f5c-3e02-4868-a137-7d607f92ebc8")
 		)
 		(pin "K20" input
 			(at 259.08 71.12 0)
+			(uuid "5d2a9428-de2a-4fe2-8091-1389f2f75624")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "5d2a9428-de2a-4fe2-8091-1389f2f75624")
 		)
 		(pin "K17" input
 			(at 246.38 63.5 180)
+			(uuid "ead70721-a4a1-4a8e-9ab1-e2e6e426645e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "ead70721-a4a1-4a8e-9ab1-e2e6e426645e")
 		)
 		(pin "K19" input
 			(at 246.38 68.58 180)
+			(uuid "f0d13197-11c7-4059-b81e-036e65925549")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "f0d13197-11c7-4059-b81e-036e65925549")
 		)
 		(pin "K15" input
 			(at 246.38 58.42 180)
+			(uuid "35804391-1541-4b32-ab40-01ce583b3bf6")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "35804391-1541-4b32-ab40-01ce583b3bf6")
 		)
 		(pin "K22" input
 			(at 259.08 76.2 0)
+			(uuid "c473ce63-dda3-46ea-b965-e5531088b775")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "c473ce63-dda3-46ea-b965-e5531088b775")
 		)
 		(pin "K21" input
 			(at 246.38 73.66 180)
+			(uuid "450f6a86-4ae5-412b-8ec9-f0f307bfcadf")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "450f6a86-4ae5-412b-8ec9-f0f307bfcadf")
 		)
 		(pin "A" input
 			(at 246.38 80.01 180)
+			(uuid "0d24f431-f534-4f35-a603-dc06d204aba9")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "0d24f431-f534-4f35-a603-dc06d204aba9")
 		)
 		(instances
 			(project "BadgeMagic"
@@ -35563,6 +35724,10 @@
 	(sheet
 		(at 205.74 20.32)
 		(size 12.7 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -35591,233 +35756,233 @@
 		)
 		(pin "K5" input
 			(at 205.74 33.02 180)
+			(uuid "3d406466-668a-4fcb-9ad3-671abb6b7aec")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "3d406466-668a-4fcb-9ad3-671abb6b7aec")
 		)
 		(pin "K7" input
 			(at 205.74 38.1 180)
+			(uuid "7951605d-91d6-4298-8d73-8581a11b4c3c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "7951605d-91d6-4298-8d73-8581a11b4c3c")
 		)
 		(pin "K9" input
 			(at 205.74 43.18 180)
+			(uuid "1d21e89f-f9da-40ac-871c-5a0fdaf4f33e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "1d21e89f-f9da-40ac-871c-5a0fdaf4f33e")
 		)
 		(pin "K1" input
 			(at 205.74 22.86 180)
+			(uuid "3f415f5a-fdf7-499a-9a50-807c2ba52b5d")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "3f415f5a-fdf7-499a-9a50-807c2ba52b5d")
 		)
 		(pin "K3" input
 			(at 205.74 27.94 180)
+			(uuid "4f15b16e-577d-454b-9977-b3bef876c106")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "4f15b16e-577d-454b-9977-b3bef876c106")
 		)
 		(pin "K4" input
 			(at 218.44 30.48 0)
+			(uuid "d9fecaa8-28cb-4d37-9c0a-3c69dbd0c307")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "d9fecaa8-28cb-4d37-9c0a-3c69dbd0c307")
 		)
 		(pin "K2" input
 			(at 218.44 25.4 0)
+			(uuid "d61ef09b-8947-4806-9405-4a9b6597b915")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "d61ef09b-8947-4806-9405-4a9b6597b915")
 		)
 		(pin "K6" input
 			(at 218.44 35.56 0)
+			(uuid "3ab081bf-58aa-48d9-8a4a-5db786182e64")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "3ab081bf-58aa-48d9-8a4a-5db786182e64")
 		)
 		(pin "K8" input
 			(at 218.44 40.64 0)
+			(uuid "9c97d6cf-6c53-4cac-8c92-fe1d6bf5efd8")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "9c97d6cf-6c53-4cac-8c92-fe1d6bf5efd8")
 		)
 		(pin "K13" input
 			(at 205.74 53.34 180)
+			(uuid "f2e4364a-a0d9-41aa-b099-fb112cae090d")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "f2e4364a-a0d9-41aa-b099-fb112cae090d")
 		)
 		(pin "K11" input
 			(at 205.74 48.26 180)
+			(uuid "3d667cf7-4088-4b9b-8c35-ae14e6e02980")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "3d667cf7-4088-4b9b-8c35-ae14e6e02980")
 		)
 		(pin "K12" input
 			(at 218.44 50.8 0)
+			(uuid "c2d6b0dc-17d7-4d00-96db-4caede948f0c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "c2d6b0dc-17d7-4d00-96db-4caede948f0c")
 		)
 		(pin "K16" input
 			(at 218.44 60.96 0)
+			(uuid "3bec2ff8-b9bd-402b-9b19-bd5283c1ab6b")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "3bec2ff8-b9bd-402b-9b19-bd5283c1ab6b")
 		)
 		(pin "K14" input
 			(at 218.44 55.88 0)
+			(uuid "d6e910e4-c7ec-490e-ab7b-869ed1d47135")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "d6e910e4-c7ec-490e-ab7b-869ed1d47135")
 		)
 		(pin "K10" input
 			(at 218.44 45.72 0)
+			(uuid "1e0385bf-2692-43e9-85c1-301262e10c9f")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "1e0385bf-2692-43e9-85c1-301262e10c9f")
 		)
 		(pin "K18" input
 			(at 218.44 66.04 0)
+			(uuid "bfda1ce4-f9ff-41cd-8c29-cae307134e39")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "bfda1ce4-f9ff-41cd-8c29-cae307134e39")
 		)
 		(pin "K20" input
 			(at 218.44 71.12 0)
+			(uuid "86ce7555-6aad-4b25-8977-5622703181ce")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "86ce7555-6aad-4b25-8977-5622703181ce")
 		)
 		(pin "K17" input
 			(at 205.74 63.5 180)
+			(uuid "57279ebb-66f9-4fcf-bf4f-45bb13e1838c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "57279ebb-66f9-4fcf-bf4f-45bb13e1838c")
 		)
 		(pin "K19" input
 			(at 205.74 68.58 180)
+			(uuid "bf256093-ac2e-44b0-815c-28a00635c37b")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "bf256093-ac2e-44b0-815c-28a00635c37b")
 		)
 		(pin "K15" input
 			(at 205.74 58.42 180)
+			(uuid "94bf354c-8bb4-4572-a119-55f63674a370")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "94bf354c-8bb4-4572-a119-55f63674a370")
 		)
 		(pin "K22" input
 			(at 218.44 76.2 0)
+			(uuid "20667d99-4dce-4390-8516-cf82e58fc5a7")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "20667d99-4dce-4390-8516-cf82e58fc5a7")
 		)
 		(pin "K21" input
 			(at 205.74 73.66 180)
+			(uuid "0e3c728b-3878-41f3-8ef5-eb7d7c56686b")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "0e3c728b-3878-41f3-8ef5-eb7d7c56686b")
 		)
 		(pin "A" input
 			(at 205.74 80.01 180)
+			(uuid "e1f76b58-2463-40d7-9262-3e1d8e3efa15")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "e1f76b58-2463-40d7-9262-3e1d8e3efa15")
 		)
 		(instances
 			(project "BadgeMagic"
@@ -35830,6 +35995,10 @@
 	(sheet
 		(at 165.1 20.32)
 		(size 12.7 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -35858,233 +36027,233 @@
 		)
 		(pin "K5" input
 			(at 165.1 33.02 180)
+			(uuid "db0602cc-42cc-460a-9704-ee539484ebb9")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "db0602cc-42cc-460a-9704-ee539484ebb9")
 		)
 		(pin "K7" input
 			(at 165.1 38.1 180)
+			(uuid "e3347431-8371-41de-8dea-3e1a3a16211e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "e3347431-8371-41de-8dea-3e1a3a16211e")
 		)
 		(pin "K9" input
 			(at 165.1 43.18 180)
+			(uuid "fa0a3d65-6165-4480-824b-4eed493e8cef")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "fa0a3d65-6165-4480-824b-4eed493e8cef")
 		)
 		(pin "K1" input
 			(at 165.1 22.86 180)
+			(uuid "f14270b8-f3a5-4059-9c29-44e7b9a30a68")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "f14270b8-f3a5-4059-9c29-44e7b9a30a68")
 		)
 		(pin "K3" input
 			(at 165.1 27.94 180)
+			(uuid "f283a45b-38cf-4e92-b295-5af3034ab128")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "f283a45b-38cf-4e92-b295-5af3034ab128")
 		)
 		(pin "K4" input
 			(at 177.8 30.48 0)
+			(uuid "c42e9754-da5d-4db8-b03e-9073910bd972")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "c42e9754-da5d-4db8-b03e-9073910bd972")
 		)
 		(pin "K2" input
 			(at 177.8 25.4 0)
+			(uuid "a59e596d-5c57-4060-a818-1c45ee19492f")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "a59e596d-5c57-4060-a818-1c45ee19492f")
 		)
 		(pin "K6" input
 			(at 177.8 35.56 0)
+			(uuid "6e9bd7e6-4dda-4a73-931e-f50e639f13e1")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "6e9bd7e6-4dda-4a73-931e-f50e639f13e1")
 		)
 		(pin "K8" input
 			(at 177.8 40.64 0)
+			(uuid "fef6f398-e5e7-4ecf-9b17-b4747f39d1cf")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "fef6f398-e5e7-4ecf-9b17-b4747f39d1cf")
 		)
 		(pin "K13" input
 			(at 165.1 53.34 180)
+			(uuid "5b68b42a-7804-4c7f-bedb-7ba734988cdd")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "5b68b42a-7804-4c7f-bedb-7ba734988cdd")
 		)
 		(pin "K11" input
 			(at 165.1 48.26 180)
+			(uuid "a144577c-42bf-4020-be70-afa82451368c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "a144577c-42bf-4020-be70-afa82451368c")
 		)
 		(pin "K12" input
 			(at 177.8 50.8 0)
+			(uuid "dd8ecd3b-a6c1-4f61-8bde-62004c65e509")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "dd8ecd3b-a6c1-4f61-8bde-62004c65e509")
 		)
 		(pin "K16" input
 			(at 177.8 60.96 0)
+			(uuid "4b8b694e-c6f9-4969-9c3c-814327a1c8f0")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "4b8b694e-c6f9-4969-9c3c-814327a1c8f0")
 		)
 		(pin "K14" input
 			(at 177.8 55.88 0)
+			(uuid "56793cc5-c7dd-49bf-8409-6a86bcbcd123")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "56793cc5-c7dd-49bf-8409-6a86bcbcd123")
 		)
 		(pin "K10" input
 			(at 177.8 45.72 0)
+			(uuid "6d8ef638-5a86-430b-8cd9-7176a0c97c9e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "6d8ef638-5a86-430b-8cd9-7176a0c97c9e")
 		)
 		(pin "K18" input
 			(at 177.8 66.04 0)
+			(uuid "46151783-0cf4-40ee-b0b0-4b23d7d453c5")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "46151783-0cf4-40ee-b0b0-4b23d7d453c5")
 		)
 		(pin "K20" input
 			(at 177.8 71.12 0)
+			(uuid "1228c55e-f23d-4b66-9db7-6da203420566")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "1228c55e-f23d-4b66-9db7-6da203420566")
 		)
 		(pin "K17" input
 			(at 165.1 63.5 180)
+			(uuid "97829a48-50fd-45b0-b515-81de9dec2d29")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "97829a48-50fd-45b0-b515-81de9dec2d29")
 		)
 		(pin "K19" input
 			(at 165.1 68.58 180)
+			(uuid "243acbbd-c8bb-4021-ae8d-0da396b1cc7e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "243acbbd-c8bb-4021-ae8d-0da396b1cc7e")
 		)
 		(pin "K15" input
 			(at 165.1 58.42 180)
+			(uuid "9e47545a-4d67-4d7e-8b0b-8905053a8932")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "9e47545a-4d67-4d7e-8b0b-8905053a8932")
 		)
 		(pin "K22" input
 			(at 177.8 76.2 0)
+			(uuid "c281c92e-9250-4d37-b0a5-b1420f7f0ebf")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "c281c92e-9250-4d37-b0a5-b1420f7f0ebf")
 		)
 		(pin "K21" input
 			(at 165.1 73.66 180)
+			(uuid "78b5c441-cc75-4d2a-bfeb-58c62f743679")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "78b5c441-cc75-4d2a-bfeb-58c62f743679")
 		)
 		(pin "A" input
 			(at 165.1 80.01 180)
+			(uuid "03322529-e2d6-4d21-bb73-610695a30602")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "03322529-e2d6-4d21-bb73-610695a30602")
 		)
 		(instances
 			(project "BadgeMagic"
@@ -36097,6 +36266,10 @@
 	(sheet
 		(at 287.02 20.32)
 		(size 12.7 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -36125,233 +36298,233 @@
 		)
 		(pin "K5" input
 			(at 287.02 33.02 180)
+			(uuid "27ab6e88-f468-4279-9bbe-856ed052f717")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "27ab6e88-f468-4279-9bbe-856ed052f717")
 		)
 		(pin "K7" input
 			(at 287.02 38.1 180)
+			(uuid "2da16c71-c7bb-47af-b2b4-83584ee25202")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "2da16c71-c7bb-47af-b2b4-83584ee25202")
 		)
 		(pin "K9" input
 			(at 287.02 43.18 180)
+			(uuid "359b1114-ac2a-4cfb-9038-dabdafbd5da9")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "359b1114-ac2a-4cfb-9038-dabdafbd5da9")
 		)
 		(pin "K1" input
 			(at 287.02 22.86 180)
+			(uuid "c02c8acb-316a-4947-bc74-cc4d0c0d0f91")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "c02c8acb-316a-4947-bc74-cc4d0c0d0f91")
 		)
 		(pin "K3" input
 			(at 287.02 27.94 180)
+			(uuid "5e63f25c-fd37-4390-8c11-d9a199388de8")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "5e63f25c-fd37-4390-8c11-d9a199388de8")
 		)
 		(pin "K4" input
 			(at 299.72 30.48 0)
+			(uuid "ea9b5e23-0134-474f-8cf2-f068850af41b")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "ea9b5e23-0134-474f-8cf2-f068850af41b")
 		)
 		(pin "K2" input
 			(at 299.72 25.4 0)
+			(uuid "407abdd9-0a4b-4293-a85f-9753e8332dad")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "407abdd9-0a4b-4293-a85f-9753e8332dad")
 		)
 		(pin "K6" input
 			(at 299.72 35.56 0)
+			(uuid "b811f8c2-f11b-4086-be66-52af87f82dba")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "b811f8c2-f11b-4086-be66-52af87f82dba")
 		)
 		(pin "K8" input
 			(at 299.72 40.64 0)
+			(uuid "72722928-bcfe-4717-a657-89bdc5dcb9ea")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "72722928-bcfe-4717-a657-89bdc5dcb9ea")
 		)
 		(pin "K13" input
 			(at 287.02 53.34 180)
+			(uuid "83aca0e7-c888-41d7-9936-92a05325efa3")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "83aca0e7-c888-41d7-9936-92a05325efa3")
 		)
 		(pin "K11" input
 			(at 287.02 48.26 180)
+			(uuid "8a582190-7c81-49c3-b574-5e7fca260cc7")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "8a582190-7c81-49c3-b574-5e7fca260cc7")
 		)
 		(pin "K12" input
 			(at 299.72 50.8 0)
+			(uuid "6d288e48-8351-4bc3-8a91-115d1f1a9c7a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "6d288e48-8351-4bc3-8a91-115d1f1a9c7a")
 		)
 		(pin "K16" input
 			(at 299.72 60.96 0)
+			(uuid "cab37b61-a1eb-4a1b-96f0-f5bfcea76e5e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "cab37b61-a1eb-4a1b-96f0-f5bfcea76e5e")
 		)
 		(pin "K14" input
 			(at 299.72 55.88 0)
+			(uuid "c3626a2c-2825-41d6-824e-098aad31dc56")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "c3626a2c-2825-41d6-824e-098aad31dc56")
 		)
 		(pin "K10" input
 			(at 299.72 45.72 0)
+			(uuid "8b6b3ee2-7354-4397-90f5-e177532b3242")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "8b6b3ee2-7354-4397-90f5-e177532b3242")
 		)
 		(pin "K18" input
 			(at 299.72 66.04 0)
+			(uuid "7d03054f-add7-44b7-9154-1153fc61e8a2")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "7d03054f-add7-44b7-9154-1153fc61e8a2")
 		)
 		(pin "K20" input
 			(at 299.72 71.12 0)
+			(uuid "8227cd10-3304-4ea6-bad7-b8b71ceff9b3")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "8227cd10-3304-4ea6-bad7-b8b71ceff9b3")
 		)
 		(pin "K17" input
 			(at 287.02 63.5 180)
+			(uuid "5092d8e7-f606-4e10-bfa3-386c8395538e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "5092d8e7-f606-4e10-bfa3-386c8395538e")
 		)
 		(pin "K19" input
 			(at 287.02 68.58 180)
+			(uuid "02cfb201-f870-4717-99f1-ce26b2c66954")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "02cfb201-f870-4717-99f1-ce26b2c66954")
 		)
 		(pin "K15" input
 			(at 287.02 58.42 180)
+			(uuid "57ebb260-7243-47b4-9687-f08105d68a33")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "57ebb260-7243-47b4-9687-f08105d68a33")
 		)
 		(pin "K22" input
 			(at 299.72 76.2 0)
+			(uuid "f3f0914c-ee9a-470d-bd8d-08eb14223f9c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "f3f0914c-ee9a-470d-bd8d-08eb14223f9c")
 		)
 		(pin "K21" input
 			(at 287.02 73.66 180)
+			(uuid "cf2ebe8c-2905-4a04-acee-67b6b9cdbfab")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "cf2ebe8c-2905-4a04-acee-67b6b9cdbfab")
 		)
 		(pin "A" input
 			(at 287.02 80.01 180)
+			(uuid "389c3cbe-3840-40e2-8a77-2f5ea536f50c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "389c3cbe-3840-40e2-8a77-2f5ea536f50c")
 		)
 		(instances
 			(project "BadgeMagic"
@@ -36364,6 +36537,10 @@
 	(sheet
 		(at 63.5 20.32)
 		(size 12.7 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -36392,233 +36569,233 @@
 		)
 		(pin "K5" input
 			(at 63.5 33.02 180)
+			(uuid "a1b9577e-69d6-4cfa-a8ef-6bfc2694d9e1")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "a1b9577e-69d6-4cfa-a8ef-6bfc2694d9e1")
 		)
 		(pin "K7" input
 			(at 63.5 38.1 180)
+			(uuid "042bf358-9e83-4ea3-a7ee-83d3835f6d19")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "042bf358-9e83-4ea3-a7ee-83d3835f6d19")
 		)
 		(pin "K9" input
 			(at 63.5 43.18 180)
+			(uuid "a92e29f8-98ad-4e49-a4f8-f49395987a88")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "a92e29f8-98ad-4e49-a4f8-f49395987a88")
 		)
 		(pin "K1" input
 			(at 63.5 22.86 180)
+			(uuid "57a15685-7d9c-4a14-8c40-25143183fc8f")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "57a15685-7d9c-4a14-8c40-25143183fc8f")
 		)
 		(pin "K3" input
 			(at 63.5 27.94 180)
+			(uuid "154effa9-e17b-4969-89f5-95c0e80560b6")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "154effa9-e17b-4969-89f5-95c0e80560b6")
 		)
 		(pin "K4" input
 			(at 76.2 30.48 0)
+			(uuid "d9f1ebb1-98d1-490d-9d26-9e1ca92f3424")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "d9f1ebb1-98d1-490d-9d26-9e1ca92f3424")
 		)
 		(pin "K2" input
 			(at 76.2 25.4 0)
+			(uuid "42045de6-d5e6-43d5-a0cd-436e10d7f6ec")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "42045de6-d5e6-43d5-a0cd-436e10d7f6ec")
 		)
 		(pin "K6" input
 			(at 76.2 35.56 0)
+			(uuid "534b48f3-f63c-443f-8052-f1c10a45e8b1")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "534b48f3-f63c-443f-8052-f1c10a45e8b1")
 		)
 		(pin "K8" input
 			(at 76.2 40.64 0)
+			(uuid "c707a92d-dbe3-4d77-b948-59bf0ae1e01c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "c707a92d-dbe3-4d77-b948-59bf0ae1e01c")
 		)
 		(pin "K13" input
 			(at 63.5 53.34 180)
+			(uuid "6d8274f9-57a3-4d70-9c7b-3e80a7bc03ad")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "6d8274f9-57a3-4d70-9c7b-3e80a7bc03ad")
 		)
 		(pin "K11" input
 			(at 63.5 48.26 180)
+			(uuid "11072c1e-f8a2-47a7-bc7d-c2871ec61337")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "11072c1e-f8a2-47a7-bc7d-c2871ec61337")
 		)
 		(pin "K12" input
 			(at 76.2 50.8 0)
+			(uuid "f85e0b5a-acde-4e9b-a97c-d273bbf27ef0")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "f85e0b5a-acde-4e9b-a97c-d273bbf27ef0")
 		)
 		(pin "K16" input
 			(at 76.2 60.96 0)
+			(uuid "99e1f78c-093d-4964-aadf-67c477500b75")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "99e1f78c-093d-4964-aadf-67c477500b75")
 		)
 		(pin "K14" input
 			(at 76.2 55.88 0)
+			(uuid "e754cb1e-32fa-4024-890a-b7b975921933")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "e754cb1e-32fa-4024-890a-b7b975921933")
 		)
 		(pin "K10" input
 			(at 76.2 45.72 0)
+			(uuid "c8c8fa95-2e7d-43f0-a19f-e88a48d85d37")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "c8c8fa95-2e7d-43f0-a19f-e88a48d85d37")
 		)
 		(pin "K18" input
 			(at 76.2 66.04 0)
+			(uuid "e97b7e87-17f8-4c0d-89ef-0bc7a00414c1")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "e97b7e87-17f8-4c0d-89ef-0bc7a00414c1")
 		)
 		(pin "K20" input
 			(at 76.2 71.12 0)
+			(uuid "4dd8d738-dae2-4793-bcf8-6181582d8cfb")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "4dd8d738-dae2-4793-bcf8-6181582d8cfb")
 		)
 		(pin "K17" input
 			(at 63.5 63.5 180)
+			(uuid "e40e7724-b865-4525-b159-98a16dbca359")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "e40e7724-b865-4525-b159-98a16dbca359")
 		)
 		(pin "K19" input
 			(at 63.5 68.58 180)
+			(uuid "4b3620d9-cbb3-45a2-b219-95abdcd1028f")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "4b3620d9-cbb3-45a2-b219-95abdcd1028f")
 		)
 		(pin "K15" input
 			(at 63.5 58.42 180)
+			(uuid "9160e525-70df-4e85-a545-21e24840788e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "9160e525-70df-4e85-a545-21e24840788e")
 		)
 		(pin "K22" input
 			(at 76.2 76.2 0)
+			(uuid "8a869001-e02d-4d05-b005-84eb81837533")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "8a869001-e02d-4d05-b005-84eb81837533")
 		)
 		(pin "K21" input
 			(at 63.5 73.66 180)
+			(uuid "6e8d895a-7e69-41b4-8903-185b17193597")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "6e8d895a-7e69-41b4-8903-185b17193597")
 		)
 		(pin "A" input
 			(at 63.5 80.01 180)
+			(uuid "42eaaa4f-ec6a-4845-b700-0180db39ce4e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "42eaaa4f-ec6a-4845-b700-0180db39ce4e")
 		)
 		(instances
 			(project "BadgeMagic"
@@ -36631,6 +36808,10 @@
 	(sheet
 		(at 22.86 20.32)
 		(size 12.7 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -36659,233 +36840,233 @@
 		)
 		(pin "K5" input
 			(at 22.86 33.02 180)
+			(uuid "a8c5cbb0-008b-4f09-b8ad-891c9019b2dd")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "a8c5cbb0-008b-4f09-b8ad-891c9019b2dd")
 		)
 		(pin "K7" input
 			(at 22.86 38.1 180)
+			(uuid "1de3251d-c5be-4a7a-8a91-7d46319ceb4e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "1de3251d-c5be-4a7a-8a91-7d46319ceb4e")
 		)
 		(pin "K9" input
 			(at 22.86 43.18 180)
+			(uuid "8615959e-2e5d-4dbe-af75-c4f8e9ff4f13")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "8615959e-2e5d-4dbe-af75-c4f8e9ff4f13")
 		)
 		(pin "K1" input
 			(at 22.86 22.86 180)
+			(uuid "0f155b1d-ce08-408a-92de-aa49e4e49060")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "0f155b1d-ce08-408a-92de-aa49e4e49060")
 		)
 		(pin "K3" input
 			(at 22.86 27.94 180)
+			(uuid "5a8a0ce7-84bf-4d28-9c47-ce4971b6026a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "5a8a0ce7-84bf-4d28-9c47-ce4971b6026a")
 		)
 		(pin "K4" input
 			(at 35.56 30.48 0)
+			(uuid "540b2796-34a8-4768-810b-c03773a3f9d2")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "540b2796-34a8-4768-810b-c03773a3f9d2")
 		)
 		(pin "K2" input
 			(at 35.56 25.4 0)
+			(uuid "dd44cfb1-09d1-4dbc-95eb-f142a3fb6b02")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "dd44cfb1-09d1-4dbc-95eb-f142a3fb6b02")
 		)
 		(pin "K6" input
 			(at 35.56 35.56 0)
+			(uuid "d4145c00-c293-452d-ac73-5804339d0b5a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "d4145c00-c293-452d-ac73-5804339d0b5a")
 		)
 		(pin "K8" input
 			(at 35.56 40.64 0)
+			(uuid "2bb3160c-0d12-44fd-8457-705bbedf1996")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "2bb3160c-0d12-44fd-8457-705bbedf1996")
 		)
 		(pin "K13" input
 			(at 22.86 53.34 180)
+			(uuid "c050a643-258a-4606-acf9-eaecf8037f00")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "c050a643-258a-4606-acf9-eaecf8037f00")
 		)
 		(pin "K11" input
 			(at 22.86 48.26 180)
+			(uuid "f653dd27-ba6a-46c8-80c6-615bbd903c72")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "f653dd27-ba6a-46c8-80c6-615bbd903c72")
 		)
 		(pin "K12" input
 			(at 35.56 50.8 0)
+			(uuid "803209fa-9a35-421b-8708-7747f63fec34")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "803209fa-9a35-421b-8708-7747f63fec34")
 		)
 		(pin "K16" input
 			(at 35.56 60.96 0)
+			(uuid "f546a7fb-b433-4287-8875-3bb391dd56e1")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "f546a7fb-b433-4287-8875-3bb391dd56e1")
 		)
 		(pin "K14" input
 			(at 35.56 55.88 0)
+			(uuid "13f96e64-92ae-434c-b165-b71dae68788f")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "13f96e64-92ae-434c-b165-b71dae68788f")
 		)
 		(pin "K10" input
 			(at 35.56 45.72 0)
+			(uuid "48f12f17-cfdb-4400-a6e4-014f67667604")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "48f12f17-cfdb-4400-a6e4-014f67667604")
 		)
 		(pin "K18" input
 			(at 35.56 66.04 0)
+			(uuid "87e7b0aa-0066-499b-8553-8d5ebc486f4c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "87e7b0aa-0066-499b-8553-8d5ebc486f4c")
 		)
 		(pin "K20" input
 			(at 35.56 71.12 0)
+			(uuid "9ca5a0aa-dcf2-4610-acc1-833b49b0775e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "9ca5a0aa-dcf2-4610-acc1-833b49b0775e")
 		)
 		(pin "K17" input
 			(at 22.86 63.5 180)
+			(uuid "553d407d-ae88-4197-9f56-23006a0eea2d")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "553d407d-ae88-4197-9f56-23006a0eea2d")
 		)
 		(pin "K19" input
 			(at 22.86 68.58 180)
+			(uuid "e4bbf299-1dda-4c6f-b128-dae5cee83003")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "e4bbf299-1dda-4c6f-b128-dae5cee83003")
 		)
 		(pin "K15" input
 			(at 22.86 58.42 180)
+			(uuid "318b7272-4c74-4191-b5bb-219240091d64")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "318b7272-4c74-4191-b5bb-219240091d64")
 		)
 		(pin "K22" input
 			(at 35.56 76.2 0)
+			(uuid "2d195c7d-1b5e-45dc-9709-83cb612c6d96")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "2d195c7d-1b5e-45dc-9709-83cb612c6d96")
 		)
 		(pin "K21" input
 			(at 22.86 73.66 180)
+			(uuid "7a73555b-93d5-43db-8191-827d6d5d7cfa")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "7a73555b-93d5-43db-8191-827d6d5d7cfa")
 		)
 		(pin "A" input
 			(at 22.86 80.01 180)
+			(uuid "dfe510b4-6fd3-446d-873a-107456cf8f8a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "dfe510b4-6fd3-446d-873a-107456cf8f8a")
 		)
 		(instances
 			(project "BadgeMagic"
@@ -36900,4 +37081,5 @@
 			(page "1")
 		)
 	)
+	(embedded_fonts no)
 )
