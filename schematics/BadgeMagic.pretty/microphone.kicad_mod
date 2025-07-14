@@ -14,7 +14,7 @@
 			)
 		)
 	)
-	(property "Value" "microphone"
+	(property "Value" "SAMZO MIC-4013-G-G00"
 		(at -0.18 -4.71 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -87,7 +87,13 @@
 			)
 		)
 	)
-	(pad "1" smd custom
+	(pad "1" smd circle
+		(at 0 0)
+		(size 0.9 0.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "9b5a7a43-b1d8-4f06-ae83-30199999c64b")
+	)
+	(pad "2" smd custom
 		(at -0.629998 -1.21 150)
 		(size 0.2 0.2)
 		(layers "F.Cu" "F.Mask" "F.Paste")
@@ -106,7 +112,7 @@
 		)
 		(uuid "94d357c0-3196-4b54-aab3-1a67cd7a6c78")
 	)
-	(pad "1" smd custom
+	(pad "2" smd custom
 		(at 0.469695 -1.288307 150)
 		(size 0.2 0.2)
 		(layers "F.Cu" "F.Mask" "F.Paste")
@@ -124,12 +130,6 @@
 			)
 		)
 		(uuid "3115765f-7d8b-4c72-8341-02e79e98ca16")
-	)
-	(pad "2" smd circle
-		(at 0 0)
-		(size 0.9 0.9)
-		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "9b5a7a43-b1d8-4f06-ae83-30199999c64b")
 	)
 	(embedded_fonts no)
 	(model "${KIPRJMOD}/3dmodels/microphone.step"

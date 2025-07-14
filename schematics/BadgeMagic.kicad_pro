@@ -556,7 +556,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "bm-gerber-20250110/",
+      "plot": "Gerber12-07-2025/",
       "pos_files": "cpl",
       "specctra_dsn": "",
       "step": "../../badgemagic-case/BadgeMagic-board.step",

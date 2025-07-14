@@ -115,7 +115,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "Gerber/")
+			(outputdirectory "Gerber12-07-2025/")
 		)
 	)
 	(net 0 "")
@@ -233,7 +233,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/3d0f9bdb-4042-4e98-949b-12c32010fb2c")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -434,7 +434,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/33d0379d-3b0b-431e-b971-fafa5f321ef9")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -635,7 +635,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/9cc884b3-a70d-4d23-b801-1719c7710612")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -836,7 +836,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/b78572f3-ebf9-432f-ac4a-ff677686860f")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1038,7 +1038,7 @@
 		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/316c41d8-7e58-412e-a75b-df8d4a014ea0")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_text user "${REFERENCE}"
@@ -1118,7 +1118,7 @@
 			)
 		)
 		(path "/e90d54ef-8d30-4850-9a69-cac3377584b0")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1393,7 +1393,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/3b7c2fa9-84d7-482f-b215-e53a12463187")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1594,7 +1594,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/d48e2f4b-bb96-45bb-bb36-15ef6b16b680")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1796,7 +1796,7 @@
 		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/12fba08b-4037-44f7-8abd-47b2ae63dfdb")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_text user "${REFERENCE}"
@@ -1877,7 +1877,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/fcb37a58-2e77-4c1f-8c3f-aabd26af89dc")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -2078,7 +2078,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/d9dcf982-e104-4627-9232-401db9cb5cbc")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -2280,7 +2280,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/855e5abf-66bd-4435-b19b-e14e1e75edaa")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -2481,7 +2481,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/404b1fa6-047e-4c50-8395-dd92544778ae")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -2682,7 +2682,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/134e53e5-d20b-4d12-9a92-7db61cfaf916")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -2896,7 +2896,7 @@
 		)
 		(property ki_fp_filters "TSOT?23*")
 		(path "/84162abf-14ac-4b5f-a8d8-129a7241117b")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -3120,9 +3120,9 @@
 		(uuid "5bc93023-ef01-4dab-a9cb-f4a701425b43")
 		(at 108.51 113.45 -90)
 		(property "Reference" "MK1"
-			(at -0.59 2.57 270)
+			(at -0.31 2.69 270)
 			(layer "F.SilkS")
-			(uuid "85d7bb4a-1be0-410a-92d8-717091df5c43")
+			(uuid "c3d9798b-f43b-4dc5-8b39-8ec5e3b5e4c7")
 			(effects
 				(font
 					(size 0.6 0.6)
@@ -3130,11 +3130,11 @@
 				)
 			)
 		)
-		(property "Value" "GMI4015-2C-30db"
+		(property "Value" "SAMZO MIC-4013-G-G00"
 			(at -0.18 -4.71 270)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "b89855ae-4244-44db-bcf8-61b8ad376a2c")
+			(uuid "e7a6f28c-e29b-42a6-a0bd-32e1137d37f7")
 			(effects
 				(font
 					(size 1 1)
@@ -3147,7 +3147,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7555944a-eb47-4fcf-94bc-5c7d6a1253a6")
+			(uuid "1a2f3a86-7b4e-421f-ae02-fc9a522da622")
 			(effects
 				(font
 					(size 1 1)
@@ -3155,12 +3155,12 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Microphone"
 			(at -0.031 -10.534 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "916fc277-4664-4204-8cd3-91b552e0a066")
+			(uuid "f2267ea2-8fea-4f8c-8e88-1ef895c20058")
 			(effects
 				(font
 					(size 1 1)
@@ -3168,8 +3168,8 @@
 				)
 			)
 		)
-		(path "/c39ec084-628e-4154-9a6f-1be5eeaab16d")
-		(sheetname "Root")
+		(path "/9e603b3c-8732-4100-a2f1-4b4e2ac95235")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_circle
@@ -3181,7 +3181,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "fecc2d92-4705-4efe-9bcb-7744c52d0c0d")
+			(uuid "d58d15f0-c99f-49dc-93eb-8a44a59bcef6")
 		)
 		(fp_circle
 			(center 0 0)
@@ -3192,7 +3192,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "82628827-be4b-4b35-b4c2-c949f1c8952d")
+			(uuid "03ac9021-8180-42c1-ac14-c216c8b76e7e")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -0.18 -3.21 270)
@@ -3206,7 +3206,16 @@
 				)
 			)
 		)
-		(pad "1" smd custom
+		(pad "1" smd circle
+			(at 0 0 270)
+			(size 0.9 0.9)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net 53 "Net-(MK1-+)")
+			(pinfunction "+")
+			(pintype "passive")
+			(uuid "1ea1e8c3-e62e-4ad7-bc6d-895ee7972307")
+		)
+		(pad "2" smd custom
 			(at -0.629998 -1.21 60)
 			(size 0.2 0.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
@@ -3226,9 +3235,9 @@
 					(width 0.5)
 				)
 			)
-			(uuid "1ea1e8c3-e62e-4ad7-bc6d-895ee7972307")
+			(uuid "690227f6-c250-46c6-a020-1e00e5f085ff")
 		)
-		(pad "1" smd custom
+		(pad "2" smd custom
 			(at 0.469695 -1.288307 60)
 			(size 0.2 0.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
@@ -3248,15 +3257,6 @@
 					(width 0.5)
 				)
 			)
-			(uuid "5cd02795-2e23-4e55-8e66-498bbb9d1f3d")
-		)
-		(pad "2" smd circle
-			(at 0 0 270)
-			(size 0.9 0.9)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 53 "Net-(MK1-+)")
-			(pinfunction "+")
-			(pintype "passive")
 			(uuid "690227f6-c250-46c6-a020-1e00e5f085ff")
 		)
 		(embedded_fonts no)
@@ -3328,7 +3328,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/b9c21061-88fc-46e8-968b-000e2db17e24")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -3872,7 +3872,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/07e4f695-119c-43c6-b85f-246c48cf8dbc")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -4074,7 +4074,7 @@
 		)
 		(property ki_fp_filters "SW?DIP?x1*")
 		(path "/6b7b027e-7243-4a1a-afd4-baf199b7e9fa")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -4434,7 +4434,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/2818fccb-9536-48c8-864a-8c11f520ac82")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -4635,7 +4635,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/85a8505f-824c-4ce5-9d4e-a3ca17afbd8c")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -4835,7 +4835,7 @@
 			)
 		)
 		(path "/db86314e-01d8-4916-a31a-8c68bd69a171")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_rect
@@ -4931,7 +4931,7 @@
 		(property "Reference" "KEY1"
 			(at -3.163 0.377475 90)
 			(layer "F.SilkS")
-			(uuid "fc13e894-1f6d-449a-a5a4-335ef7e9da8b")
+			(uuid "dafe6623-e730-404c-8c4f-ebd2265ab921")
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -4942,7 +4942,7 @@
 		(property "Value" "button"
 			(at 2.981271 3.002622 0)
 			(layer "F.Fab")
-			(uuid "1770f63c-1687-4e35-838e-6843f4481884")
+			(uuid "66e005c1-0ee9-417f-955f-08dc9c613615")
 			(effects
 				(font
 					(size 0.640533 0.640533)
@@ -4955,7 +4955,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7ed022c8-5e66-4711-a481-fc86ed85884d")
+			(uuid "fb5366b2-b421-4d7e-87ea-c12f3de2dd92")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4968,7 +4968,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1e829ca1-d6d6-473c-8752-74cda64f18be")
+			(uuid "74d8a6ae-f533-49ec-a184-c5bbc05d93cb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4977,7 +4977,7 @@
 			)
 		)
 		(path "/e77790fc-bb15-4267-9d78-1906efbf2e89")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_poly
@@ -5292,7 +5292,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/7a4074a3-135b-4ed9-8c50-572567a5b878")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -5444,7 +5444,7 @@
 		(property "Reference" "KEY2"
 			(at -3.01 -0.166125 90)
 			(layer "F.SilkS")
-			(uuid "804bd90e-2573-4669-b662-6d8d5027c72e")
+			(uuid "32daf6d5-7fc5-4782-979c-a7f698193826")
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -5455,7 +5455,7 @@
 		(property "Value" "button"
 			(at 2.981271 3.002622 0)
 			(layer "F.Fab")
-			(uuid "851aa968-e7cf-4098-bb38-c9be9b305bc4")
+			(uuid "e525c38a-99b9-4052-996a-5e2445207836")
 			(effects
 				(font
 					(size 0.640533 0.640533)
@@ -5468,7 +5468,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a42b315e-0dd3-42a9-8b58-283d68bea85e")
+			(uuid "43d4c4b4-82f1-4860-b741-f5bfa393a944")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5481,7 +5481,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8a184582-dfc8-420f-bc8e-f9e53085582e")
+			(uuid "dda9be98-4ec2-4d6e-ba77-a4f57ed003ad")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5490,7 +5490,7 @@
 			)
 		)
 		(path "/fc04a03c-9283-40f7-802d-aba9bc81a56d")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_poly
@@ -5805,7 +5805,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/32d50739-af48-42ac-bd00-52c874dad87c")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -5960,7 +5960,7 @@
 			(at 0 -5.015 90)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "0b99396c-c3f5-4afd-a793-c27908b2418e")
+			(uuid "c12db461-3ad0-439d-b53a-2dc75d448b0b")
 			(effects
 				(font
 					(size 0.6 0.6)
@@ -5973,7 +5973,7 @@
 			(at 0 5 90)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "9c149ada-4dc3-46b6-94b3-f9d62fca1da1")
+			(uuid "8ec76fdd-05c9-4c0b-847a-a086ed29a353")
 			(effects
 				(font
 					(size 1 1)
@@ -5986,7 +5986,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0942b7e9-27d2-43f4-b198-eeca775a59bf")
+			(uuid "e02d91ff-4d31-4e30-885c-4eda0de28907")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5999,7 +5999,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a74ae752-3aaa-43cb-aea6-ab848d2849f0")
+			(uuid "10423139-2039-4b1e-851c-30c6a74406c0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6009,7 +6009,7 @@
 		)
 		(property ki_fp_filters "USB*C*Receptacle*")
 		(path "/76b9df58-a85c-4219-935f-5655fe6ff0a6")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -6622,7 +6622,7 @@
 		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/36be1b50-0353-4022-8f67-d34265f3d7cc")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_text user "${REFERENCE}"
@@ -6703,7 +6703,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/a54b4899-c830-4ab2-b835-f76106b6dca5")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -6856,7 +6856,7 @@
 			(at -0.254 -1.768 270)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "f657cd3d-58b9-4b83-bd0f-8bd3b64b13b2")
+			(uuid "da7d78e9-aa4c-446a-8dcc-b8018a982924")
 			(effects
 				(font
 					(size 0.6 0.6)
@@ -6868,7 +6868,7 @@
 			(at 0 1 270)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "613dcf9a-736f-4924-b029-268d726d8f0b")
+			(uuid "f2177dca-0e6f-49fe-87c0-a2eb0244e7f0")
 			(effects
 				(font
 					(size 1 1)
@@ -6881,7 +6881,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7e3e22d9-a5a6-4f58-8ac9-99b0191f0949")
+			(uuid "2a9f511a-1bb0-4362-ace8-42710ead2432")
 			(effects
 				(font
 					(size 1 1)
@@ -6894,7 +6894,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a42fdfe6-1c5f-4b23-b21c-31def7b5de96")
+			(uuid "8623d6ff-c4c8-46dc-a09a-fa0ca4a08c95")
 			(effects
 				(font
 					(size 1 1)
@@ -6903,7 +6903,7 @@
 			)
 		)
 		(path "/73e0991e-8531-487d-8311-afdd458146a3")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -7205,7 +7205,7 @@
 		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/670058d2-a2bb-456b-b04a-136bbb1a21f6")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -8006,7 +8006,7 @@
 		)
 		(property ki_fp_filters "Crystal*")
 		(path "/90cf6fe0-13a3-43e1-b84e-4f24cae66acb")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -8275,7 +8275,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/4ac38ee8-b2b4-46ad-89c1-cadb888a2dd4")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -8476,7 +8476,7 @@
 			)
 		)
 		(path "/ad3301b6-19a4-41fb-ab15-897b4e320209")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(net_tie_pad_groups "1,2")
@@ -8752,7 +8752,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/52f5c25d-458e-464f-8d23-cb06e7bdcce9")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -8906,7 +8906,7 @@
 		(property "Reference" "U1"
 			(at 0 -3.8 0)
 			(layer "F.SilkS")
-			(uuid "2f3149d6-eac6-4039-8d9d-7fbdc7e09081")
+			(uuid "7f5b6e82-e4a4-42d7-b92d-39d32cc9f21b")
 			(effects
 				(font
 					(size 0.6 0.6)
@@ -8918,7 +8918,7 @@
 		(property "Value" "CH582M"
 			(at 0 3.8 0)
 			(layer "F.Fab")
-			(uuid "ca3ae633-2004-402f-bba5-946de48c0a60")
+			(uuid "7d2bf8a9-371b-49a9-9c50-310d77746efd")
 			(effects
 				(font
 					(size 1 1)
@@ -8931,7 +8931,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c774b5d8-bbb1-4ef8-8852-a2237b81a6e7")
+			(uuid "89630b7b-acca-4cc7-9a71-f351349f1455")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8944,7 +8944,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "19352991-114d-46bf-9251-e129be5b3869")
+			(uuid "0d0f421e-e73d-4397-91c1-91eed015c497")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8953,7 +8953,7 @@
 			)
 		)
 		(path "/10e18078-e5f8-41d4-b027-b2a430c4f444")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -9672,7 +9672,7 @@
 		(property "Reference" "KEY4"
 			(at 0.28 -4.57 180)
 			(layer "F.SilkS")
-			(uuid "b9e4afa0-56f7-4231-a969-9645ebed6c1d")
+			(uuid "ee9d0197-ed0a-426b-bcf1-72cafc5421ca")
 			(effects
 				(font
 					(size 0.6 0.6)
@@ -9683,7 +9683,7 @@
 		(property "Value" "button"
 			(at 2.981271 3.002622 90)
 			(layer "F.Fab")
-			(uuid "b2e1525f-9e74-4c62-846c-b80e50cd98ca")
+			(uuid "1ce73eb5-b9d5-431a-8f5d-b2cb3712dfa5")
 			(effects
 				(font
 					(size 0.640533 0.640533)
@@ -9696,7 +9696,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f0cb26ab-2874-4201-ba5b-22b287b82749")
+			(uuid "7b1e0f97-f630-4abc-af8e-33cbbd300c98")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9709,7 +9709,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6df5202e-edec-443c-81f8-eb305ed4acd8")
+			(uuid "a56cdf3d-f58c-4196-af5f-c66907e86656")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9718,7 +9718,7 @@
 			)
 		)
 		(path "/0ac6c1e9-a927-4d12-91d3-dce46edfbed0")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_poly
@@ -10046,7 +10046,7 @@
 		)
 		(property ki_fp_filters "SOT?23?3*")
 		(path "/88d56c95-7830-4aae-b6ce-6390847c4204")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -10252,7 +10252,7 @@
 		(property "Reference" "KEY3"
 			(at 0.66 -4.18 180)
 			(layer "F.SilkS")
-			(uuid "fa11030a-8d52-4645-96cc-84c2a1d82a29")
+			(uuid "7ace3f03-ab0a-44df-9e91-0745e1da9d0f")
 			(effects
 				(font
 					(size 0.6 0.6)
@@ -10263,7 +10263,7 @@
 		(property "Value" "button"
 			(at 2.981271 3.002622 90)
 			(layer "F.Fab")
-			(uuid "f5ebfbeb-7414-4bb9-b061-7b247a128e61")
+			(uuid "edc25472-882e-4db7-83e2-8213a6c540e0")
 			(effects
 				(font
 					(size 0.640533 0.640533)
@@ -10276,7 +10276,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "28c425e2-57ce-4287-bc87-f860496c2d8a")
+			(uuid "ec094c9f-0c29-4501-af6c-6216e9fe4f10")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10289,7 +10289,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7224f5aa-517d-45d7-8404-dc413c32eaac")
+			(uuid "933b5220-0099-40f8-9015-7704d727871b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10298,7 +10298,7 @@
 			)
 		)
 		(path "/cbc33f73-a25a-4f6a-933d-65361f3b6916")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr smd)
 		(fp_poly
@@ -10614,7 +10614,7 @@
 		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/63d3c69c-b8e3-4fbd-a0a5-b8d310704512")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "BadgeMagic.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_text user "${REFERENCE}"
@@ -10700,7 +10700,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b8e383d1-95bc-4d93-8024-df226022d503/cda99501-91fd-4137-b1a1-83b439e4d0de")
-		(sheetname "2COL14")
+		(sheetname "/2COL14/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -10899,7 +10899,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/62a62b7d-6c8c-4ce3-8661-307148d58c78/1b1a5626-9122-49dd-b379-98ff4318a63a")
-		(sheetname "2COL8")
+		(sheetname "/2COL8/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -11098,7 +11098,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c3e318cc-fbfc-46c3-a8f5-c1ca4fe7f73a/6b258651-d8c4-4abb-882a-419616d8c3c1")
-		(sheetname "2COL9")
+		(sheetname "/2COL9/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -11297,7 +11297,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/6cf8e435-006d-4a2a-930e-b9a7913b2046/7cd72f4e-0874-4960-afd5-5970ff45a3b8")
-		(sheetname "2COL17")
+		(sheetname "/2COL17/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -11496,7 +11496,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f84dd1ae-e2ab-4d18-ab78-3d437718915c/b3015f12-6144-4394-8210-3a9ce268da4d")
-		(sheetname "2COL")
+		(sheetname "/2COL/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -11695,7 +11695,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/eb8ad849-22df-404f-9fe5-43ac27e6f7d2/42d50e37-4827-4dfb-8f71-901f8591bb07")
-		(sheetname "2COL2")
+		(sheetname "/2COL2/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -11894,7 +11894,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b9cb9299-3734-4ccc-9ff1-c1296145620c/d176c282-15da-426a-acee-334a8532e0ef")
-		(sheetname "2COL16")
+		(sheetname "/2COL16/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -12093,7 +12093,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/2e2266d2-2f9c-4d9b-bd68-82606f2964e3/c402b2ac-dfc9-4c7a-9dd2-9e8e8b1d09a6")
-		(sheetname "2COL20")
+		(sheetname "/2COL20/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -12292,7 +12292,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/089ab465-6e04-4c47-b1e0-ff3ee886a87d/22b66d53-0d23-4b6c-a11e-f5df7413a700")
-		(sheetname "2COL12")
+		(sheetname "/2COL12/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -12491,7 +12491,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/089ab465-6e04-4c47-b1e0-ff3ee886a87d/ad44a3e1-e129-476b-872c-5c8a78192435")
-		(sheetname "2COL12")
+		(sheetname "/2COL12/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -12690,7 +12690,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/1959d7ce-8083-483c-95ea-ff4ede809429/e057aeb3-0ff8-494b-b172-4e901f36e5c4")
-		(sheetname "2COL5")
+		(sheetname "/2COL5/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -12889,7 +12889,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/eb8ad849-22df-404f-9fe5-43ac27e6f7d2/6b258651-d8c4-4abb-882a-419616d8c3c1")
-		(sheetname "2COL2")
+		(sheetname "/2COL2/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -13088,7 +13088,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a9271470-c391-4928-b6bc-d4224586cc3c/49c9ddf6-15b2-47c8-907c-a648dcfa2bbf")
-		(sheetname "2COL6")
+		(sheetname "/2COL6/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -13287,7 +13287,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/03d65d08-44c1-477d-9a40-f7eae0f14d68/e34cccd6-d956-4e80-be68-e81a3e74191f")
-		(sheetname "2COL19")
+		(sheetname "/2COL19/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -13486,7 +13486,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/d992c3de-3e6e-4052-9c20-641353e676af/24cb540b-7285-4c5b-afef-eedfaf3a4374")
-		(sheetname "2COL13")
+		(sheetname "/2COL13/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -13685,7 +13685,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/be907a4d-a396-4272-b0df-05ff2f56b57e/d176c282-15da-426a-acee-334a8532e0ef")
-		(sheetname "2COL11")
+		(sheetname "/2COL11/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -13884,7 +13884,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/3ad744e8-cf0c-4668-9323-b64379d785cc/e34cccd6-d956-4e80-be68-e81a3e74191f")
-		(sheetname "2COL15")
+		(sheetname "/2COL15/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -14083,7 +14083,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/62a62b7d-6c8c-4ce3-8661-307148d58c78/22b66d53-0d23-4b6c-a11e-f5df7413a700")
-		(sheetname "2COL8")
+		(sheetname "/2COL8/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -14282,7 +14282,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c3e318cc-fbfc-46c3-a8f5-c1ca4fe7f73a/d6fff41c-3f95-4ebe-8fb7-cccec25a209c")
-		(sheetname "2COL9")
+		(sheetname "/2COL9/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -14481,7 +14481,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/03d65d08-44c1-477d-9a40-f7eae0f14d68/6f1ba253-96c1-4d5b-b8ba-165b458f3375")
-		(sheetname "2COL19")
+		(sheetname "/2COL19/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -14680,7 +14680,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/23d5c24b-a6f9-435b-80b9-05fca2f600b5/1982fb65-599a-4e8d-a8b5-cc0a21b7b7bd")
-		(sheetname "2COL18")
+		(sheetname "/2COL18/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -14879,7 +14879,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/be907a4d-a396-4272-b0df-05ff2f56b57e/1b1a5626-9122-49dd-b379-98ff4318a63a")
-		(sheetname "2COL11")
+		(sheetname "/2COL11/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -15078,7 +15078,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c3e318cc-fbfc-46c3-a8f5-c1ca4fe7f73a/1b1a5626-9122-49dd-b379-98ff4318a63a")
-		(sheetname "2COL9")
+		(sheetname "/2COL9/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -15277,7 +15277,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/62a62b7d-6c8c-4ce3-8661-307148d58c78/cda99501-91fd-4137-b1a1-83b439e4d0de")
-		(sheetname "2COL8")
+		(sheetname "/2COL8/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -15476,7 +15476,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/8a4b1eeb-6c65-44fc-9bcc-8d7760055e6b/24cb540b-7285-4c5b-afef-eedfaf3a4374")
-		(sheetname "2COL1")
+		(sheetname "/2COL1/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -15675,7 +15675,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/be907a4d-a396-4272-b0df-05ff2f56b57e/158f05db-f22d-4dfe-9a73-01c6399677e7")
-		(sheetname "2COL11")
+		(sheetname "/2COL11/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -15874,7 +15874,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/62a62b7d-6c8c-4ce3-8661-307148d58c78/e34cccd6-d956-4e80-be68-e81a3e74191f")
-		(sheetname "2COL8")
+		(sheetname "/2COL8/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -16073,7 +16073,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/d992c3de-3e6e-4052-9c20-641353e676af/cda99501-91fd-4137-b1a1-83b439e4d0de")
-		(sheetname "2COL13")
+		(sheetname "/2COL13/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -16272,7 +16272,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f84dd1ae-e2ab-4d18-ab78-3d437718915c/ad44a3e1-e129-476b-872c-5c8a78192435")
-		(sheetname "2COL")
+		(sheetname "/2COL/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -16471,7 +16471,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f84dd1ae-e2ab-4d18-ab78-3d437718915c/9e6a5bf5-33cb-4620-811e-11cfcd7fc146")
-		(sheetname "2COL")
+		(sheetname "/2COL/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -16670,7 +16670,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/1959d7ce-8083-483c-95ea-ff4ede809429/d176c282-15da-426a-acee-334a8532e0ef")
-		(sheetname "2COL5")
+		(sheetname "/2COL5/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -16869,7 +16869,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/8a4b1eeb-6c65-44fc-9bcc-8d7760055e6b/c402b2ac-dfc9-4c7a-9dd2-9e8e8b1d09a6")
-		(sheetname "2COL1")
+		(sheetname "/2COL1/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -17068,7 +17068,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/77a30366-984c-468b-8cb1-b24dff7f3b5e/fb6779e9-6c6d-4776-b210-2ac9f162af0f")
-		(sheetname "2COL3")
+		(sheetname "/2COL3/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -17267,7 +17267,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c3e318cc-fbfc-46c3-a8f5-c1ca4fe7f73a/d176c282-15da-426a-acee-334a8532e0ef")
-		(sheetname "2COL9")
+		(sheetname "/2COL9/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -17466,7 +17466,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c3e318cc-fbfc-46c3-a8f5-c1ca4fe7f73a/e057aeb3-0ff8-494b-b172-4e901f36e5c4")
-		(sheetname "2COL9")
+		(sheetname "/2COL9/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -17665,7 +17665,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/23d5c24b-a6f9-435b-80b9-05fca2f600b5/8c99229a-fdfa-4679-8d45-48315e234d8e")
-		(sheetname "2COL18")
+		(sheetname "/2COL18/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -17864,7 +17864,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/23d5c24b-a6f9-435b-80b9-05fca2f600b5/42d50e37-4827-4dfb-8f71-901f8591bb07")
-		(sheetname "2COL18")
+		(sheetname "/2COL18/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -18063,7 +18063,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/1959d7ce-8083-483c-95ea-ff4ede809429/8c99229a-fdfa-4679-8d45-48315e234d8e")
-		(sheetname "2COL5")
+		(sheetname "/2COL5/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -18262,7 +18262,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c3e318cc-fbfc-46c3-a8f5-c1ca4fe7f73a/ad44a3e1-e129-476b-872c-5c8a78192435")
-		(sheetname "2COL9")
+		(sheetname "/2COL9/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -18461,7 +18461,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/089ab465-6e04-4c47-b1e0-ff3ee886a87d/d6fff41c-3f95-4ebe-8fb7-cccec25a209c")
-		(sheetname "2COL12")
+		(sheetname "/2COL12/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -18660,7 +18660,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b9cb9299-3734-4ccc-9ff1-c1296145620c/7cd72f4e-0874-4960-afd5-5970ff45a3b8")
-		(sheetname "2COL16")
+		(sheetname "/2COL16/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -18859,7 +18859,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/089ab465-6e04-4c47-b1e0-ff3ee886a87d/c402b2ac-dfc9-4c7a-9dd2-9e8e8b1d09a6")
-		(sheetname "2COL12")
+		(sheetname "/2COL12/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -19058,7 +19058,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/1959d7ce-8083-483c-95ea-ff4ede809429/24cb540b-7285-4c5b-afef-eedfaf3a4374")
-		(sheetname "2COL5")
+		(sheetname "/2COL5/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -19257,7 +19257,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b9cb9299-3734-4ccc-9ff1-c1296145620c/c402b2ac-dfc9-4c7a-9dd2-9e8e8b1d09a6")
-		(sheetname "2COL16")
+		(sheetname "/2COL16/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -19456,7 +19456,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f84dd1ae-e2ab-4d18-ab78-3d437718915c/cda99501-91fd-4137-b1a1-83b439e4d0de")
-		(sheetname "2COL")
+		(sheetname "/2COL/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -19655,7 +19655,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b7012996-f84a-405a-b303-5c1de1b3b0ec/42d50e37-4827-4dfb-8f71-901f8591bb07")
-		(sheetname "2COL10")
+		(sheetname "/2COL10/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -19854,7 +19854,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/089ab465-6e04-4c47-b1e0-ff3ee886a87d/e34cccd6-d956-4e80-be68-e81a3e74191f")
-		(sheetname "2COL12")
+		(sheetname "/2COL12/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -20053,7 +20053,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/be907a4d-a396-4272-b0df-05ff2f56b57e/8c99229a-fdfa-4679-8d45-48315e234d8e")
-		(sheetname "2COL11")
+		(sheetname "/2COL11/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -20252,7 +20252,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a9271470-c391-4928-b6bc-d4224586cc3c/1b1a5626-9122-49dd-b379-98ff4318a63a")
-		(sheetname "2COL6")
+		(sheetname "/2COL6/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -20451,7 +20451,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/6cf8e435-006d-4a2a-930e-b9a7913b2046/c402b2ac-dfc9-4c7a-9dd2-9e8e8b1d09a6")
-		(sheetname "2COL17")
+		(sheetname "/2COL17/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -20650,7 +20650,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b8e383d1-95bc-4d93-8024-df226022d503/9e6a5bf5-33cb-4620-811e-11cfcd7fc146")
-		(sheetname "2COL14")
+		(sheetname "/2COL14/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -20849,7 +20849,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/3ad744e8-cf0c-4668-9323-b64379d785cc/9e6a5bf5-33cb-4620-811e-11cfcd7fc146")
-		(sheetname "2COL15")
+		(sheetname "/2COL15/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -21048,7 +21048,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/089ab465-6e04-4c47-b1e0-ff3ee886a87d/6b258651-d8c4-4abb-882a-419616d8c3c1")
-		(sheetname "2COL12")
+		(sheetname "/2COL12/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -21247,7 +21247,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/180b4ec4-74b9-40a8-a57c-1f304bdc23f2/9e6a5bf5-33cb-4620-811e-11cfcd7fc146")
-		(sheetname "2COL4")
+		(sheetname "/2COL4/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -21446,7 +21446,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b7012996-f84a-405a-b303-5c1de1b3b0ec/5b2a4689-9de4-4efc-beb9-db3c5f919a8b")
-		(sheetname "2COL10")
+		(sheetname "/2COL10/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -21645,7 +21645,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/2e2266d2-2f9c-4d9b-bd68-82606f2964e3/6f1ba253-96c1-4d5b-b8ba-165b458f3375")
-		(sheetname "2COL20")
+		(sheetname "/2COL20/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -21844,7 +21844,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b9cb9299-3734-4ccc-9ff1-c1296145620c/1b1a5626-9122-49dd-b379-98ff4318a63a")
-		(sheetname "2COL16")
+		(sheetname "/2COL16/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -22043,7 +22043,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/03d65d08-44c1-477d-9a40-f7eae0f14d68/b3015f12-6144-4394-8210-3a9ce268da4d")
-		(sheetname "2COL19")
+		(sheetname "/2COL19/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -22242,7 +22242,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/2e2266d2-2f9c-4d9b-bd68-82606f2964e3/d176c282-15da-426a-acee-334a8532e0ef")
-		(sheetname "2COL20")
+		(sheetname "/2COL20/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -22441,7 +22441,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/2e2266d2-2f9c-4d9b-bd68-82606f2964e3/22b66d53-0d23-4b6c-a11e-f5df7413a700")
-		(sheetname "2COL20")
+		(sheetname "/2COL20/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -22640,7 +22640,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/1959d7ce-8083-483c-95ea-ff4ede809429/42d50e37-4827-4dfb-8f71-901f8591bb07")
-		(sheetname "2COL5")
+		(sheetname "/2COL5/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -22839,7 +22839,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/8a4b1eeb-6c65-44fc-9bcc-8d7760055e6b/49c9ddf6-15b2-47c8-907c-a648dcfa2bbf")
-		(sheetname "2COL1")
+		(sheetname "/2COL1/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -23038,7 +23038,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/be907a4d-a396-4272-b0df-05ff2f56b57e/22b66d53-0d23-4b6c-a11e-f5df7413a700")
-		(sheetname "2COL11")
+		(sheetname "/2COL11/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -23237,7 +23237,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/089ab465-6e04-4c47-b1e0-ff3ee886a87d/e057aeb3-0ff8-494b-b172-4e901f36e5c4")
-		(sheetname "2COL12")
+		(sheetname "/2COL12/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -23436,7 +23436,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/23d5c24b-a6f9-435b-80b9-05fca2f600b5/5b2a4689-9de4-4efc-beb9-db3c5f919a8b")
-		(sheetname "2COL18")
+		(sheetname "/2COL18/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -23635,7 +23635,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/1959d7ce-8083-483c-95ea-ff4ede809429/5b2a4689-9de4-4efc-beb9-db3c5f919a8b")
-		(sheetname "2COL5")
+		(sheetname "/2COL5/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -23834,7 +23834,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b8e383d1-95bc-4d93-8024-df226022d503/e057aeb3-0ff8-494b-b172-4e901f36e5c4")
-		(sheetname "2COL14")
+		(sheetname "/2COL14/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -24033,7 +24033,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/089ab465-6e04-4c47-b1e0-ff3ee886a87d/42d50e37-4827-4dfb-8f71-901f8591bb07")
-		(sheetname "2COL12")
+		(sheetname "/2COL12/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -24232,7 +24232,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c58d9aaf-5253-4480-80ec-00539ac00bf4/1982fb65-599a-4e8d-a8b5-cc0a21b7b7bd")
-		(sheetname "2COL7")
+		(sheetname "/2COL7/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -24431,7 +24431,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/be907a4d-a396-4272-b0df-05ff2f56b57e/fb6779e9-6c6d-4776-b210-2ac9f162af0f")
-		(sheetname "2COL11")
+		(sheetname "/2COL11/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -24630,7 +24630,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c3e318cc-fbfc-46c3-a8f5-c1ca4fe7f73a/22b66d53-0d23-4b6c-a11e-f5df7413a700")
-		(sheetname "2COL9")
+		(sheetname "/2COL9/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -24829,7 +24829,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/136972b7-c8e2-45fa-a6ae-9dcf30fdb462/5b2a4689-9de4-4efc-beb9-db3c5f919a8b")
-		(sheetname "2COL21")
+		(sheetname "/2COL21/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -25028,7 +25028,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b8e383d1-95bc-4d93-8024-df226022d503/49c9ddf6-15b2-47c8-907c-a648dcfa2bbf")
-		(sheetname "2COL14")
+		(sheetname "/2COL14/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -25227,7 +25227,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/089ab465-6e04-4c47-b1e0-ff3ee886a87d/fb6779e9-6c6d-4776-b210-2ac9f162af0f")
-		(sheetname "2COL12")
+		(sheetname "/2COL12/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -25426,7 +25426,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/77a30366-984c-468b-8cb1-b24dff7f3b5e/24cb540b-7285-4c5b-afef-eedfaf3a4374")
-		(sheetname "2COL3")
+		(sheetname "/2COL3/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -25625,7 +25625,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/77a30366-984c-468b-8cb1-b24dff7f3b5e/1982fb65-599a-4e8d-a8b5-cc0a21b7b7bd")
-		(sheetname "2COL3")
+		(sheetname "/2COL3/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -25824,7 +25824,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b8e383d1-95bc-4d93-8024-df226022d503/fb6779e9-6c6d-4776-b210-2ac9f162af0f")
-		(sheetname "2COL14")
+		(sheetname "/2COL14/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -26023,7 +26023,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/089ab465-6e04-4c47-b1e0-ff3ee886a87d/6f1ba253-96c1-4d5b-b8ba-165b458f3375")
-		(sheetname "2COL12")
+		(sheetname "/2COL12/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -26222,7 +26222,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/136972b7-c8e2-45fa-a6ae-9dcf30fdb462/9e6a5bf5-33cb-4620-811e-11cfcd7fc146")
-		(sheetname "2COL21")
+		(sheetname "/2COL21/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -26421,7 +26421,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/2e2266d2-2f9c-4d9b-bd68-82606f2964e3/7cd72f4e-0874-4960-afd5-5970ff45a3b8")
-		(sheetname "2COL20")
+		(sheetname "/2COL20/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -26620,7 +26620,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/23d5c24b-a6f9-435b-80b9-05fca2f600b5/b3015f12-6144-4394-8210-3a9ce268da4d")
-		(sheetname "2COL18")
+		(sheetname "/2COL18/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -26819,7 +26819,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a9271470-c391-4928-b6bc-d4224586cc3c/158f05db-f22d-4dfe-9a73-01c6399677e7")
-		(sheetname "2COL6")
+		(sheetname "/2COL6/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -27018,7 +27018,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/6cf8e435-006d-4a2a-930e-b9a7913b2046/5b2a4689-9de4-4efc-beb9-db3c5f919a8b")
-		(sheetname "2COL17")
+		(sheetname "/2COL17/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -27217,7 +27217,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/2e2266d2-2f9c-4d9b-bd68-82606f2964e3/cda99501-91fd-4137-b1a1-83b439e4d0de")
-		(sheetname "2COL20")
+		(sheetname "/2COL20/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -27416,7 +27416,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/3ad744e8-cf0c-4668-9323-b64379d785cc/24cb540b-7285-4c5b-afef-eedfaf3a4374")
-		(sheetname "2COL15")
+		(sheetname "/2COL15/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -27615,7 +27615,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/77a30366-984c-468b-8cb1-b24dff7f3b5e/e34cccd6-d956-4e80-be68-e81a3e74191f")
-		(sheetname "2COL3")
+		(sheetname "/2COL3/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -27814,7 +27814,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/d992c3de-3e6e-4052-9c20-641353e676af/6f1ba253-96c1-4d5b-b8ba-165b458f3375")
-		(sheetname "2COL13")
+		(sheetname "/2COL13/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -28013,7 +28013,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c3e318cc-fbfc-46c3-a8f5-c1ca4fe7f73a/6f1ba253-96c1-4d5b-b8ba-165b458f3375")
-		(sheetname "2COL9")
+		(sheetname "/2COL9/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -28212,7 +28212,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/180b4ec4-74b9-40a8-a57c-1f304bdc23f2/d6fff41c-3f95-4ebe-8fb7-cccec25a209c")
-		(sheetname "2COL4")
+		(sheetname "/2COL4/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -28411,7 +28411,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b8e383d1-95bc-4d93-8024-df226022d503/42d50e37-4827-4dfb-8f71-901f8591bb07")
-		(sheetname "2COL14")
+		(sheetname "/2COL14/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -28610,7 +28610,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/62a62b7d-6c8c-4ce3-8661-307148d58c78/ad44a3e1-e129-476b-872c-5c8a78192435")
-		(sheetname "2COL8")
+		(sheetname "/2COL8/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -28809,7 +28809,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a9271470-c391-4928-b6bc-d4224586cc3c/fb6779e9-6c6d-4776-b210-2ac9f162af0f")
-		(sheetname "2COL6")
+		(sheetname "/2COL6/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -29008,7 +29008,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/3ad744e8-cf0c-4668-9323-b64379d785cc/fb6779e9-6c6d-4776-b210-2ac9f162af0f")
-		(sheetname "2COL15")
+		(sheetname "/2COL15/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -29207,7 +29207,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/be907a4d-a396-4272-b0df-05ff2f56b57e/24cb540b-7285-4c5b-afef-eedfaf3a4374")
-		(sheetname "2COL11")
+		(sheetname "/2COL11/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -29406,7 +29406,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/180b4ec4-74b9-40a8-a57c-1f304bdc23f2/ad44a3e1-e129-476b-872c-5c8a78192435")
-		(sheetname "2COL4")
+		(sheetname "/2COL4/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -29605,7 +29605,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c3e318cc-fbfc-46c3-a8f5-c1ca4fe7f73a/158f05db-f22d-4dfe-9a73-01c6399677e7")
-		(sheetname "2COL9")
+		(sheetname "/2COL9/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -29804,7 +29804,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/1959d7ce-8083-483c-95ea-ff4ede809429/fb6779e9-6c6d-4776-b210-2ac9f162af0f")
-		(sheetname "2COL5")
+		(sheetname "/2COL5/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -30003,7 +30003,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/136972b7-c8e2-45fa-a6ae-9dcf30fdb462/158f05db-f22d-4dfe-9a73-01c6399677e7")
-		(sheetname "2COL21")
+		(sheetname "/2COL21/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -30202,7 +30202,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b8e383d1-95bc-4d93-8024-df226022d503/1982fb65-599a-4e8d-a8b5-cc0a21b7b7bd")
-		(sheetname "2COL14")
+		(sheetname "/2COL14/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -30401,7 +30401,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b7012996-f84a-405a-b303-5c1de1b3b0ec/fb6779e9-6c6d-4776-b210-2ac9f162af0f")
-		(sheetname "2COL10")
+		(sheetname "/2COL10/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -30600,7 +30600,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/03d65d08-44c1-477d-9a40-f7eae0f14d68/5b2a4689-9de4-4efc-beb9-db3c5f919a8b")
-		(sheetname "2COL19")
+		(sheetname "/2COL19/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -30799,7 +30799,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/1959d7ce-8083-483c-95ea-ff4ede809429/9e6a5bf5-33cb-4620-811e-11cfcd7fc146")
-		(sheetname "2COL5")
+		(sheetname "/2COL5/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -30998,7 +30998,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c3e318cc-fbfc-46c3-a8f5-c1ca4fe7f73a/9e6a5bf5-33cb-4620-811e-11cfcd7fc146")
-		(sheetname "2COL9")
+		(sheetname "/2COL9/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -31197,7 +31197,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/d992c3de-3e6e-4052-9c20-641353e676af/b3015f12-6144-4394-8210-3a9ce268da4d")
-		(sheetname "2COL13")
+		(sheetname "/2COL13/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -31396,7 +31396,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/be907a4d-a396-4272-b0df-05ff2f56b57e/5b2a4689-9de4-4efc-beb9-db3c5f919a8b")
-		(sheetname "2COL11")
+		(sheetname "/2COL11/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -31595,7 +31595,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/136972b7-c8e2-45fa-a6ae-9dcf30fdb462/d176c282-15da-426a-acee-334a8532e0ef")
-		(sheetname "2COL21")
+		(sheetname "/2COL21/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -31794,7 +31794,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/23d5c24b-a6f9-435b-80b9-05fca2f600b5/1b1a5626-9122-49dd-b379-98ff4318a63a")
-		(sheetname "2COL18")
+		(sheetname "/2COL18/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -31993,7 +31993,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/136972b7-c8e2-45fa-a6ae-9dcf30fdb462/49c9ddf6-15b2-47c8-907c-a648dcfa2bbf")
-		(sheetname "2COL21")
+		(sheetname "/2COL21/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -32192,7 +32192,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/eb8ad849-22df-404f-9fe5-43ac27e6f7d2/6f1ba253-96c1-4d5b-b8ba-165b458f3375")
-		(sheetname "2COL2")
+		(sheetname "/2COL2/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -32391,7 +32391,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/77a30366-984c-468b-8cb1-b24dff7f3b5e/6f1ba253-96c1-4d5b-b8ba-165b458f3375")
-		(sheetname "2COL3")
+		(sheetname "/2COL3/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -32590,7 +32590,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b8e383d1-95bc-4d93-8024-df226022d503/7cd72f4e-0874-4960-afd5-5970ff45a3b8")
-		(sheetname "2COL14")
+		(sheetname "/2COL14/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -32789,7 +32789,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a9271470-c391-4928-b6bc-d4224586cc3c/5b2a4689-9de4-4efc-beb9-db3c5f919a8b")
-		(sheetname "2COL6")
+		(sheetname "/2COL6/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -32988,7 +32988,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/089ab465-6e04-4c47-b1e0-ff3ee886a87d/24cb540b-7285-4c5b-afef-eedfaf3a4374")
-		(sheetname "2COL12")
+		(sheetname "/2COL12/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -33187,7 +33187,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/77a30366-984c-468b-8cb1-b24dff7f3b5e/ad44a3e1-e129-476b-872c-5c8a78192435")
-		(sheetname "2COL3")
+		(sheetname "/2COL3/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -33386,7 +33386,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/2e2266d2-2f9c-4d9b-bd68-82606f2964e3/49c9ddf6-15b2-47c8-907c-a648dcfa2bbf")
-		(sheetname "2COL20")
+		(sheetname "/2COL20/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -33585,7 +33585,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f84dd1ae-e2ab-4d18-ab78-3d437718915c/e34cccd6-d956-4e80-be68-e81a3e74191f")
-		(sheetname "2COL")
+		(sheetname "/2COL/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -33784,7 +33784,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/d992c3de-3e6e-4052-9c20-641353e676af/42d50e37-4827-4dfb-8f71-901f8591bb07")
-		(sheetname "2COL13")
+		(sheetname "/2COL13/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -33983,7 +33983,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/03d65d08-44c1-477d-9a40-f7eae0f14d68/7cd72f4e-0874-4960-afd5-5970ff45a3b8")
-		(sheetname "2COL19")
+		(sheetname "/2COL19/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -34182,7 +34182,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/be907a4d-a396-4272-b0df-05ff2f56b57e/c402b2ac-dfc9-4c7a-9dd2-9e8e8b1d09a6")
-		(sheetname "2COL11")
+		(sheetname "/2COL11/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -34381,7 +34381,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/d992c3de-3e6e-4052-9c20-641353e676af/5b2a4689-9de4-4efc-beb9-db3c5f919a8b")
-		(sheetname "2COL13")
+		(sheetname "/2COL13/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -34580,7 +34580,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/180b4ec4-74b9-40a8-a57c-1f304bdc23f2/b3015f12-6144-4394-8210-3a9ce268da4d")
-		(sheetname "2COL4")
+		(sheetname "/2COL4/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -34779,7 +34779,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/6cf8e435-006d-4a2a-930e-b9a7913b2046/d176c282-15da-426a-acee-334a8532e0ef")
-		(sheetname "2COL17")
+		(sheetname "/2COL17/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -34978,7 +34978,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/62a62b7d-6c8c-4ce3-8661-307148d58c78/e057aeb3-0ff8-494b-b172-4e901f36e5c4")
-		(sheetname "2COL8")
+		(sheetname "/2COL8/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -35177,7 +35177,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/136972b7-c8e2-45fa-a6ae-9dcf30fdb462/6b258651-d8c4-4abb-882a-419616d8c3c1")
-		(sheetname "2COL21")
+		(sheetname "/2COL21/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -35376,7 +35376,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/8a4b1eeb-6c65-44fc-9bcc-8d7760055e6b/5b2a4689-9de4-4efc-beb9-db3c5f919a8b")
-		(sheetname "2COL1")
+		(sheetname "/2COL1/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -35575,7 +35575,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/be907a4d-a396-4272-b0df-05ff2f56b57e/42d50e37-4827-4dfb-8f71-901f8591bb07")
-		(sheetname "2COL11")
+		(sheetname "/2COL11/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -35774,7 +35774,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c3e318cc-fbfc-46c3-a8f5-c1ca4fe7f73a/fb6779e9-6c6d-4776-b210-2ac9f162af0f")
-		(sheetname "2COL9")
+		(sheetname "/2COL9/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -35973,7 +35973,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/03d65d08-44c1-477d-9a40-f7eae0f14d68/fb6779e9-6c6d-4776-b210-2ac9f162af0f")
-		(sheetname "2COL19")
+		(sheetname "/2COL19/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -36172,7 +36172,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/6cf8e435-006d-4a2a-930e-b9a7913b2046/fb6779e9-6c6d-4776-b210-2ac9f162af0f")
-		(sheetname "2COL17")
+		(sheetname "/2COL17/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -36371,7 +36371,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c58d9aaf-5253-4480-80ec-00539ac00bf4/7cd72f4e-0874-4960-afd5-5970ff45a3b8")
-		(sheetname "2COL7")
+		(sheetname "/2COL7/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -36570,7 +36570,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/3ad744e8-cf0c-4668-9323-b64379d785cc/22b66d53-0d23-4b6c-a11e-f5df7413a700")
-		(sheetname "2COL15")
+		(sheetname "/2COL15/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -36769,7 +36769,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/23d5c24b-a6f9-435b-80b9-05fca2f600b5/c402b2ac-dfc9-4c7a-9dd2-9e8e8b1d09a6")
-		(sheetname "2COL18")
+		(sheetname "/2COL18/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -36968,7 +36968,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/be907a4d-a396-4272-b0df-05ff2f56b57e/e057aeb3-0ff8-494b-b172-4e901f36e5c4")
-		(sheetname "2COL11")
+		(sheetname "/2COL11/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -37167,7 +37167,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/77a30366-984c-468b-8cb1-b24dff7f3b5e/d6fff41c-3f95-4ebe-8fb7-cccec25a209c")
-		(sheetname "2COL3")
+		(sheetname "/2COL3/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -37366,7 +37366,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/180b4ec4-74b9-40a8-a57c-1f304bdc23f2/6b258651-d8c4-4abb-882a-419616d8c3c1")
-		(sheetname "2COL4")
+		(sheetname "/2COL4/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -37565,7 +37565,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a9271470-c391-4928-b6bc-d4224586cc3c/b3015f12-6144-4394-8210-3a9ce268da4d")
-		(sheetname "2COL6")
+		(sheetname "/2COL6/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -37764,7 +37764,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/d992c3de-3e6e-4052-9c20-641353e676af/e34cccd6-d956-4e80-be68-e81a3e74191f")
-		(sheetname "2COL13")
+		(sheetname "/2COL13/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -37963,7 +37963,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/be907a4d-a396-4272-b0df-05ff2f56b57e/d6fff41c-3f95-4ebe-8fb7-cccec25a209c")
-		(sheetname "2COL11")
+		(sheetname "/2COL11/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -38162,7 +38162,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b7012996-f84a-405a-b303-5c1de1b3b0ec/1982fb65-599a-4e8d-a8b5-cc0a21b7b7bd")
-		(sheetname "2COL10")
+		(sheetname "/2COL10/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -38361,7 +38361,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/2e2266d2-2f9c-4d9b-bd68-82606f2964e3/e34cccd6-d956-4e80-be68-e81a3e74191f")
-		(sheetname "2COL20")
+		(sheetname "/2COL20/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -38560,7 +38560,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b9cb9299-3734-4ccc-9ff1-c1296145620c/6f1ba253-96c1-4d5b-b8ba-165b458f3375")
-		(sheetname "2COL16")
+		(sheetname "/2COL16/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -38759,7 +38759,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/3ad744e8-cf0c-4668-9323-b64379d785cc/42d50e37-4827-4dfb-8f71-901f8591bb07")
-		(sheetname "2COL15")
+		(sheetname "/2COL15/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -38958,7 +38958,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/136972b7-c8e2-45fa-a6ae-9dcf30fdb462/cda99501-91fd-4137-b1a1-83b439e4d0de")
-		(sheetname "2COL21")
+		(sheetname "/2COL21/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -39157,7 +39157,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/eb8ad849-22df-404f-9fe5-43ac27e6f7d2/b3015f12-6144-4394-8210-3a9ce268da4d")
-		(sheetname "2COL2")
+		(sheetname "/2COL2/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -39356,7 +39356,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/180b4ec4-74b9-40a8-a57c-1f304bdc23f2/6f1ba253-96c1-4d5b-b8ba-165b458f3375")
-		(sheetname "2COL4")
+		(sheetname "/2COL4/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -39555,7 +39555,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/3ad744e8-cf0c-4668-9323-b64379d785cc/c402b2ac-dfc9-4c7a-9dd2-9e8e8b1d09a6")
-		(sheetname "2COL15")
+		(sheetname "/2COL15/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -39754,7 +39754,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/8a4b1eeb-6c65-44fc-9bcc-8d7760055e6b/6b258651-d8c4-4abb-882a-419616d8c3c1")
-		(sheetname "2COL1")
+		(sheetname "/2COL1/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -39953,7 +39953,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b7012996-f84a-405a-b303-5c1de1b3b0ec/8c99229a-fdfa-4679-8d45-48315e234d8e")
-		(sheetname "2COL10")
+		(sheetname "/2COL10/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -40152,7 +40152,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c58d9aaf-5253-4480-80ec-00539ac00bf4/d176c282-15da-426a-acee-334a8532e0ef")
-		(sheetname "2COL7")
+		(sheetname "/2COL7/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -40351,7 +40351,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a9271470-c391-4928-b6bc-d4224586cc3c/1982fb65-599a-4e8d-a8b5-cc0a21b7b7bd")
-		(sheetname "2COL6")
+		(sheetname "/2COL6/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -40550,7 +40550,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/be907a4d-a396-4272-b0df-05ff2f56b57e/6f1ba253-96c1-4d5b-b8ba-165b458f3375")
-		(sheetname "2COL11")
+		(sheetname "/2COL11/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -40749,7 +40749,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/180b4ec4-74b9-40a8-a57c-1f304bdc23f2/24cb540b-7285-4c5b-afef-eedfaf3a4374")
-		(sheetname "2COL4")
+		(sheetname "/2COL4/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -40948,7 +40948,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a9271470-c391-4928-b6bc-d4224586cc3c/cda99501-91fd-4137-b1a1-83b439e4d0de")
-		(sheetname "2COL6")
+		(sheetname "/2COL6/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -41147,7 +41147,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b7012996-f84a-405a-b303-5c1de1b3b0ec/b3015f12-6144-4394-8210-3a9ce268da4d")
-		(sheetname "2COL10")
+		(sheetname "/2COL10/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -41346,7 +41346,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/6cf8e435-006d-4a2a-930e-b9a7913b2046/e057aeb3-0ff8-494b-b172-4e901f36e5c4")
-		(sheetname "2COL17")
+		(sheetname "/2COL17/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -41545,7 +41545,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/8a4b1eeb-6c65-44fc-9bcc-8d7760055e6b/42d50e37-4827-4dfb-8f71-901f8591bb07")
-		(sheetname "2COL1")
+		(sheetname "/2COL1/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -41744,7 +41744,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/62a62b7d-6c8c-4ce3-8661-307148d58c78/42d50e37-4827-4dfb-8f71-901f8591bb07")
-		(sheetname "2COL8")
+		(sheetname "/2COL8/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -41943,7 +41943,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b7012996-f84a-405a-b303-5c1de1b3b0ec/6f1ba253-96c1-4d5b-b8ba-165b458f3375")
-		(sheetname "2COL10")
+		(sheetname "/2COL10/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -42142,7 +42142,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/8a4b1eeb-6c65-44fc-9bcc-8d7760055e6b/8c99229a-fdfa-4679-8d45-48315e234d8e")
-		(sheetname "2COL1")
+		(sheetname "/2COL1/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -42341,7 +42341,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/6cf8e435-006d-4a2a-930e-b9a7913b2046/d6fff41c-3f95-4ebe-8fb7-cccec25a209c")
-		(sheetname "2COL17")
+		(sheetname "/2COL17/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -42540,7 +42540,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a9271470-c391-4928-b6bc-d4224586cc3c/6f1ba253-96c1-4d5b-b8ba-165b458f3375")
-		(sheetname "2COL6")
+		(sheetname "/2COL6/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -42739,7 +42739,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c3e318cc-fbfc-46c3-a8f5-c1ca4fe7f73a/5b2a4689-9de4-4efc-beb9-db3c5f919a8b")
-		(sheetname "2COL9")
+		(sheetname "/2COL9/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -42938,7 +42938,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/180b4ec4-74b9-40a8-a57c-1f304bdc23f2/fb6779e9-6c6d-4776-b210-2ac9f162af0f")
-		(sheetname "2COL4")
+		(sheetname "/2COL4/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -43137,7 +43137,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/03d65d08-44c1-477d-9a40-f7eae0f14d68/24cb540b-7285-4c5b-afef-eedfaf3a4374")
-		(sheetname "2COL19")
+		(sheetname "/2COL19/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -43336,7 +43336,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b9cb9299-3734-4ccc-9ff1-c1296145620c/cda99501-91fd-4137-b1a1-83b439e4d0de")
-		(sheetname "2COL16")
+		(sheetname "/2COL16/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -43535,7 +43535,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/62a62b7d-6c8c-4ce3-8661-307148d58c78/5b2a4689-9de4-4efc-beb9-db3c5f919a8b")
-		(sheetname "2COL8")
+		(sheetname "/2COL8/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -43734,7 +43734,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f84dd1ae-e2ab-4d18-ab78-3d437718915c/1982fb65-599a-4e8d-a8b5-cc0a21b7b7bd")
-		(sheetname "2COL")
+		(sheetname "/2COL/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -43933,7 +43933,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/8a4b1eeb-6c65-44fc-9bcc-8d7760055e6b/158f05db-f22d-4dfe-9a73-01c6399677e7")
-		(sheetname "2COL1")
+		(sheetname "/2COL1/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -44132,7 +44132,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b7012996-f84a-405a-b303-5c1de1b3b0ec/e34cccd6-d956-4e80-be68-e81a3e74191f")
-		(sheetname "2COL10")
+		(sheetname "/2COL10/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -44331,7 +44331,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/136972b7-c8e2-45fa-a6ae-9dcf30fdb462/e34cccd6-d956-4e80-be68-e81a3e74191f")
-		(sheetname "2COL21")
+		(sheetname "/2COL21/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -44530,7 +44530,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/8a4b1eeb-6c65-44fc-9bcc-8d7760055e6b/6f1ba253-96c1-4d5b-b8ba-165b458f3375")
-		(sheetname "2COL1")
+		(sheetname "/2COL1/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -44729,7 +44729,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/77a30366-984c-468b-8cb1-b24dff7f3b5e/7cd72f4e-0874-4960-afd5-5970ff45a3b8")
-		(sheetname "2COL3")
+		(sheetname "/2COL3/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -44928,7 +44928,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/62a62b7d-6c8c-4ce3-8661-307148d58c78/1982fb65-599a-4e8d-a8b5-cc0a21b7b7bd")
-		(sheetname "2COL8")
+		(sheetname "/2COL8/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -45127,7 +45127,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b8e383d1-95bc-4d93-8024-df226022d503/5b2a4689-9de4-4efc-beb9-db3c5f919a8b")
-		(sheetname "2COL14")
+		(sheetname "/2COL14/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -45326,7 +45326,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/23d5c24b-a6f9-435b-80b9-05fca2f600b5/22b66d53-0d23-4b6c-a11e-f5df7413a700")
-		(sheetname "2COL18")
+		(sheetname "/2COL18/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -45525,7 +45525,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/180b4ec4-74b9-40a8-a57c-1f304bdc23f2/7cd72f4e-0874-4960-afd5-5970ff45a3b8")
-		(sheetname "2COL4")
+		(sheetname "/2COL4/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -45724,7 +45724,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f84dd1ae-e2ab-4d18-ab78-3d437718915c/1b1a5626-9122-49dd-b379-98ff4318a63a")
-		(sheetname "2COL")
+		(sheetname "/2COL/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -45923,7 +45923,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/3ad744e8-cf0c-4668-9323-b64379d785cc/5b2a4689-9de4-4efc-beb9-db3c5f919a8b")
-		(sheetname "2COL15")
+		(sheetname "/2COL15/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -46122,7 +46122,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c58d9aaf-5253-4480-80ec-00539ac00bf4/d6fff41c-3f95-4ebe-8fb7-cccec25a209c")
-		(sheetname "2COL7")
+		(sheetname "/2COL7/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -46321,7 +46321,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c58d9aaf-5253-4480-80ec-00539ac00bf4/24cb540b-7285-4c5b-afef-eedfaf3a4374")
-		(sheetname "2COL7")
+		(sheetname "/2COL7/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -46520,7 +46520,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c58d9aaf-5253-4480-80ec-00539ac00bf4/e34cccd6-d956-4e80-be68-e81a3e74191f")
-		(sheetname "2COL7")
+		(sheetname "/2COL7/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -46719,7 +46719,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/1959d7ce-8083-483c-95ea-ff4ede809429/1b1a5626-9122-49dd-b379-98ff4318a63a")
-		(sheetname "2COL5")
+		(sheetname "/2COL5/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -46918,7 +46918,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/6cf8e435-006d-4a2a-930e-b9a7913b2046/b3015f12-6144-4394-8210-3a9ce268da4d")
-		(sheetname "2COL17")
+		(sheetname "/2COL17/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -47117,7 +47117,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/8a4b1eeb-6c65-44fc-9bcc-8d7760055e6b/b3015f12-6144-4394-8210-3a9ce268da4d")
-		(sheetname "2COL1")
+		(sheetname "/2COL1/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -47316,7 +47316,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/3ad744e8-cf0c-4668-9323-b64379d785cc/ad44a3e1-e129-476b-872c-5c8a78192435")
-		(sheetname "2COL15")
+		(sheetname "/2COL15/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -47515,7 +47515,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b8e383d1-95bc-4d93-8024-df226022d503/b3015f12-6144-4394-8210-3a9ce268da4d")
-		(sheetname "2COL14")
+		(sheetname "/2COL14/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -47714,7 +47714,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/eb8ad849-22df-404f-9fe5-43ac27e6f7d2/cda99501-91fd-4137-b1a1-83b439e4d0de")
-		(sheetname "2COL2")
+		(sheetname "/2COL2/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -47913,7 +47913,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/23d5c24b-a6f9-435b-80b9-05fca2f600b5/6f1ba253-96c1-4d5b-b8ba-165b458f3375")
-		(sheetname "2COL18")
+		(sheetname "/2COL18/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -48112,7 +48112,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b9cb9299-3734-4ccc-9ff1-c1296145620c/fb6779e9-6c6d-4776-b210-2ac9f162af0f")
-		(sheetname "2COL16")
+		(sheetname "/2COL16/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -48311,7 +48311,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b8e383d1-95bc-4d93-8024-df226022d503/158f05db-f22d-4dfe-9a73-01c6399677e7")
-		(sheetname "2COL14")
+		(sheetname "/2COL14/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -48510,7 +48510,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/d992c3de-3e6e-4052-9c20-641353e676af/1b1a5626-9122-49dd-b379-98ff4318a63a")
-		(sheetname "2COL13")
+		(sheetname "/2COL13/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -48709,7 +48709,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/03d65d08-44c1-477d-9a40-f7eae0f14d68/9e6a5bf5-33cb-4620-811e-11cfcd7fc146")
-		(sheetname "2COL19")
+		(sheetname "/2COL19/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -48908,7 +48908,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c58d9aaf-5253-4480-80ec-00539ac00bf4/5b2a4689-9de4-4efc-beb9-db3c5f919a8b")
-		(sheetname "2COL7")
+		(sheetname "/2COL7/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -49107,7 +49107,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c58d9aaf-5253-4480-80ec-00539ac00bf4/49c9ddf6-15b2-47c8-907c-a648dcfa2bbf")
-		(sheetname "2COL7")
+		(sheetname "/2COL7/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -49306,7 +49306,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/089ab465-6e04-4c47-b1e0-ff3ee886a87d/d176c282-15da-426a-acee-334a8532e0ef")
-		(sheetname "2COL12")
+		(sheetname "/2COL12/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -49505,7 +49505,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/62a62b7d-6c8c-4ce3-8661-307148d58c78/24cb540b-7285-4c5b-afef-eedfaf3a4374")
-		(sheetname "2COL8")
+		(sheetname "/2COL8/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -49704,7 +49704,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/089ab465-6e04-4c47-b1e0-ff3ee886a87d/158f05db-f22d-4dfe-9a73-01c6399677e7")
-		(sheetname "2COL12")
+		(sheetname "/2COL12/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -49903,7 +49903,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/089ab465-6e04-4c47-b1e0-ff3ee886a87d/8c99229a-fdfa-4679-8d45-48315e234d8e")
-		(sheetname "2COL12")
+		(sheetname "/2COL12/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -50102,7 +50102,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/3ad744e8-cf0c-4668-9323-b64379d785cc/e057aeb3-0ff8-494b-b172-4e901f36e5c4")
-		(sheetname "2COL15")
+		(sheetname "/2COL15/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -50301,7 +50301,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c58d9aaf-5253-4480-80ec-00539ac00bf4/c402b2ac-dfc9-4c7a-9dd2-9e8e8b1d09a6")
-		(sheetname "2COL7")
+		(sheetname "/2COL7/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -50500,7 +50500,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b8e383d1-95bc-4d93-8024-df226022d503/6b258651-d8c4-4abb-882a-419616d8c3c1")
-		(sheetname "2COL14")
+		(sheetname "/2COL14/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -50699,7 +50699,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f84dd1ae-e2ab-4d18-ab78-3d437718915c/d176c282-15da-426a-acee-334a8532e0ef")
-		(sheetname "2COL")
+		(sheetname "/2COL/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -50898,7 +50898,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/77a30366-984c-468b-8cb1-b24dff7f3b5e/8c99229a-fdfa-4679-8d45-48315e234d8e")
-		(sheetname "2COL3")
+		(sheetname "/2COL3/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -51097,7 +51097,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/03d65d08-44c1-477d-9a40-f7eae0f14d68/e057aeb3-0ff8-494b-b172-4e901f36e5c4")
-		(sheetname "2COL19")
+		(sheetname "/2COL19/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -51296,7 +51296,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/180b4ec4-74b9-40a8-a57c-1f304bdc23f2/e34cccd6-d956-4e80-be68-e81a3e74191f")
-		(sheetname "2COL4")
+		(sheetname "/2COL4/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -51495,7 +51495,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b9cb9299-3734-4ccc-9ff1-c1296145620c/22b66d53-0d23-4b6c-a11e-f5df7413a700")
-		(sheetname "2COL16")
+		(sheetname "/2COL16/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -51694,7 +51694,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/6cf8e435-006d-4a2a-930e-b9a7913b2046/e34cccd6-d956-4e80-be68-e81a3e74191f")
-		(sheetname "2COL17")
+		(sheetname "/2COL17/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -51893,7 +51893,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/8a4b1eeb-6c65-44fc-9bcc-8d7760055e6b/cda99501-91fd-4137-b1a1-83b439e4d0de")
-		(sheetname "2COL1")
+		(sheetname "/2COL1/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -52092,7 +52092,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a9271470-c391-4928-b6bc-d4224586cc3c/42d50e37-4827-4dfb-8f71-901f8591bb07")
-		(sheetname "2COL6")
+		(sheetname "/2COL6/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -52291,7 +52291,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b7012996-f84a-405a-b303-5c1de1b3b0ec/cda99501-91fd-4137-b1a1-83b439e4d0de")
-		(sheetname "2COL10")
+		(sheetname "/2COL10/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -52490,7 +52490,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/089ab465-6e04-4c47-b1e0-ff3ee886a87d/49c9ddf6-15b2-47c8-907c-a648dcfa2bbf")
-		(sheetname "2COL12")
+		(sheetname "/2COL12/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -52689,7 +52689,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/6cf8e435-006d-4a2a-930e-b9a7913b2046/9e6a5bf5-33cb-4620-811e-11cfcd7fc146")
-		(sheetname "2COL17")
+		(sheetname "/2COL17/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -52888,7 +52888,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b8e383d1-95bc-4d93-8024-df226022d503/22b66d53-0d23-4b6c-a11e-f5df7413a700")
-		(sheetname "2COL14")
+		(sheetname "/2COL14/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -53087,7 +53087,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/1959d7ce-8083-483c-95ea-ff4ede809429/6b258651-d8c4-4abb-882a-419616d8c3c1")
-		(sheetname "2COL5")
+		(sheetname "/2COL5/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -53286,7 +53286,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/3ad744e8-cf0c-4668-9323-b64379d785cc/49c9ddf6-15b2-47c8-907c-a648dcfa2bbf")
-		(sheetname "2COL15")
+		(sheetname "/2COL15/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -53485,7 +53485,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/1959d7ce-8083-483c-95ea-ff4ede809429/d6fff41c-3f95-4ebe-8fb7-cccec25a209c")
-		(sheetname "2COL5")
+		(sheetname "/2COL5/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -53684,7 +53684,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/089ab465-6e04-4c47-b1e0-ff3ee886a87d/1982fb65-599a-4e8d-a8b5-cc0a21b7b7bd")
-		(sheetname "2COL12")
+		(sheetname "/2COL12/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -53883,7 +53883,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/62a62b7d-6c8c-4ce3-8661-307148d58c78/6f1ba253-96c1-4d5b-b8ba-165b458f3375")
-		(sheetname "2COL8")
+		(sheetname "/2COL8/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -54082,7 +54082,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/03d65d08-44c1-477d-9a40-f7eae0f14d68/cda99501-91fd-4137-b1a1-83b439e4d0de")
-		(sheetname "2COL19")
+		(sheetname "/2COL19/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -54281,7 +54281,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/2e2266d2-2f9c-4d9b-bd68-82606f2964e3/6b258651-d8c4-4abb-882a-419616d8c3c1")
-		(sheetname "2COL20")
+		(sheetname "/2COL20/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -54480,7 +54480,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/2e2266d2-2f9c-4d9b-bd68-82606f2964e3/1982fb65-599a-4e8d-a8b5-cc0a21b7b7bd")
-		(sheetname "2COL20")
+		(sheetname "/2COL20/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -54679,7 +54679,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/d992c3de-3e6e-4052-9c20-641353e676af/c402b2ac-dfc9-4c7a-9dd2-9e8e8b1d09a6")
-		(sheetname "2COL13")
+		(sheetname "/2COL13/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -54878,7 +54878,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/089ab465-6e04-4c47-b1e0-ff3ee886a87d/1b1a5626-9122-49dd-b379-98ff4318a63a")
-		(sheetname "2COL12")
+		(sheetname "/2COL12/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -55077,7 +55077,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/180b4ec4-74b9-40a8-a57c-1f304bdc23f2/8c99229a-fdfa-4679-8d45-48315e234d8e")
-		(sheetname "2COL4")
+		(sheetname "/2COL4/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -55276,7 +55276,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a9271470-c391-4928-b6bc-d4224586cc3c/d176c282-15da-426a-acee-334a8532e0ef")
-		(sheetname "2COL6")
+		(sheetname "/2COL6/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -55475,7 +55475,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/eb8ad849-22df-404f-9fe5-43ac27e6f7d2/8c99229a-fdfa-4679-8d45-48315e234d8e")
-		(sheetname "2COL2")
+		(sheetname "/2COL2/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -55674,7 +55674,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c58d9aaf-5253-4480-80ec-00539ac00bf4/42d50e37-4827-4dfb-8f71-901f8591bb07")
-		(sheetname "2COL7")
+		(sheetname "/2COL7/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -55873,7 +55873,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/23d5c24b-a6f9-435b-80b9-05fca2f600b5/d176c282-15da-426a-acee-334a8532e0ef")
-		(sheetname "2COL18")
+		(sheetname "/2COL18/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -56072,7 +56072,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/eb8ad849-22df-404f-9fe5-43ac27e6f7d2/158f05db-f22d-4dfe-9a73-01c6399677e7")
-		(sheetname "2COL2")
+		(sheetname "/2COL2/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -56271,7 +56271,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/eb8ad849-22df-404f-9fe5-43ac27e6f7d2/c402b2ac-dfc9-4c7a-9dd2-9e8e8b1d09a6")
-		(sheetname "2COL2")
+		(sheetname "/2COL2/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -56470,7 +56470,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/180b4ec4-74b9-40a8-a57c-1f304bdc23f2/42d50e37-4827-4dfb-8f71-901f8591bb07")
-		(sheetname "2COL4")
+		(sheetname "/2COL4/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -56669,7 +56669,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/2e2266d2-2f9c-4d9b-bd68-82606f2964e3/158f05db-f22d-4dfe-9a73-01c6399677e7")
-		(sheetname "2COL20")
+		(sheetname "/2COL20/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -56868,7 +56868,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a9271470-c391-4928-b6bc-d4224586cc3c/24cb540b-7285-4c5b-afef-eedfaf3a4374")
-		(sheetname "2COL6")
+		(sheetname "/2COL6/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -57067,7 +57067,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/180b4ec4-74b9-40a8-a57c-1f304bdc23f2/e057aeb3-0ff8-494b-b172-4e901f36e5c4")
-		(sheetname "2COL4")
+		(sheetname "/2COL4/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -57266,7 +57266,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b9cb9299-3734-4ccc-9ff1-c1296145620c/9e6a5bf5-33cb-4620-811e-11cfcd7fc146")
-		(sheetname "2COL16")
+		(sheetname "/2COL16/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -57465,7 +57465,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/d992c3de-3e6e-4052-9c20-641353e676af/d6fff41c-3f95-4ebe-8fb7-cccec25a209c")
-		(sheetname "2COL13")
+		(sheetname "/2COL13/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -57664,7 +57664,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/eb8ad849-22df-404f-9fe5-43ac27e6f7d2/1b1a5626-9122-49dd-b379-98ff4318a63a")
-		(sheetname "2COL2")
+		(sheetname "/2COL2/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -57863,7 +57863,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b7012996-f84a-405a-b303-5c1de1b3b0ec/7cd72f4e-0874-4960-afd5-5970ff45a3b8")
-		(sheetname "2COL10")
+		(sheetname "/2COL10/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -58062,7 +58062,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/8a4b1eeb-6c65-44fc-9bcc-8d7760055e6b/9e6a5bf5-33cb-4620-811e-11cfcd7fc146")
-		(sheetname "2COL1")
+		(sheetname "/2COL1/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -58261,7 +58261,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f84dd1ae-e2ab-4d18-ab78-3d437718915c/7cd72f4e-0874-4960-afd5-5970ff45a3b8")
-		(sheetname "2COL")
+		(sheetname "/2COL/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -58460,7 +58460,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/8a4b1eeb-6c65-44fc-9bcc-8d7760055e6b/1b1a5626-9122-49dd-b379-98ff4318a63a")
-		(sheetname "2COL1")
+		(sheetname "/2COL1/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -58659,7 +58659,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b9cb9299-3734-4ccc-9ff1-c1296145620c/e34cccd6-d956-4e80-be68-e81a3e74191f")
-		(sheetname "2COL16")
+		(sheetname "/2COL16/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -58858,7 +58858,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/d992c3de-3e6e-4052-9c20-641353e676af/22b66d53-0d23-4b6c-a11e-f5df7413a700")
-		(sheetname "2COL13")
+		(sheetname "/2COL13/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -59057,7 +59057,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/3ad744e8-cf0c-4668-9323-b64379d785cc/8c99229a-fdfa-4679-8d45-48315e234d8e")
-		(sheetname "2COL15")
+		(sheetname "/2COL15/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -59256,7 +59256,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/eb8ad849-22df-404f-9fe5-43ac27e6f7d2/24cb540b-7285-4c5b-afef-eedfaf3a4374")
-		(sheetname "2COL2")
+		(sheetname "/2COL2/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -59455,7 +59455,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a9271470-c391-4928-b6bc-d4224586cc3c/ad44a3e1-e129-476b-872c-5c8a78192435")
-		(sheetname "2COL6")
+		(sheetname "/2COL6/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -59654,7 +59654,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/23d5c24b-a6f9-435b-80b9-05fca2f600b5/158f05db-f22d-4dfe-9a73-01c6399677e7")
-		(sheetname "2COL18")
+		(sheetname "/2COL18/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -59853,7 +59853,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/03d65d08-44c1-477d-9a40-f7eae0f14d68/c402b2ac-dfc9-4c7a-9dd2-9e8e8b1d09a6")
-		(sheetname "2COL19")
+		(sheetname "/2COL19/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -60052,7 +60052,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/2e2266d2-2f9c-4d9b-bd68-82606f2964e3/42d50e37-4827-4dfb-8f71-901f8591bb07")
-		(sheetname "2COL20")
+		(sheetname "/2COL20/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -60251,7 +60251,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/77a30366-984c-468b-8cb1-b24dff7f3b5e/9e6a5bf5-33cb-4620-811e-11cfcd7fc146")
-		(sheetname "2COL3")
+		(sheetname "/2COL3/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -60450,7 +60450,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a9271470-c391-4928-b6bc-d4224586cc3c/e057aeb3-0ff8-494b-b172-4e901f36e5c4")
-		(sheetname "2COL6")
+		(sheetname "/2COL6/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -60649,7 +60649,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/136972b7-c8e2-45fa-a6ae-9dcf30fdb462/ad44a3e1-e129-476b-872c-5c8a78192435")
-		(sheetname "2COL21")
+		(sheetname "/2COL21/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -60848,7 +60848,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/eb8ad849-22df-404f-9fe5-43ac27e6f7d2/d6fff41c-3f95-4ebe-8fb7-cccec25a209c")
-		(sheetname "2COL2")
+		(sheetname "/2COL2/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -61047,7 +61047,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/eb8ad849-22df-404f-9fe5-43ac27e6f7d2/d176c282-15da-426a-acee-334a8532e0ef")
-		(sheetname "2COL2")
+		(sheetname "/2COL2/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -61246,7 +61246,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/136972b7-c8e2-45fa-a6ae-9dcf30fdb462/fb6779e9-6c6d-4776-b210-2ac9f162af0f")
-		(sheetname "2COL21")
+		(sheetname "/2COL21/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -61445,7 +61445,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/1959d7ce-8083-483c-95ea-ff4ede809429/cda99501-91fd-4137-b1a1-83b439e4d0de")
-		(sheetname "2COL5")
+		(sheetname "/2COL5/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -61644,7 +61644,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/8a4b1eeb-6c65-44fc-9bcc-8d7760055e6b/ad44a3e1-e129-476b-872c-5c8a78192435")
-		(sheetname "2COL1")
+		(sheetname "/2COL1/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -61843,7 +61843,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/be907a4d-a396-4272-b0df-05ff2f56b57e/6b258651-d8c4-4abb-882a-419616d8c3c1")
-		(sheetname "2COL11")
+		(sheetname "/2COL11/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -62042,7 +62042,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/136972b7-c8e2-45fa-a6ae-9dcf30fdb462/b3015f12-6144-4394-8210-3a9ce268da4d")
-		(sheetname "2COL21")
+		(sheetname "/2COL21/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -62241,7 +62241,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/77a30366-984c-468b-8cb1-b24dff7f3b5e/1b1a5626-9122-49dd-b379-98ff4318a63a")
-		(sheetname "2COL3")
+		(sheetname "/2COL3/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -62440,7 +62440,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/6cf8e435-006d-4a2a-930e-b9a7913b2046/42d50e37-4827-4dfb-8f71-901f8591bb07")
-		(sheetname "2COL17")
+		(sheetname "/2COL17/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -62639,7 +62639,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/77a30366-984c-468b-8cb1-b24dff7f3b5e/42d50e37-4827-4dfb-8f71-901f8591bb07")
-		(sheetname "2COL3")
+		(sheetname "/2COL3/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -62838,7 +62838,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/180b4ec4-74b9-40a8-a57c-1f304bdc23f2/49c9ddf6-15b2-47c8-907c-a648dcfa2bbf")
-		(sheetname "2COL4")
+		(sheetname "/2COL4/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -63037,7 +63037,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f84dd1ae-e2ab-4d18-ab78-3d437718915c/24cb540b-7285-4c5b-afef-eedfaf3a4374")
-		(sheetname "2COL")
+		(sheetname "/2COL/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -63236,7 +63236,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/d992c3de-3e6e-4052-9c20-641353e676af/6b258651-d8c4-4abb-882a-419616d8c3c1")
-		(sheetname "2COL13")
+		(sheetname "/2COL13/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -63435,7 +63435,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/eb8ad849-22df-404f-9fe5-43ac27e6f7d2/5b2a4689-9de4-4efc-beb9-db3c5f919a8b")
-		(sheetname "2COL2")
+		(sheetname "/2COL2/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -63634,7 +63634,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b7012996-f84a-405a-b303-5c1de1b3b0ec/e057aeb3-0ff8-494b-b172-4e901f36e5c4")
-		(sheetname "2COL10")
+		(sheetname "/2COL10/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -63833,7 +63833,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/be907a4d-a396-4272-b0df-05ff2f56b57e/9e6a5bf5-33cb-4620-811e-11cfcd7fc146")
-		(sheetname "2COL11")
+		(sheetname "/2COL11/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -64032,7 +64032,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c3e318cc-fbfc-46c3-a8f5-c1ca4fe7f73a/c402b2ac-dfc9-4c7a-9dd2-9e8e8b1d09a6")
-		(sheetname "2COL9")
+		(sheetname "/2COL9/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -64231,7 +64231,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c58d9aaf-5253-4480-80ec-00539ac00bf4/b3015f12-6144-4394-8210-3a9ce268da4d")
-		(sheetname "2COL7")
+		(sheetname "/2COL7/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -64430,7 +64430,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/136972b7-c8e2-45fa-a6ae-9dcf30fdb462/8c99229a-fdfa-4679-8d45-48315e234d8e")
-		(sheetname "2COL21")
+		(sheetname "/2COL21/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -64629,7 +64629,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c58d9aaf-5253-4480-80ec-00539ac00bf4/fb6779e9-6c6d-4776-b210-2ac9f162af0f")
-		(sheetname "2COL7")
+		(sheetname "/2COL7/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -64828,7 +64828,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/23d5c24b-a6f9-435b-80b9-05fca2f600b5/49c9ddf6-15b2-47c8-907c-a648dcfa2bbf")
-		(sheetname "2COL18")
+		(sheetname "/2COL18/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -65027,7 +65027,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c58d9aaf-5253-4480-80ec-00539ac00bf4/cda99501-91fd-4137-b1a1-83b439e4d0de")
-		(sheetname "2COL7")
+		(sheetname "/2COL7/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -65226,7 +65226,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/be907a4d-a396-4272-b0df-05ff2f56b57e/ad44a3e1-e129-476b-872c-5c8a78192435")
-		(sheetname "2COL11")
+		(sheetname "/2COL11/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -65425,7 +65425,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/eb8ad849-22df-404f-9fe5-43ac27e6f7d2/7cd72f4e-0874-4960-afd5-5970ff45a3b8")
-		(sheetname "2COL2")
+		(sheetname "/2COL2/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -65624,7 +65624,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f84dd1ae-e2ab-4d18-ab78-3d437718915c/8c99229a-fdfa-4679-8d45-48315e234d8e")
-		(sheetname "2COL")
+		(sheetname "/2COL/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -65823,7 +65823,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/be907a4d-a396-4272-b0df-05ff2f56b57e/cda99501-91fd-4137-b1a1-83b439e4d0de")
-		(sheetname "2COL11")
+		(sheetname "/2COL11/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -66022,7 +66022,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b7012996-f84a-405a-b303-5c1de1b3b0ec/22b66d53-0d23-4b6c-a11e-f5df7413a700")
-		(sheetname "2COL10")
+		(sheetname "/2COL10/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -66221,7 +66221,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/8a4b1eeb-6c65-44fc-9bcc-8d7760055e6b/1982fb65-599a-4e8d-a8b5-cc0a21b7b7bd")
-		(sheetname "2COL1")
+		(sheetname "/2COL1/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -66420,7 +66420,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b9cb9299-3734-4ccc-9ff1-c1296145620c/5b2a4689-9de4-4efc-beb9-db3c5f919a8b")
-		(sheetname "2COL16")
+		(sheetname "/2COL16/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -66619,7 +66619,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f84dd1ae-e2ab-4d18-ab78-3d437718915c/d6fff41c-3f95-4ebe-8fb7-cccec25a209c")
-		(sheetname "2COL")
+		(sheetname "/2COL/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -66818,7 +66818,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/3ad744e8-cf0c-4668-9323-b64379d785cc/158f05db-f22d-4dfe-9a73-01c6399677e7")
-		(sheetname "2COL15")
+		(sheetname "/2COL15/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -67017,7 +67017,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/23d5c24b-a6f9-435b-80b9-05fca2f600b5/9e6a5bf5-33cb-4620-811e-11cfcd7fc146")
-		(sheetname "2COL18")
+		(sheetname "/2COL18/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -67216,7 +67216,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/77a30366-984c-468b-8cb1-b24dff7f3b5e/49c9ddf6-15b2-47c8-907c-a648dcfa2bbf")
-		(sheetname "2COL3")
+		(sheetname "/2COL3/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -67415,7 +67415,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c58d9aaf-5253-4480-80ec-00539ac00bf4/6b258651-d8c4-4abb-882a-419616d8c3c1")
-		(sheetname "2COL7")
+		(sheetname "/2COL7/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -67614,7 +67614,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/1959d7ce-8083-483c-95ea-ff4ede809429/c402b2ac-dfc9-4c7a-9dd2-9e8e8b1d09a6")
-		(sheetname "2COL5")
+		(sheetname "/2COL5/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -67813,7 +67813,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/1959d7ce-8083-483c-95ea-ff4ede809429/ad44a3e1-e129-476b-872c-5c8a78192435")
-		(sheetname "2COL5")
+		(sheetname "/2COL5/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -68012,7 +68012,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/d992c3de-3e6e-4052-9c20-641353e676af/1982fb65-599a-4e8d-a8b5-cc0a21b7b7bd")
-		(sheetname "2COL13")
+		(sheetname "/2COL13/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -68211,7 +68211,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/77a30366-984c-468b-8cb1-b24dff7f3b5e/c402b2ac-dfc9-4c7a-9dd2-9e8e8b1d09a6")
-		(sheetname "2COL3")
+		(sheetname "/2COL3/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -68410,7 +68410,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/03d65d08-44c1-477d-9a40-f7eae0f14d68/42d50e37-4827-4dfb-8f71-901f8591bb07")
-		(sheetname "2COL19")
+		(sheetname "/2COL19/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -68609,7 +68609,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/62a62b7d-6c8c-4ce3-8661-307148d58c78/d6fff41c-3f95-4ebe-8fb7-cccec25a209c")
-		(sheetname "2COL8")
+		(sheetname "/2COL8/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -68808,7 +68808,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/3ad744e8-cf0c-4668-9323-b64379d785cc/d176c282-15da-426a-acee-334a8532e0ef")
-		(sheetname "2COL15")
+		(sheetname "/2COL15/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -69007,7 +69007,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/eb8ad849-22df-404f-9fe5-43ac27e6f7d2/49c9ddf6-15b2-47c8-907c-a648dcfa2bbf")
-		(sheetname "2COL2")
+		(sheetname "/2COL2/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -69206,7 +69206,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/1959d7ce-8083-483c-95ea-ff4ede809429/7cd72f4e-0874-4960-afd5-5970ff45a3b8")
-		(sheetname "2COL5")
+		(sheetname "/2COL5/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -69405,7 +69405,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/eb8ad849-22df-404f-9fe5-43ac27e6f7d2/9e6a5bf5-33cb-4620-811e-11cfcd7fc146")
-		(sheetname "2COL2")
+		(sheetname "/2COL2/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -69604,7 +69604,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/d992c3de-3e6e-4052-9c20-641353e676af/e057aeb3-0ff8-494b-b172-4e901f36e5c4")
-		(sheetname "2COL13")
+		(sheetname "/2COL13/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -69803,7 +69803,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b9cb9299-3734-4ccc-9ff1-c1296145620c/158f05db-f22d-4dfe-9a73-01c6399677e7")
-		(sheetname "2COL16")
+		(sheetname "/2COL16/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -70002,7 +70002,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/2e2266d2-2f9c-4d9b-bd68-82606f2964e3/d6fff41c-3f95-4ebe-8fb7-cccec25a209c")
-		(sheetname "2COL20")
+		(sheetname "/2COL20/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -70201,7 +70201,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f84dd1ae-e2ab-4d18-ab78-3d437718915c/e057aeb3-0ff8-494b-b172-4e901f36e5c4")
-		(sheetname "2COL")
+		(sheetname "/2COL/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -70400,7 +70400,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/1959d7ce-8083-483c-95ea-ff4ede809429/6f1ba253-96c1-4d5b-b8ba-165b458f3375")
-		(sheetname "2COL5")
+		(sheetname "/2COL5/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -70599,7 +70599,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b8e383d1-95bc-4d93-8024-df226022d503/d176c282-15da-426a-acee-334a8532e0ef")
-		(sheetname "2COL14")
+		(sheetname "/2COL14/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -70798,7 +70798,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/eb8ad849-22df-404f-9fe5-43ac27e6f7d2/fb6779e9-6c6d-4776-b210-2ac9f162af0f")
-		(sheetname "2COL2")
+		(sheetname "/2COL2/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -70997,7 +70997,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a9271470-c391-4928-b6bc-d4224586cc3c/e34cccd6-d956-4e80-be68-e81a3e74191f")
-		(sheetname "2COL6")
+		(sheetname "/2COL6/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -71196,7 +71196,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/6cf8e435-006d-4a2a-930e-b9a7913b2046/49c9ddf6-15b2-47c8-907c-a648dcfa2bbf")
-		(sheetname "2COL17")
+		(sheetname "/2COL17/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -71395,7 +71395,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/1959d7ce-8083-483c-95ea-ff4ede809429/b3015f12-6144-4394-8210-3a9ce268da4d")
-		(sheetname "2COL5")
+		(sheetname "/2COL5/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -71594,7 +71594,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c3e318cc-fbfc-46c3-a8f5-c1ca4fe7f73a/e34cccd6-d956-4e80-be68-e81a3e74191f")
-		(sheetname "2COL9")
+		(sheetname "/2COL9/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -71793,7 +71793,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/23d5c24b-a6f9-435b-80b9-05fca2f600b5/cda99501-91fd-4137-b1a1-83b439e4d0de")
-		(sheetname "2COL18")
+		(sheetname "/2COL18/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -71992,7 +71992,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/be907a4d-a396-4272-b0df-05ff2f56b57e/b3015f12-6144-4394-8210-3a9ce268da4d")
-		(sheetname "2COL11")
+		(sheetname "/2COL11/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -72191,7 +72191,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/d992c3de-3e6e-4052-9c20-641353e676af/d176c282-15da-426a-acee-334a8532e0ef")
-		(sheetname "2COL13")
+		(sheetname "/2COL13/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -72390,7 +72390,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/be907a4d-a396-4272-b0df-05ff2f56b57e/e34cccd6-d956-4e80-be68-e81a3e74191f")
-		(sheetname "2COL11")
+		(sheetname "/2COL11/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -72589,7 +72589,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f84dd1ae-e2ab-4d18-ab78-3d437718915c/158f05db-f22d-4dfe-9a73-01c6399677e7")
-		(sheetname "2COL")
+		(sheetname "/2COL/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -72788,7 +72788,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/2e2266d2-2f9c-4d9b-bd68-82606f2964e3/ad44a3e1-e129-476b-872c-5c8a78192435")
-		(sheetname "2COL20")
+		(sheetname "/2COL20/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -72987,7 +72987,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/8a4b1eeb-6c65-44fc-9bcc-8d7760055e6b/7cd72f4e-0874-4960-afd5-5970ff45a3b8")
-		(sheetname "2COL1")
+		(sheetname "/2COL1/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -73186,7 +73186,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/2e2266d2-2f9c-4d9b-bd68-82606f2964e3/8c99229a-fdfa-4679-8d45-48315e234d8e")
-		(sheetname "2COL20")
+		(sheetname "/2COL20/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -73385,7 +73385,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c3e318cc-fbfc-46c3-a8f5-c1ca4fe7f73a/8c99229a-fdfa-4679-8d45-48315e234d8e")
-		(sheetname "2COL9")
+		(sheetname "/2COL9/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -73584,7 +73584,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/6cf8e435-006d-4a2a-930e-b9a7913b2046/1b1a5626-9122-49dd-b379-98ff4318a63a")
-		(sheetname "2COL17")
+		(sheetname "/2COL17/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -73783,7 +73783,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c58d9aaf-5253-4480-80ec-00539ac00bf4/e057aeb3-0ff8-494b-b172-4e901f36e5c4")
-		(sheetname "2COL7")
+		(sheetname "/2COL7/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -73982,7 +73982,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/23d5c24b-a6f9-435b-80b9-05fca2f600b5/ad44a3e1-e129-476b-872c-5c8a78192435")
-		(sheetname "2COL18")
+		(sheetname "/2COL18/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -74181,7 +74181,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/180b4ec4-74b9-40a8-a57c-1f304bdc23f2/c402b2ac-dfc9-4c7a-9dd2-9e8e8b1d09a6")
-		(sheetname "2COL4")
+		(sheetname "/2COL4/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -74380,7 +74380,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/03d65d08-44c1-477d-9a40-f7eae0f14d68/ad44a3e1-e129-476b-872c-5c8a78192435")
-		(sheetname "2COL19")
+		(sheetname "/2COL19/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -74579,7 +74579,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/136972b7-c8e2-45fa-a6ae-9dcf30fdb462/1982fb65-599a-4e8d-a8b5-cc0a21b7b7bd")
-		(sheetname "2COL21")
+		(sheetname "/2COL21/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -74778,7 +74778,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/180b4ec4-74b9-40a8-a57c-1f304bdc23f2/158f05db-f22d-4dfe-9a73-01c6399677e7")
-		(sheetname "2COL4")
+		(sheetname "/2COL4/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -74977,7 +74977,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/6cf8e435-006d-4a2a-930e-b9a7913b2046/22b66d53-0d23-4b6c-a11e-f5df7413a700")
-		(sheetname "2COL17")
+		(sheetname "/2COL17/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -75176,7 +75176,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/03d65d08-44c1-477d-9a40-f7eae0f14d68/49c9ddf6-15b2-47c8-907c-a648dcfa2bbf")
-		(sheetname "2COL19")
+		(sheetname "/2COL19/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -75375,7 +75375,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b7012996-f84a-405a-b303-5c1de1b3b0ec/ad44a3e1-e129-476b-872c-5c8a78192435")
-		(sheetname "2COL10")
+		(sheetname "/2COL10/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -75574,7 +75574,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c3e318cc-fbfc-46c3-a8f5-c1ca4fe7f73a/42d50e37-4827-4dfb-8f71-901f8591bb07")
-		(sheetname "2COL9")
+		(sheetname "/2COL9/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -75773,7 +75773,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/6cf8e435-006d-4a2a-930e-b9a7913b2046/ad44a3e1-e129-476b-872c-5c8a78192435")
-		(sheetname "2COL17")
+		(sheetname "/2COL17/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -75972,7 +75972,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f84dd1ae-e2ab-4d18-ab78-3d437718915c/c402b2ac-dfc9-4c7a-9dd2-9e8e8b1d09a6")
-		(sheetname "2COL")
+		(sheetname "/2COL/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -76171,7 +76171,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b8e383d1-95bc-4d93-8024-df226022d503/e34cccd6-d956-4e80-be68-e81a3e74191f")
-		(sheetname "2COL14")
+		(sheetname "/2COL14/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -76370,7 +76370,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/6cf8e435-006d-4a2a-930e-b9a7913b2046/24cb540b-7285-4c5b-afef-eedfaf3a4374")
-		(sheetname "2COL17")
+		(sheetname "/2COL17/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -76569,7 +76569,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/62a62b7d-6c8c-4ce3-8661-307148d58c78/6b258651-d8c4-4abb-882a-419616d8c3c1")
-		(sheetname "2COL8")
+		(sheetname "/2COL8/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -76768,7 +76768,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/23d5c24b-a6f9-435b-80b9-05fca2f600b5/6b258651-d8c4-4abb-882a-419616d8c3c1")
-		(sheetname "2COL18")
+		(sheetname "/2COL18/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -76967,7 +76967,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/eb8ad849-22df-404f-9fe5-43ac27e6f7d2/e057aeb3-0ff8-494b-b172-4e901f36e5c4")
-		(sheetname "2COL2")
+		(sheetname "/2COL2/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -77166,7 +77166,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b9cb9299-3734-4ccc-9ff1-c1296145620c/6b258651-d8c4-4abb-882a-419616d8c3c1")
-		(sheetname "2COL16")
+		(sheetname "/2COL16/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -77365,7 +77365,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/2e2266d2-2f9c-4d9b-bd68-82606f2964e3/24cb540b-7285-4c5b-afef-eedfaf3a4374")
-		(sheetname "2COL20")
+		(sheetname "/2COL20/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -77564,7 +77564,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f84dd1ae-e2ab-4d18-ab78-3d437718915c/49c9ddf6-15b2-47c8-907c-a648dcfa2bbf")
-		(sheetname "2COL")
+		(sheetname "/2COL/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -77763,7 +77763,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b8e383d1-95bc-4d93-8024-df226022d503/6f1ba253-96c1-4d5b-b8ba-165b458f3375")
-		(sheetname "2COL14")
+		(sheetname "/2COL14/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -77962,7 +77962,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b7012996-f84a-405a-b303-5c1de1b3b0ec/6b258651-d8c4-4abb-882a-419616d8c3c1")
-		(sheetname "2COL10")
+		(sheetname "/2COL10/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -78161,7 +78161,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/d992c3de-3e6e-4052-9c20-641353e676af/fb6779e9-6c6d-4776-b210-2ac9f162af0f")
-		(sheetname "2COL13")
+		(sheetname "/2COL13/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -78360,7 +78360,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/62a62b7d-6c8c-4ce3-8661-307148d58c78/8c99229a-fdfa-4679-8d45-48315e234d8e")
-		(sheetname "2COL8")
+		(sheetname "/2COL8/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -78559,7 +78559,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b9cb9299-3734-4ccc-9ff1-c1296145620c/49c9ddf6-15b2-47c8-907c-a648dcfa2bbf")
-		(sheetname "2COL16")
+		(sheetname "/2COL16/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -78758,7 +78758,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b8e383d1-95bc-4d93-8024-df226022d503/d6fff41c-3f95-4ebe-8fb7-cccec25a209c")
-		(sheetname "2COL14")
+		(sheetname "/2COL14/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -78957,7 +78957,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/136972b7-c8e2-45fa-a6ae-9dcf30fdb462/1b1a5626-9122-49dd-b379-98ff4318a63a")
-		(sheetname "2COL21")
+		(sheetname "/2COL21/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -79156,7 +79156,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/62a62b7d-6c8c-4ce3-8661-307148d58c78/b3015f12-6144-4394-8210-3a9ce268da4d")
-		(sheetname "2COL8")
+		(sheetname "/2COL8/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -79355,7 +79355,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/3ad744e8-cf0c-4668-9323-b64379d785cc/1b1a5626-9122-49dd-b379-98ff4318a63a")
-		(sheetname "2COL15")
+		(sheetname "/2COL15/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -79554,7 +79554,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/d992c3de-3e6e-4052-9c20-641353e676af/7cd72f4e-0874-4960-afd5-5970ff45a3b8")
-		(sheetname "2COL13")
+		(sheetname "/2COL13/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -79753,7 +79753,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b7012996-f84a-405a-b303-5c1de1b3b0ec/d176c282-15da-426a-acee-334a8532e0ef")
-		(sheetname "2COL10")
+		(sheetname "/2COL10/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -79952,7 +79952,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/23d5c24b-a6f9-435b-80b9-05fca2f600b5/7cd72f4e-0874-4960-afd5-5970ff45a3b8")
-		(sheetname "2COL18")
+		(sheetname "/2COL18/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -80151,7 +80151,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/be907a4d-a396-4272-b0df-05ff2f56b57e/1982fb65-599a-4e8d-a8b5-cc0a21b7b7bd")
-		(sheetname "2COL11")
+		(sheetname "/2COL11/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -80350,7 +80350,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b9cb9299-3734-4ccc-9ff1-c1296145620c/d6fff41c-3f95-4ebe-8fb7-cccec25a209c")
-		(sheetname "2COL16")
+		(sheetname "/2COL16/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -80549,7 +80549,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/d992c3de-3e6e-4052-9c20-641353e676af/49c9ddf6-15b2-47c8-907c-a648dcfa2bbf")
-		(sheetname "2COL13")
+		(sheetname "/2COL13/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -80748,7 +80748,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/2e2266d2-2f9c-4d9b-bd68-82606f2964e3/5b2a4689-9de4-4efc-beb9-db3c5f919a8b")
-		(sheetname "2COL20")
+		(sheetname "/2COL20/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -80947,7 +80947,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/03d65d08-44c1-477d-9a40-f7eae0f14d68/1b1a5626-9122-49dd-b379-98ff4318a63a")
-		(sheetname "2COL19")
+		(sheetname "/2COL19/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -81146,7 +81146,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b9cb9299-3734-4ccc-9ff1-c1296145620c/8c99229a-fdfa-4679-8d45-48315e234d8e")
-		(sheetname "2COL16")
+		(sheetname "/2COL16/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -81345,7 +81345,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b8e383d1-95bc-4d93-8024-df226022d503/24cb540b-7285-4c5b-afef-eedfaf3a4374")
-		(sheetname "2COL14")
+		(sheetname "/2COL14/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -81544,7 +81544,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/8a4b1eeb-6c65-44fc-9bcc-8d7760055e6b/d176c282-15da-426a-acee-334a8532e0ef")
-		(sheetname "2COL1")
+		(sheetname "/2COL1/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -81743,7 +81743,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/77a30366-984c-468b-8cb1-b24dff7f3b5e/d176c282-15da-426a-acee-334a8532e0ef")
-		(sheetname "2COL3")
+		(sheetname "/2COL3/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -81942,7 +81942,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/62a62b7d-6c8c-4ce3-8661-307148d58c78/49c9ddf6-15b2-47c8-907c-a648dcfa2bbf")
-		(sheetname "2COL8")
+		(sheetname "/2COL8/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -82141,7 +82141,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/3ad744e8-cf0c-4668-9323-b64379d785cc/1982fb65-599a-4e8d-a8b5-cc0a21b7b7bd")
-		(sheetname "2COL15")
+		(sheetname "/2COL15/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -82340,7 +82340,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c58d9aaf-5253-4480-80ec-00539ac00bf4/8c99229a-fdfa-4679-8d45-48315e234d8e")
-		(sheetname "2COL7")
+		(sheetname "/2COL7/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -82539,7 +82539,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c58d9aaf-5253-4480-80ec-00539ac00bf4/1b1a5626-9122-49dd-b379-98ff4318a63a")
-		(sheetname "2COL7")
+		(sheetname "/2COL7/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -82738,7 +82738,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/77a30366-984c-468b-8cb1-b24dff7f3b5e/22b66d53-0d23-4b6c-a11e-f5df7413a700")
-		(sheetname "2COL3")
+		(sheetname "/2COL3/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -82937,7 +82937,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a9271470-c391-4928-b6bc-d4224586cc3c/9e6a5bf5-33cb-4620-811e-11cfcd7fc146")
-		(sheetname "2COL6")
+		(sheetname "/2COL6/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -83136,7 +83136,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/62a62b7d-6c8c-4ce3-8661-307148d58c78/9e6a5bf5-33cb-4620-811e-11cfcd7fc146")
-		(sheetname "2COL8")
+		(sheetname "/2COL8/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -83335,7 +83335,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a9271470-c391-4928-b6bc-d4224586cc3c/6b258651-d8c4-4abb-882a-419616d8c3c1")
-		(sheetname "2COL6")
+		(sheetname "/2COL6/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -83534,7 +83534,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/eb8ad849-22df-404f-9fe5-43ac27e6f7d2/1982fb65-599a-4e8d-a8b5-cc0a21b7b7bd")
-		(sheetname "2COL2")
+		(sheetname "/2COL2/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -83733,7 +83733,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/6cf8e435-006d-4a2a-930e-b9a7913b2046/8c99229a-fdfa-4679-8d45-48315e234d8e")
-		(sheetname "2COL17")
+		(sheetname "/2COL17/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -83932,7 +83932,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/6cf8e435-006d-4a2a-930e-b9a7913b2046/cda99501-91fd-4137-b1a1-83b439e4d0de")
-		(sheetname "2COL17")
+		(sheetname "/2COL17/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -84131,7 +84131,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/62a62b7d-6c8c-4ce3-8661-307148d58c78/7cd72f4e-0874-4960-afd5-5970ff45a3b8")
-		(sheetname "2COL8")
+		(sheetname "/2COL8/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -84330,7 +84330,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/6cf8e435-006d-4a2a-930e-b9a7913b2046/6f1ba253-96c1-4d5b-b8ba-165b458f3375")
-		(sheetname "2COL17")
+		(sheetname "/2COL17/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -84529,7 +84529,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/1959d7ce-8083-483c-95ea-ff4ede809429/158f05db-f22d-4dfe-9a73-01c6399677e7")
-		(sheetname "2COL5")
+		(sheetname "/2COL5/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -84728,7 +84728,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f84dd1ae-e2ab-4d18-ab78-3d437718915c/6b258651-d8c4-4abb-882a-419616d8c3c1")
-		(sheetname "2COL")
+		(sheetname "/2COL/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -84927,7 +84927,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c58d9aaf-5253-4480-80ec-00539ac00bf4/158f05db-f22d-4dfe-9a73-01c6399677e7")
-		(sheetname "2COL7")
+		(sheetname "/2COL7/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -85126,7 +85126,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/77a30366-984c-468b-8cb1-b24dff7f3b5e/158f05db-f22d-4dfe-9a73-01c6399677e7")
-		(sheetname "2COL3")
+		(sheetname "/2COL3/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -85325,7 +85325,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a9271470-c391-4928-b6bc-d4224586cc3c/7cd72f4e-0874-4960-afd5-5970ff45a3b8")
-		(sheetname "2COL6")
+		(sheetname "/2COL6/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -85524,7 +85524,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/136972b7-c8e2-45fa-a6ae-9dcf30fdb462/24cb540b-7285-4c5b-afef-eedfaf3a4374")
-		(sheetname "2COL21")
+		(sheetname "/2COL21/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -85723,7 +85723,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c58d9aaf-5253-4480-80ec-00539ac00bf4/9e6a5bf5-33cb-4620-811e-11cfcd7fc146")
-		(sheetname "2COL7")
+		(sheetname "/2COL7/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -85922,7 +85922,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/136972b7-c8e2-45fa-a6ae-9dcf30fdb462/c402b2ac-dfc9-4c7a-9dd2-9e8e8b1d09a6")
-		(sheetname "2COL21")
+		(sheetname "/2COL21/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -86121,7 +86121,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/8a4b1eeb-6c65-44fc-9bcc-8d7760055e6b/e34cccd6-d956-4e80-be68-e81a3e74191f")
-		(sheetname "2COL1")
+		(sheetname "/2COL1/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -86320,7 +86320,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/3ad744e8-cf0c-4668-9323-b64379d785cc/7cd72f4e-0874-4960-afd5-5970ff45a3b8")
-		(sheetname "2COL15")
+		(sheetname "/2COL15/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -86519,7 +86519,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/8a4b1eeb-6c65-44fc-9bcc-8d7760055e6b/d6fff41c-3f95-4ebe-8fb7-cccec25a209c")
-		(sheetname "2COL1")
+		(sheetname "/2COL1/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -86718,7 +86718,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/62a62b7d-6c8c-4ce3-8661-307148d58c78/d176c282-15da-426a-acee-334a8532e0ef")
-		(sheetname "2COL8")
+		(sheetname "/2COL8/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -86917,7 +86917,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/1959d7ce-8083-483c-95ea-ff4ede809429/49c9ddf6-15b2-47c8-907c-a648dcfa2bbf")
-		(sheetname "2COL5")
+		(sheetname "/2COL5/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -87116,7 +87116,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c3e318cc-fbfc-46c3-a8f5-c1ca4fe7f73a/1982fb65-599a-4e8d-a8b5-cc0a21b7b7bd")
-		(sheetname "2COL9")
+		(sheetname "/2COL9/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -87315,7 +87315,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/8a4b1eeb-6c65-44fc-9bcc-8d7760055e6b/22b66d53-0d23-4b6c-a11e-f5df7413a700")
-		(sheetname "2COL1")
+		(sheetname "/2COL1/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -87514,7 +87514,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b8e383d1-95bc-4d93-8024-df226022d503/1b1a5626-9122-49dd-b379-98ff4318a63a")
-		(sheetname "2COL14")
+		(sheetname "/2COL14/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -87713,7 +87713,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/03d65d08-44c1-477d-9a40-f7eae0f14d68/8c99229a-fdfa-4679-8d45-48315e234d8e")
-		(sheetname "2COL19")
+		(sheetname "/2COL19/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -87912,7 +87912,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b9cb9299-3734-4ccc-9ff1-c1296145620c/24cb540b-7285-4c5b-afef-eedfaf3a4374")
-		(sheetname "2COL16")
+		(sheetname "/2COL16/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -88111,7 +88111,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a9271470-c391-4928-b6bc-d4224586cc3c/8c99229a-fdfa-4679-8d45-48315e234d8e")
-		(sheetname "2COL6")
+		(sheetname "/2COL6/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -88310,7 +88310,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/eb8ad849-22df-404f-9fe5-43ac27e6f7d2/ad44a3e1-e129-476b-872c-5c8a78192435")
-		(sheetname "2COL2")
+		(sheetname "/2COL2/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -88509,7 +88509,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/089ab465-6e04-4c47-b1e0-ff3ee886a87d/5b2a4689-9de4-4efc-beb9-db3c5f919a8b")
-		(sheetname "2COL12")
+		(sheetname "/2COL12/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -88708,7 +88708,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/8a4b1eeb-6c65-44fc-9bcc-8d7760055e6b/fb6779e9-6c6d-4776-b210-2ac9f162af0f")
-		(sheetname "2COL1")
+		(sheetname "/2COL1/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -88907,7 +88907,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/be907a4d-a396-4272-b0df-05ff2f56b57e/7cd72f4e-0874-4960-afd5-5970ff45a3b8")
-		(sheetname "2COL11")
+		(sheetname "/2COL11/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -89106,7 +89106,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/3ad744e8-cf0c-4668-9323-b64379d785cc/6f1ba253-96c1-4d5b-b8ba-165b458f3375")
-		(sheetname "2COL15")
+		(sheetname "/2COL15/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -89305,7 +89305,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/d992c3de-3e6e-4052-9c20-641353e676af/8c99229a-fdfa-4679-8d45-48315e234d8e")
-		(sheetname "2COL13")
+		(sheetname "/2COL13/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -89504,7 +89504,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/d992c3de-3e6e-4052-9c20-641353e676af/158f05db-f22d-4dfe-9a73-01c6399677e7")
-		(sheetname "2COL13")
+		(sheetname "/2COL13/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -89703,7 +89703,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/2e2266d2-2f9c-4d9b-bd68-82606f2964e3/9e6a5bf5-33cb-4620-811e-11cfcd7fc146")
-		(sheetname "2COL20")
+		(sheetname "/2COL20/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -89902,7 +89902,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/03d65d08-44c1-477d-9a40-f7eae0f14d68/d6fff41c-3f95-4ebe-8fb7-cccec25a209c")
-		(sheetname "2COL19")
+		(sheetname "/2COL19/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -90101,7 +90101,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/3ad744e8-cf0c-4668-9323-b64379d785cc/cda99501-91fd-4137-b1a1-83b439e4d0de")
-		(sheetname "2COL15")
+		(sheetname "/2COL15/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -90300,7 +90300,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c58d9aaf-5253-4480-80ec-00539ac00bf4/ad44a3e1-e129-476b-872c-5c8a78192435")
-		(sheetname "2COL7")
+		(sheetname "/2COL7/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -90499,7 +90499,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f84dd1ae-e2ab-4d18-ab78-3d437718915c/42d50e37-4827-4dfb-8f71-901f8591bb07")
-		(sheetname "2COL")
+		(sheetname "/2COL/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -90698,7 +90698,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/77a30366-984c-468b-8cb1-b24dff7f3b5e/5b2a4689-9de4-4efc-beb9-db3c5f919a8b")
-		(sheetname "2COL3")
+		(sheetname "/2COL3/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -90897,7 +90897,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a9271470-c391-4928-b6bc-d4224586cc3c/c402b2ac-dfc9-4c7a-9dd2-9e8e8b1d09a6")
-		(sheetname "2COL6")
+		(sheetname "/2COL6/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -91096,7 +91096,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a9271470-c391-4928-b6bc-d4224586cc3c/d6fff41c-3f95-4ebe-8fb7-cccec25a209c")
-		(sheetname "2COL6")
+		(sheetname "/2COL6/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -91295,7 +91295,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/03d65d08-44c1-477d-9a40-f7eae0f14d68/22b66d53-0d23-4b6c-a11e-f5df7413a700")
-		(sheetname "2COL19")
+		(sheetname "/2COL19/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -91494,7 +91494,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/23d5c24b-a6f9-435b-80b9-05fca2f600b5/e34cccd6-d956-4e80-be68-e81a3e74191f")
-		(sheetname "2COL18")
+		(sheetname "/2COL18/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -91693,7 +91693,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/1959d7ce-8083-483c-95ea-ff4ede809429/e34cccd6-d956-4e80-be68-e81a3e74191f")
-		(sheetname "2COL5")
+		(sheetname "/2COL5/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -91892,7 +91892,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/8a4b1eeb-6c65-44fc-9bcc-8d7760055e6b/e057aeb3-0ff8-494b-b172-4e901f36e5c4")
-		(sheetname "2COL1")
+		(sheetname "/2COL1/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -92091,7 +92091,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/3ad744e8-cf0c-4668-9323-b64379d785cc/b3015f12-6144-4394-8210-3a9ce268da4d")
-		(sheetname "2COL15")
+		(sheetname "/2COL15/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -92290,7 +92290,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/1959d7ce-8083-483c-95ea-ff4ede809429/1982fb65-599a-4e8d-a8b5-cc0a21b7b7bd")
-		(sheetname "2COL5")
+		(sheetname "/2COL5/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -92489,7 +92489,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/62a62b7d-6c8c-4ce3-8661-307148d58c78/158f05db-f22d-4dfe-9a73-01c6399677e7")
-		(sheetname "2COL8")
+		(sheetname "/2COL8/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -92688,7 +92688,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/180b4ec4-74b9-40a8-a57c-1f304bdc23f2/1982fb65-599a-4e8d-a8b5-cc0a21b7b7bd")
-		(sheetname "2COL4")
+		(sheetname "/2COL4/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -92887,7 +92887,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/180b4ec4-74b9-40a8-a57c-1f304bdc23f2/1b1a5626-9122-49dd-b379-98ff4318a63a")
-		(sheetname "2COL4")
+		(sheetname "/2COL4/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -93086,7 +93086,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/62a62b7d-6c8c-4ce3-8661-307148d58c78/fb6779e9-6c6d-4776-b210-2ac9f162af0f")
-		(sheetname "2COL8")
+		(sheetname "/2COL8/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -93285,7 +93285,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/03d65d08-44c1-477d-9a40-f7eae0f14d68/d176c282-15da-426a-acee-334a8532e0ef")
-		(sheetname "2COL19")
+		(sheetname "/2COL19/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -93484,7 +93484,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/be907a4d-a396-4272-b0df-05ff2f56b57e/49c9ddf6-15b2-47c8-907c-a648dcfa2bbf")
-		(sheetname "2COL11")
+		(sheetname "/2COL11/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -93683,7 +93683,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/136972b7-c8e2-45fa-a6ae-9dcf30fdb462/d6fff41c-3f95-4ebe-8fb7-cccec25a209c")
-		(sheetname "2COL21")
+		(sheetname "/2COL21/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -93882,7 +93882,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/089ab465-6e04-4c47-b1e0-ff3ee886a87d/7cd72f4e-0874-4960-afd5-5970ff45a3b8")
-		(sheetname "2COL12")
+		(sheetname "/2COL12/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -94081,7 +94081,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/23d5c24b-a6f9-435b-80b9-05fca2f600b5/d6fff41c-3f95-4ebe-8fb7-cccec25a209c")
-		(sheetname "2COL18")
+		(sheetname "/2COL18/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -94280,7 +94280,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/136972b7-c8e2-45fa-a6ae-9dcf30fdb462/e057aeb3-0ff8-494b-b172-4e901f36e5c4")
-		(sheetname "2COL21")
+		(sheetname "/2COL21/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -94479,7 +94479,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b7012996-f84a-405a-b303-5c1de1b3b0ec/158f05db-f22d-4dfe-9a73-01c6399677e7")
-		(sheetname "2COL10")
+		(sheetname "/2COL10/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -94678,7 +94678,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/d992c3de-3e6e-4052-9c20-641353e676af/9e6a5bf5-33cb-4620-811e-11cfcd7fc146")
-		(sheetname "2COL13")
+		(sheetname "/2COL13/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -94877,7 +94877,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/77a30366-984c-468b-8cb1-b24dff7f3b5e/b3015f12-6144-4394-8210-3a9ce268da4d")
-		(sheetname "2COL3")
+		(sheetname "/2COL3/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -95076,7 +95076,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/3ad744e8-cf0c-4668-9323-b64379d785cc/6b258651-d8c4-4abb-882a-419616d8c3c1")
-		(sheetname "2COL15")
+		(sheetname "/2COL15/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -95275,7 +95275,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c58d9aaf-5253-4480-80ec-00539ac00bf4/6f1ba253-96c1-4d5b-b8ba-165b458f3375")
-		(sheetname "2COL7")
+		(sheetname "/2COL7/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -95474,7 +95474,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/089ab465-6e04-4c47-b1e0-ff3ee886a87d/9e6a5bf5-33cb-4620-811e-11cfcd7fc146")
-		(sheetname "2COL12")
+		(sheetname "/2COL12/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -95673,7 +95673,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b7012996-f84a-405a-b303-5c1de1b3b0ec/1b1a5626-9122-49dd-b379-98ff4318a63a")
-		(sheetname "2COL10")
+		(sheetname "/2COL10/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -95872,7 +95872,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/3ad744e8-cf0c-4668-9323-b64379d785cc/d6fff41c-3f95-4ebe-8fb7-cccec25a209c")
-		(sheetname "2COL15")
+		(sheetname "/2COL15/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -96071,7 +96071,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/77a30366-984c-468b-8cb1-b24dff7f3b5e/6b258651-d8c4-4abb-882a-419616d8c3c1")
-		(sheetname "2COL3")
+		(sheetname "/2COL3/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -96270,7 +96270,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/180b4ec4-74b9-40a8-a57c-1f304bdc23f2/d176c282-15da-426a-acee-334a8532e0ef")
-		(sheetname "2COL4")
+		(sheetname "/2COL4/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -96469,7 +96469,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/03d65d08-44c1-477d-9a40-f7eae0f14d68/158f05db-f22d-4dfe-9a73-01c6399677e7")
-		(sheetname "2COL19")
+		(sheetname "/2COL19/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -96668,7 +96668,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/180b4ec4-74b9-40a8-a57c-1f304bdc23f2/5b2a4689-9de4-4efc-beb9-db3c5f919a8b")
-		(sheetname "2COL4")
+		(sheetname "/2COL4/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -96867,7 +96867,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/23d5c24b-a6f9-435b-80b9-05fca2f600b5/fb6779e9-6c6d-4776-b210-2ac9f162af0f")
-		(sheetname "2COL18")
+		(sheetname "/2COL18/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -97066,7 +97066,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/136972b7-c8e2-45fa-a6ae-9dcf30fdb462/22b66d53-0d23-4b6c-a11e-f5df7413a700")
-		(sheetname "2COL21")
+		(sheetname "/2COL21/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -97265,7 +97265,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b7012996-f84a-405a-b303-5c1de1b3b0ec/24cb540b-7285-4c5b-afef-eedfaf3a4374")
-		(sheetname "2COL10")
+		(sheetname "/2COL10/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -97464,7 +97464,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c3e318cc-fbfc-46c3-a8f5-c1ca4fe7f73a/cda99501-91fd-4137-b1a1-83b439e4d0de")
-		(sheetname "2COL9")
+		(sheetname "/2COL9/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -97663,7 +97663,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b7012996-f84a-405a-b303-5c1de1b3b0ec/9e6a5bf5-33cb-4620-811e-11cfcd7fc146")
-		(sheetname "2COL10")
+		(sheetname "/2COL10/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -97862,7 +97862,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/eb8ad849-22df-404f-9fe5-43ac27e6f7d2/e34cccd6-d956-4e80-be68-e81a3e74191f")
-		(sheetname "2COL2")
+		(sheetname "/2COL2/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -98061,7 +98061,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c3e318cc-fbfc-46c3-a8f5-c1ca4fe7f73a/49c9ddf6-15b2-47c8-907c-a648dcfa2bbf")
-		(sheetname "2COL9")
+		(sheetname "/2COL9/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -98260,7 +98260,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b9cb9299-3734-4ccc-9ff1-c1296145620c/ad44a3e1-e129-476b-872c-5c8a78192435")
-		(sheetname "2COL16")
+		(sheetname "/2COL16/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -98459,7 +98459,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b7012996-f84a-405a-b303-5c1de1b3b0ec/49c9ddf6-15b2-47c8-907c-a648dcfa2bbf")
-		(sheetname "2COL10")
+		(sheetname "/2COL10/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -98658,7 +98658,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/23d5c24b-a6f9-435b-80b9-05fca2f600b5/24cb540b-7285-4c5b-afef-eedfaf3a4374")
-		(sheetname "2COL18")
+		(sheetname "/2COL18/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -98857,7 +98857,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/77a30366-984c-468b-8cb1-b24dff7f3b5e/e057aeb3-0ff8-494b-b172-4e901f36e5c4")
-		(sheetname "2COL3")
+		(sheetname "/2COL3/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -99056,7 +99056,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/6cf8e435-006d-4a2a-930e-b9a7913b2046/6b258651-d8c4-4abb-882a-419616d8c3c1")
-		(sheetname "2COL17")
+		(sheetname "/2COL17/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -99255,7 +99255,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b8e383d1-95bc-4d93-8024-df226022d503/c402b2ac-dfc9-4c7a-9dd2-9e8e8b1d09a6")
-		(sheetname "2COL14")
+		(sheetname "/2COL14/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -99454,7 +99454,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c58d9aaf-5253-4480-80ec-00539ac00bf4/22b66d53-0d23-4b6c-a11e-f5df7413a700")
-		(sheetname "2COL7")
+		(sheetname "/2COL7/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -99653,7 +99653,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f84dd1ae-e2ab-4d18-ab78-3d437718915c/6f1ba253-96c1-4d5b-b8ba-165b458f3375")
-		(sheetname "2COL")
+		(sheetname "/2COL/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -99852,7 +99852,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/2e2266d2-2f9c-4d9b-bd68-82606f2964e3/b3015f12-6144-4394-8210-3a9ce268da4d")
-		(sheetname "2COL20")
+		(sheetname "/2COL20/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -100051,7 +100051,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/2e2266d2-2f9c-4d9b-bd68-82606f2964e3/fb6779e9-6c6d-4776-b210-2ac9f162af0f")
-		(sheetname "2COL20")
+		(sheetname "/2COL20/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -100250,7 +100250,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/03d65d08-44c1-477d-9a40-f7eae0f14d68/1982fb65-599a-4e8d-a8b5-cc0a21b7b7bd")
-		(sheetname "2COL19")
+		(sheetname "/2COL19/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -100449,7 +100449,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b8e383d1-95bc-4d93-8024-df226022d503/8c99229a-fdfa-4679-8d45-48315e234d8e")
-		(sheetname "2COL14")
+		(sheetname "/2COL14/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -100648,7 +100648,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/62a62b7d-6c8c-4ce3-8661-307148d58c78/c402b2ac-dfc9-4c7a-9dd2-9e8e8b1d09a6")
-		(sheetname "2COL8")
+		(sheetname "/2COL8/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -100847,7 +100847,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/eb8ad849-22df-404f-9fe5-43ac27e6f7d2/22b66d53-0d23-4b6c-a11e-f5df7413a700")
-		(sheetname "2COL2")
+		(sheetname "/2COL2/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -101046,7 +101046,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/089ab465-6e04-4c47-b1e0-ff3ee886a87d/b3015f12-6144-4394-8210-3a9ce268da4d")
-		(sheetname "2COL12")
+		(sheetname "/2COL12/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -101245,7 +101245,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a9271470-c391-4928-b6bc-d4224586cc3c/22b66d53-0d23-4b6c-a11e-f5df7413a700")
-		(sheetname "2COL6")
+		(sheetname "/2COL6/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -101444,7 +101444,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/6cf8e435-006d-4a2a-930e-b9a7913b2046/1982fb65-599a-4e8d-a8b5-cc0a21b7b7bd")
-		(sheetname "2COL17")
+		(sheetname "/2COL17/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -101643,7 +101643,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/136972b7-c8e2-45fa-a6ae-9dcf30fdb462/7cd72f4e-0874-4960-afd5-5970ff45a3b8")
-		(sheetname "2COL21")
+		(sheetname "/2COL21/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -101842,7 +101842,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b9cb9299-3734-4ccc-9ff1-c1296145620c/b3015f12-6144-4394-8210-3a9ce268da4d")
-		(sheetname "2COL16")
+		(sheetname "/2COL16/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -102041,7 +102041,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f84dd1ae-e2ab-4d18-ab78-3d437718915c/22b66d53-0d23-4b6c-a11e-f5df7413a700")
-		(sheetname "2COL")
+		(sheetname "/2COL/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -102240,7 +102240,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b9cb9299-3734-4ccc-9ff1-c1296145620c/e057aeb3-0ff8-494b-b172-4e901f36e5c4")
-		(sheetname "2COL16")
+		(sheetname "/2COL16/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -102439,7 +102439,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c3e318cc-fbfc-46c3-a8f5-c1ca4fe7f73a/b3015f12-6144-4394-8210-3a9ce268da4d")
-		(sheetname "2COL9")
+		(sheetname "/2COL9/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -102638,7 +102638,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/089ab465-6e04-4c47-b1e0-ff3ee886a87d/cda99501-91fd-4137-b1a1-83b439e4d0de")
-		(sheetname "2COL12")
+		(sheetname "/2COL12/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -102837,7 +102837,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/180b4ec4-74b9-40a8-a57c-1f304bdc23f2/22b66d53-0d23-4b6c-a11e-f5df7413a700")
-		(sheetname "2COL4")
+		(sheetname "/2COL4/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -103036,7 +103036,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/136972b7-c8e2-45fa-a6ae-9dcf30fdb462/6f1ba253-96c1-4d5b-b8ba-165b458f3375")
-		(sheetname "2COL21")
+		(sheetname "/2COL21/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -103235,7 +103235,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f84dd1ae-e2ab-4d18-ab78-3d437718915c/5b2a4689-9de4-4efc-beb9-db3c5f919a8b")
-		(sheetname "2COL")
+		(sheetname "/2COL/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -103434,7 +103434,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b7012996-f84a-405a-b303-5c1de1b3b0ec/c402b2ac-dfc9-4c7a-9dd2-9e8e8b1d09a6")
-		(sheetname "2COL10")
+		(sheetname "/2COL10/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -103633,7 +103633,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b9cb9299-3734-4ccc-9ff1-c1296145620c/42d50e37-4827-4dfb-8f71-901f8591bb07")
-		(sheetname "2COL16")
+		(sheetname "/2COL16/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -103832,7 +103832,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/1959d7ce-8083-483c-95ea-ff4ede809429/22b66d53-0d23-4b6c-a11e-f5df7413a700")
-		(sheetname "2COL5")
+		(sheetname "/2COL5/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -104031,7 +104031,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/136972b7-c8e2-45fa-a6ae-9dcf30fdb462/42d50e37-4827-4dfb-8f71-901f8591bb07")
-		(sheetname "2COL21")
+		(sheetname "/2COL21/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -104230,7 +104230,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/180b4ec4-74b9-40a8-a57c-1f304bdc23f2/cda99501-91fd-4137-b1a1-83b439e4d0de")
-		(sheetname "2COL4")
+		(sheetname "/2COL4/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -104429,7 +104429,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/2e2266d2-2f9c-4d9b-bd68-82606f2964e3/1b1a5626-9122-49dd-b379-98ff4318a63a")
-		(sheetname "2COL20")
+		(sheetname "/2COL20/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -104628,7 +104628,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/6cf8e435-006d-4a2a-930e-b9a7913b2046/158f05db-f22d-4dfe-9a73-01c6399677e7")
-		(sheetname "2COL17")
+		(sheetname "/2COL17/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -104827,7 +104827,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b7012996-f84a-405a-b303-5c1de1b3b0ec/d6fff41c-3f95-4ebe-8fb7-cccec25a209c")
-		(sheetname "2COL10")
+		(sheetname "/2COL10/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -105026,7 +105026,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/03d65d08-44c1-477d-9a40-f7eae0f14d68/6b258651-d8c4-4abb-882a-419616d8c3c1")
-		(sheetname "2COL19")
+		(sheetname "/2COL19/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -105225,7 +105225,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/2e2266d2-2f9c-4d9b-bd68-82606f2964e3/e057aeb3-0ff8-494b-b172-4e901f36e5c4")
-		(sheetname "2COL20")
+		(sheetname "/2COL20/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -105424,7 +105424,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c3e318cc-fbfc-46c3-a8f5-c1ca4fe7f73a/7cd72f4e-0874-4960-afd5-5970ff45a3b8")
-		(sheetname "2COL9")
+		(sheetname "/2COL9/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -105623,7 +105623,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/23d5c24b-a6f9-435b-80b9-05fca2f600b5/e057aeb3-0ff8-494b-b172-4e901f36e5c4")
-		(sheetname "2COL18")
+		(sheetname "/2COL18/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -105822,7 +105822,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f84dd1ae-e2ab-4d18-ab78-3d437718915c/fb6779e9-6c6d-4776-b210-2ac9f162af0f")
-		(sheetname "2COL")
+		(sheetname "/2COL/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -106021,7 +106021,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/d992c3de-3e6e-4052-9c20-641353e676af/ad44a3e1-e129-476b-872c-5c8a78192435")
-		(sheetname "2COL13")
+		(sheetname "/2COL13/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -106220,7 +106220,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b9cb9299-3734-4ccc-9ff1-c1296145620c/1982fb65-599a-4e8d-a8b5-cc0a21b7b7bd")
-		(sheetname "2COL16")
+		(sheetname "/2COL16/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -106419,7 +106419,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/77a30366-984c-468b-8cb1-b24dff7f3b5e/cda99501-91fd-4137-b1a1-83b439e4d0de")
-		(sheetname "2COL3")
+		(sheetname "/2COL3/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -106618,7 +106618,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b8e383d1-95bc-4d93-8024-df226022d503/ad44a3e1-e129-476b-872c-5c8a78192435")
-		(sheetname "2COL14")
+		(sheetname "/2COL14/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -106817,7 +106817,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c3e318cc-fbfc-46c3-a8f5-c1ca4fe7f73a/24cb540b-7285-4c5b-afef-eedfaf3a4374")
-		(sheetname "2COL9")
+		(sheetname "/2COL9/")
 		(sheetfile "2col.kicad_sch")
 		(attr smd)
 		(fp_line
