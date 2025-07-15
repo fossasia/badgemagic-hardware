@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "8.0.2-1.fc40"
+      "Version": "9.0.1-1.fc41"
     },
-    "CreationDate": "2025-03-27T00:29:42+07:00"
+    "CreationDate": "2025-07-12T12:53:15+07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -82,6 +82,8 @@
   "MaterialStackup": [
     {
       "Type": "Legend",
+      "Color": "White",
+      "Material": "Direct Printing",
       "Name": "Top Silk Screen"
     },
     {
@@ -90,6 +92,7 @@
     },
     {
       "Type": "SolderMask",
+      "Color": "Green",
       "Thickness": 0.01,
       "Name": "Top Solder Mask"
     },
@@ -100,6 +103,7 @@
     },
     {
       "Type": "Dielectric",
+      "Color": "R109G116B75",
       "Thickness": 0.71,
       "Material": "FR4",
       "Name": "F.Cu/B.Cu",
@@ -112,6 +116,7 @@
     },
     {
       "Type": "SolderMask",
+      "Color": "Green",
       "Thickness": 0.01,
       "Name": "Bottom Solder Mask"
     },
@@ -121,6 +126,8 @@
     },
     {
       "Type": "Legend",
+      "Color": "White",
+      "Material": "Direct Printing",
       "Name": "Bottom Silk Screen"
     }
   ]

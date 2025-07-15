@@ -1,7 +1,7 @@
 (footprint "microphone"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at 3.2 -0.62 0)
@@ -14,24 +14,11 @@
 			)
 		)
 	)
-	(property "Value" "microphone"
+	(property "Value" "SAMZO MIC-4013-G-G00"
 		(at -0.18 -4.71 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "b63f89c2-1997-446f-b1ae-36a3d6703945")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" "microphone"
-		(at -0.18 -5.71 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "85eefa08-4d55-4b0c-9e11-6f756fb92bda")
 		(effects
 			(font
 				(size 1 1)
@@ -73,7 +60,7 @@
 			(width 0.1)
 			(type default)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "8832b98e-071f-4633-9e1f-ac6e87785138")
 	)
@@ -84,7 +71,7 @@
 			(width 0.05)
 			(type default)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.CrtYd")
 		(uuid "b01f402a-22db-48bf-b00f-f404f4ebfbc8")
 	)
@@ -100,50 +87,51 @@
 			)
 		)
 	)
-	(pad "1" smd custom
-		(at -0.782998 -0.80493 150)
-		(size 0.55 0.55)
-		(layers "F.Cu" "F.Paste" "F.Mask")
-		(thermal_bridge_angle 90)
-		(options
-			(clearance outline)
-			(anchor circle)
-		)
-		(primitives
-			(gr_arc
-				(start 0.04237 -0.310585)
-				(mid 0 0)
-				(end -0.126568 0.286774)
-				(width 0.55)
-			)
-		)
-		(uuid "47071047-af95-4789-854f-e7257f40375c")
-	)
-	(pad "1" smd custom
-		(at 0.829669 0.744418 150)
-		(size 0.55 0.55)
-		(layers "F.Cu" "F.Paste" "F.Mask")
-		(thermal_bridge_angle 90)
-		(options
-			(clearance outline)
-			(anchor circle)
-		)
-		(primitives
-			(gr_arc
-				(start 1.14173 1.378198)
-				(mid -0.000001 0.000002)
-				(end 1.640223 -0.715986)
-				(width 0.55)
-			)
-		)
-		(uuid "41e8208a-64ac-4054-98aa-9fecd3a2f835")
-	)
-	(pad "2" smd circle
+	(pad "1" smd circle
 		(at 0 0)
 		(size 0.9 0.9)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "9b5a7a43-b1d8-4f06-ae83-30199999c64b")
 	)
+	(pad "2" smd custom
+		(at -0.629998 -1.21 150)
+		(size 0.2 0.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 90)
+		(options
+			(clearance outline)
+			(anchor circle)
+		)
+		(primitives
+			(gr_arc
+				(start 0.203989 -0.894458)
+				(mid 0.179441 -0.429568)
+				(end 0.000002 -0.000001)
+				(width 0.5)
+			)
+		)
+		(uuid "94d357c0-3196-4b54-aab3-1a67cd7a6c78")
+	)
+	(pad "2" smd custom
+		(at 0.469695 -1.288307 150)
+		(size 0.2 0.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 90)
+		(options
+			(clearance outline)
+			(anchor circle)
+		)
+		(primitives
+			(gr_arc
+				(start -0.107098 0.014499)
+				(mid -1.570866 -1.670202)
+				(end 0.497614 -2.50819)
+				(width 0.5)
+			)
+		)
+		(uuid "3115765f-7d8b-4c72-8341-02e79e98ca16")
+	)
+	(embedded_fonts no)
 	(model "${KIPRJMOD}/3dmodels/microphone.step"
 		(offset
 			(xyz 0 0 1.34)

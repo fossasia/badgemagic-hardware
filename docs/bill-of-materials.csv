@@ -5,7 +5,7 @@
 "J1","Conn_01x02","~","BadgeMagic:JST_1x02_P2.50mm_SMD_Horizontal","1"
 "J2","USB_C_Receptacle_USB2.0_16P","https://www.usb.org/sites/default/files/documents/usb_type-c.zip","BadgeMagic:USB_C_Receptacle_GCT_USB4110","1"
 "KEY1,KEY2,KEY3,KEY4","button","https://www.lcsc.com/product-detail/Tactile-Switches_HYP-Hongyuan-Precision-1TS003A-1800-3500A-CT_C255806.html","BadgeMagic:1TS003A-1800-3500A-CT","4"
-"MK1","GMI4015-2C-30db","https://datasheet.octopart.com/WM-64PCX-Panasonic-datasheet-13695803.pdf","BadgeMagic:microphone","1"
+"MK1","SAMZO MIC-4013-G-G00","https://lcsc.com/datasheet/lcsc_datasheet_2410281656_SAMZO-MIC-4013-G-G00_C42371093.pdf","BadgeMagic:microphone","1"
 "Q1","MMBT3904","https://www.onsemi.com/pdf/datasheet/pzt3904-d.pdf","Package_TO_SOT_SMD:SOT-23","1"
 "R1","182k","~","Resistor_SMD:R_0402_1005Metric","1"
 "R2","100k","~","Resistor_SMD:R_0402_1005Metric","1"
